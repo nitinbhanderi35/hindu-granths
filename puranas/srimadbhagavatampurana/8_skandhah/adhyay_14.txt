@@ -1,0 +1,57 @@
+<p>श्रीमद्‌भागवत महापुराण
+</p><p>अष्टमः स्कन्धः - चतुर्दशोऽध्यायः
+</p><p>
+मन्वादीनां पृथक् पृथक् कर्मनिरूपणम् -</p><center></center><p>श्रीराजोवाच -&nbsp;
+</p><p>(अनुष्टुप्)&nbsp;
+</p><p>मन्वन्तरेषु भगवन् यथा मन्वादयस्त्विमे ।&nbsp;
+</p><p>यस्मिन्कर्मणि ये येन नियुक्ताः तद् वदस्व मे ॥ १ ॥&nbsp;
+</p><p>श्रीऋषिरुवाच -&nbsp;
+</p><p>मनवो मनुपुत्राश्च मुनयश्च महीपते ।&nbsp;
+</p><p>इन्द्राः सुरगणाश्चैव सर्वे पुरुषशासनाः ॥ २ ॥&nbsp;
+</p><p>यज्ञादयो याः कथिताः पौरुष्यस्तनवो नृप ।&nbsp;
+</p><p>मन्वादयो जगद् यात्रां नयन्त्याभिः प्रचोदिताः ॥ ३ ॥&nbsp;
+</p><p>चतुर्युगान्ते कालेन ग्रस्तान् श्रुतिगणान्यथा ।&nbsp;
+</p><p>तपसा ऋषयोऽपश्यन् यतो धर्मः सनातनः ॥ ४ ॥&nbsp;
+</p><p>ततो धर्मं चतुष्पादं मनवो हरिणोदिताः ।&nbsp;
+</p><p>युक्ताः सञ्चारयन्ति अद्धा स्वे स्वे काले महीं नृप ॥ ५ ॥&nbsp;
+</p><p>पालयन्ति प्रजापाला यावदन्तं विभागशः ।&nbsp;
+</p><p>यज्ञभागभुजो देवा ये च तत्र अन्विताश्च तैः ॥ ६ ॥&nbsp;
+</p><p>इन्द्रो भगवता दत्तां त्रैलोक्यश्रियमूर्जिताम् ।&nbsp;
+</p><p>भुञ्जानः पाति लोकान् त्रीन् कामं लोके प्रवर्षति ॥ ७ ॥&nbsp;
+</p><p>ज्ञानं चानुयुगं ब्रूते हरिः सिद्धस्वरूपधृक् ।&nbsp;
+</p><p>ऋषिरूपधरः कर्म योगं योगेशरूपधृक् ॥ ८ ॥&nbsp;
+</p><p>सर्गं प्रजेशरूपेण दस्यून् हन्यात् स्वराड्वपुः ।&nbsp;
+</p><p>कालरूपेण सर्वेषां अभावाय पृथग्गुणः ॥ ९ ॥&nbsp;
+</p><p>स्तूयमानो जनैरेभिः मायया नामरूपया ।&nbsp;
+</p><p>विमोहितात्मभिर्नाना दर्शनैर्न च दृश्यते ॥ १० ॥&nbsp;
+</p><p>एतत्कल्पविकल्पस्य प्रमाणं परिकीर्तितम् ।&nbsp;
+</p><p>यत्र मन्वन्तराण्याहुः चतुर्दश पुराविदः ॥ ११ ॥&nbsp;
+</p><p>इति श्रीमद्‌भागवते महापुराणे पारमहंस्यां संहितायां&nbsp;
+</p><p>अष्टमस्कन्धे चतुर्दशोऽध्यायः ॥ १४ ॥&nbsp;
+</p><p>हरिः ॐ तत्सत् श्रीकृष्णार्पणमस्तु ॥&nbsp;
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2391
+Cached time: 20231014172943
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.002 seconds
+Real time usage: 0.004 seconds
+Preprocessor visited node count: 1/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key sawikisource:pcache:idhash:46908-0!canonical and timestamp 20231014172943 and revision id 106475. Rendering was triggered because: page-view
+ -->
