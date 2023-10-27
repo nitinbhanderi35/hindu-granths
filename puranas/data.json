@@ -1,1556 +1,1940 @@
 {
   "name": "puranas",
   "type": "folder",
-  "label":"पुराणानि",
+  "label": "पुराणानि",
   "children": [
     {
       "name": "agnipuranam",
       "type": "folder",
-      "label":"अग्निपुराणम्",
+      "label": "अग्निपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
+          "label": "अध्यायः 1",
           "type": "file"
         },
         {
           "name": "adhyay_10.txt",
+          "label": "अध्यायः 10",
           "type": "file"
         },
         {
           "name": "adhyay_100.txt",
+          "label": "अध्यायः 100",
           "type": "file"
         },
         {
           "name": "adhyay_101.txt",
+          "label": "अध्यायः 101",
           "type": "file"
         },
         {
           "name": "adhyay_102.txt",
+          "label": "अध्यायः 102",
           "type": "file"
         },
         {
           "name": "adhyay_103.txt",
+          "label": "अध्यायः 103",
           "type": "file"
         },
         {
           "name": "adhyay_104.txt",
+          "label": "अध्यायः 104",
           "type": "file"
         },
         {
           "name": "adhyay_105.txt",
+          "label": "अध्यायः 105",
           "type": "file"
         },
         {
           "name": "adhyay_106.txt",
+          "label": "अध्यायः 106",
           "type": "file"
         },
         {
           "name": "adhyay_107.txt",
+          "label": "अध्यायः 107",
           "type": "file"
         },
         {
           "name": "adhyay_108.txt",
+          "label": "अध्यायः 108",
           "type": "file"
         },
         {
           "name": "adhyay_109.txt",
+          "label": "अध्यायः 109",
           "type": "file"
         },
         {
           "name": "adhyay_11.txt",
+          "label": "अध्यायः 11",
           "type": "file"
         },
         {
           "name": "adhyay_110.txt",
+          "label": "अध्यायः 110",
           "type": "file"
         },
         {
           "name": "adhyay_111.txt",
+          "label": "अध्यायः 111",
           "type": "file"
         },
         {
           "name": "adhyay_112.txt",
+          "label": "अध्यायः 112",
           "type": "file"
         },
         {
           "name": "adhyay_113.txt",
+          "label": "अध्यायः 113",
           "type": "file"
         },
         {
           "name": "adhyay_114.txt",
+          "label": "अध्यायः 114",
           "type": "file"
         },
         {
           "name": "adhyay_115.txt",
+          "label": "अध्यायः 115",
           "type": "file"
         },
         {
           "name": "adhyay_116.txt",
+          "label": "अध्यायः 116",
           "type": "file"
         },
         {
           "name": "adhyay_117.txt",
+          "label": "अध्यायः 117",
           "type": "file"
         },
         {
           "name": "adhyay_118.txt",
+          "label": "अध्यायः 118",
           "type": "file"
         },
         {
           "name": "adhyay_119.txt",
+          "label": "अध्यायः 119",
           "type": "file"
         },
         {
           "name": "adhyay_12.txt",
+          "label": "अध्यायः 12",
           "type": "file"
         },
         {
           "name": "adhyay_120.txt",
+          "label": "अध्यायः 120",
           "type": "file"
         },
         {
           "name": "adhyay_121.txt",
+          "label": "अध्यायः 121",
           "type": "file"
         },
         {
           "name": "adhyay_122.txt",
+          "label": "अध्यायः 122",
           "type": "file"
         },
         {
           "name": "adhyay_123.txt",
+          "label": "अध्यायः 123",
           "type": "file"
         },
         {
           "name": "adhyay_124.txt",
+          "label": "अध्यायः 124",
           "type": "file"
         },
         {
           "name": "adhyay_125.txt",
+          "label": "अध्यायः 125",
           "type": "file"
         },
         {
           "name": "adhyay_126.txt",
+          "label": "अध्यायः 126",
           "type": "file"
         },
         {
           "name": "adhyay_127.txt",
+          "label": "अध्यायः 127",
           "type": "file"
         },
         {
           "name": "adhyay_128.txt",
+          "label": "अध्यायः 128",
           "type": "file"
         },
         {
           "name": "adhyay_129.txt",
+          "label": "अध्यायः 129",
           "type": "file"
         },
         {
           "name": "adhyay_13.txt",
+          "label": "अध्यायः 13",
           "type": "file"
         },
         {
           "name": "adhyay_130.txt",
+          "label": "अध्यायः 130",
           "type": "file"
         },
         {
           "name": "adhyay_131.txt",
+          "label": "अध्यायः 131",
           "type": "file"
         },
         {
           "name": "adhyay_132.txt",
+          "label": "अध्यायः 132",
           "type": "file"
         },
         {
           "name": "adhyay_133.txt",
+          "label": "अध्यायः 133",
           "type": "file"
         },
         {
           "name": "adhyay_134.txt",
+          "label": "अध्यायः 134",
           "type": "file"
         },
         {
           "name": "adhyay_135.txt",
+          "label": "अध्यायः 135",
           "type": "file"
         },
         {
           "name": "adhyay_136.txt",
+          "label": "अध्यायः 136",
           "type": "file"
         },
         {
           "name": "adhyay_137.txt",
+          "label": "अध्यायः 137",
           "type": "file"
         },
         {
           "name": "adhyay_138.txt",
+          "label": "अध्यायः 138",
           "type": "file"
         },
         {
           "name": "adhyay_139.txt",
+          "label": "अध्यायः 139",
           "type": "file"
         },
         {
           "name": "adhyay_14.txt",
+          "label": "अध्यायः 14",
           "type": "file"
         },
         {
           "name": "adhyay_140.txt",
+          "label": "अध्यायः 140",
           "type": "file"
         },
         {
           "name": "adhyay_141.txt",
+          "label": "अध्यायः 141",
           "type": "file"
         },
         {
           "name": "adhyay_142.txt",
+          "label": "अध्यायः 142",
           "type": "file"
         },
         {
           "name": "adhyay_143.txt",
+          "label": "अध्यायः 143",
           "type": "file"
         },
         {
           "name": "adhyay_144.txt",
+          "label": "अध्यायः 144",
           "type": "file"
         },
         {
           "name": "adhyay_145.txt",
+          "label": "अध्यायः 145",
           "type": "file"
         },
         {
           "name": "adhyay_146.txt",
+          "label": "अध्यायः 146",
           "type": "file"
         },
         {
           "name": "adhyay_147.txt",
+          "label": "अध्यायः 147",
           "type": "file"
         },
         {
           "name": "adhyay_148.txt",
+          "label": "अध्यायः 148",
           "type": "file"
         },
         {
           "name": "adhyay_149.txt",
+          "label": "अध्यायः 149",
           "type": "file"
         },
         {
           "name": "adhyay_15.txt",
+          "label": "अध्यायः 15",
           "type": "file"
         },
         {
           "name": "adhyay_150.txt",
+          "label": "अध्यायः 150",
           "type": "file"
         },
         {
           "name": "adhyay_151.txt",
+          "label": "अध्यायः 151",
           "type": "file"
         },
         {
           "name": "adhyay_152.txt",
+          "label": "अध्यायः 152",
           "type": "file"
         },
         {
           "name": "adhyay_153.txt",
+          "label": "अध्यायः 153",
           "type": "file"
         },
         {
           "name": "adhyay_154.txt",
+          "label": "अध्यायः 154",
           "type": "file"
         },
         {
           "name": "adhyay_155.txt",
+          "label": "अध्यायः 155",
           "type": "file"
         },
         {
           "name": "adhyay_156.txt",
+          "label": "अध्यायः 156",
           "type": "file"
         },
         {
           "name": "adhyay_157.txt",
+          "label": "अध्यायः 157",
           "type": "file"
         },
         {
           "name": "adhyay_158.txt",
+          "label": "अध्यायः 158",
           "type": "file"
         },
         {
           "name": "adhyay_159.txt",
+          "label": "अध्यायः 159",
           "type": "file"
         },
         {
           "name": "adhyay_16.txt",
+          "label": "अध्यायः 16",
           "type": "file"
         },
         {
           "name": "adhyay_160.txt",
+          "label": "अध्यायः 160",
           "type": "file"
         },
         {
           "name": "adhyay_161.txt",
+          "label": "अध्यायः 161",
           "type": "file"
         },
         {
           "name": "adhyay_162.txt",
+          "label": "अध्यायः 162",
           "type": "file"
         },
         {
           "name": "adhyay_163.txt",
+          "label": "अध्यायः 163",
           "type": "file"
         },
         {
           "name": "adhyay_164.txt",
+          "label": "अध्यायः 164",
           "type": "file"
         },
         {
           "name": "adhyay_165.txt",
+          "label": "अध्यायः 165",
           "type": "file"
         },
         {
           "name": "adhyay_166.txt",
+          "label": "अध्यायः 166",
           "type": "file"
         },
         {
           "name": "adhyay_167.txt",
+          "label": "अध्यायः 167",
           "type": "file"
         },
         {
           "name": "adhyay_168.txt",
+          "label": "अध्यायः 168",
           "type": "file"
         },
         {
           "name": "adhyay_169.txt",
+          "label": "अध्यायः 169",
           "type": "file"
         },
         {
           "name": "adhyay_17.txt",
+          "label": "अध्यायः 17",
           "type": "file"
         },
         {
           "name": "adhyay_170.txt",
+          "label": "अध्यायः 170",
           "type": "file"
         },
         {
           "name": "adhyay_171.txt",
+          "label": "अध्यायः 171",
           "type": "file"
         },
         {
           "name": "adhyay_172.txt",
+          "label": "अध्यायः 172",
           "type": "file"
         },
         {
           "name": "adhyay_173.txt",
+          "label": "अध्यायः 173",
           "type": "file"
         },
         {
           "name": "adhyay_174.txt",
+          "label": "अध्यायः 174",
           "type": "file"
         },
         {
           "name": "adhyay_175.txt",
+          "label": "अध्यायः 175",
           "type": "file"
         },
         {
           "name": "adhyay_176.txt",
+          "label": "अध्यायः 176",
           "type": "file"
         },
         {
           "name": "adhyay_177.txt",
+          "label": "अध्यायः 177",
           "type": "file"
         },
         {
           "name": "adhyay_178.txt",
+          "label": "अध्यायः 178",
           "type": "file"
         },
         {
           "name": "adhyay_179.txt",
+          "label": "अध्यायः 179",
           "type": "file"
         },
         {
           "name": "adhyay_18.txt",
+          "label": "अध्यायः 18",
           "type": "file"
         },
         {
           "name": "adhyay_180.txt",
+          "label": "अध्यायः 180",
           "type": "file"
         },
         {
           "name": "adhyay_181.txt",
+          "label": "अध्यायः 181",
           "type": "file"
         },
         {
           "name": "adhyay_182.txt",
+          "label": "अध्यायः 182",
           "type": "file"
         },
         {
           "name": "adhyay_183.txt",
+          "label": "अध्यायः 183",
           "type": "file"
         },
         {
           "name": "adhyay_184.txt",
+          "label": "अध्यायः 184",
           "type": "file"
         },
         {
           "name": "adhyay_185.txt",
+          "label": "अध्यायः 185",
           "type": "file"
         },
         {
           "name": "adhyay_186.txt",
+          "label": "अध्यायः 186",
           "type": "file"
         },
         {
           "name": "adhyay_187.txt",
+          "label": "अध्यायः 187",
           "type": "file"
         },
         {
           "name": "adhyay_188.txt",
+          "label": "अध्यायः 188",
           "type": "file"
         },
         {
           "name": "adhyay_189.txt",
+          "label": "अध्यायः 189",
           "type": "file"
         },
         {
           "name": "adhyay_19.txt",
+          "label": "अध्यायः 19",
           "type": "file"
         },
         {
           "name": "adhyay_190.txt",
+          "label": "अध्यायः 190",
           "type": "file"
         },
         {
           "name": "adhyay_191.txt",
+          "label": "अध्यायः 191",
           "type": "file"
         },
         {
           "name": "adhyay_192.txt",
+          "label": "अध्यायः 192",
           "type": "file"
         },
         {
           "name": "adhyay_193.txt",
+          "label": "अध्यायः 193",
           "type": "file"
         },
         {
           "name": "adhyay_194.txt",
+          "label": "अध्यायः 194",
           "type": "file"
         },
         {
           "name": "adhyay_195.txt",
+          "label": "अध्यायः 195",
           "type": "file"
         },
         {
           "name": "adhyay_196.txt",
+          "label": "अध्यायः 196",
           "type": "file"
         },
         {
           "name": "adhyay_197.txt",
+          "label": "अध्यायः 197",
           "type": "file"
         },
         {
           "name": "adhyay_198.txt",
+          "label": "अध्यायः 198",
           "type": "file"
         },
         {
           "name": "adhyay_199.txt",
+          "label": "अध्यायः 199",
           "type": "file"
         },
         {
           "name": "adhyay_2.txt",
+          "label": "अध्यायः 2",
           "type": "file"
         },
         {
           "name": "adhyay_20.txt",
+          "label": "अध्यायः 20",
           "type": "file"
         },
         {
           "name": "adhyay_200.txt",
+          "label": "अध्यायः 200",
           "type": "file"
         },
         {
           "name": "adhyay_201.txt",
+          "label": "अध्यायः 201",
           "type": "file"
         },
         {
           "name": "adhyay_202.txt",
+          "label": "अध्यायः 202",
           "type": "file"
         },
         {
           "name": "adhyay_203.txt",
+          "label": "अध्यायः 203",
           "type": "file"
         },
         {
           "name": "adhyay_204.txt",
+          "label": "अध्यायः 204",
           "type": "file"
         },
         {
           "name": "adhyay_205.txt",
+          "label": "अध्यायः 205",
           "type": "file"
         },
         {
           "name": "adhyay_206.txt",
+          "label": "अध्यायः 206",
           "type": "file"
         },
         {
           "name": "adhyay_207.txt",
+          "label": "अध्यायः 207",
           "type": "file"
         },
         {
           "name": "adhyay_208.txt",
+          "label": "अध्यायः 208",
           "type": "file"
         },
         {
           "name": "adhyay_209.txt",
+          "label": "अध्यायः 209",
           "type": "file"
         },
         {
           "name": "adhyay_21.txt",
+          "label": "अध्यायः 21",
           "type": "file"
         },
         {
           "name": "adhyay_210.txt",
+          "label": "अध्यायः 210",
           "type": "file"
         },
         {
           "name": "adhyay_211.txt",
+          "label": "अध्यायः 211",
           "type": "file"
         },
         {
           "name": "adhyay_212.txt",
+          "label": "अध्यायः 212",
           "type": "file"
         },
         {
           "name": "adhyay_213.txt",
+          "label": "अध्यायः 213",
           "type": "file"
         },
         {
           "name": "adhyay_214.txt",
+          "label": "अध्यायः 214",
           "type": "file"
         },
         {
           "name": "adhyay_215.txt",
+          "label": "अध्यायः 215",
           "type": "file"
         },
         {
           "name": "adhyay_216.txt",
+          "label": "अध्यायः 216",
           "type": "file"
         },
         {
           "name": "adhyay_217.txt",
+          "label": "अध्यायः 217",
           "type": "file"
         },
         {
           "name": "adhyay_218.txt",
+          "label": "अध्यायः 218",
           "type": "file"
         },
         {
           "name": "adhyay_219.txt",
+          "label": "अध्यायः 219",
           "type": "file"
         },
         {
           "name": "adhyay_22.txt",
+          "label": "अध्यायः 22",
           "type": "file"
         },
         {
           "name": "adhyay_220.txt",
+          "label": "अध्यायः 220",
           "type": "file"
         },
         {
           "name": "adhyay_221.txt",
+          "label": "अध्यायः 221",
           "type": "file"
         },
         {
           "name": "adhyay_222.txt",
+          "label": "अध्यायः 222",
           "type": "file"
         },
         {
           "name": "adhyay_223.txt",
+          "label": "अध्यायः 223",
           "type": "file"
         },
         {
           "name": "adhyay_224.txt",
+          "label": "अध्यायः 224",
           "type": "file"
         },
         {
           "name": "adhyay_225.txt",
+          "label": "अध्यायः 225",
           "type": "file"
         },
         {
           "name": "adhyay_226.txt",
+          "label": "अध्यायः 226",
           "type": "file"
         },
         {
           "name": "adhyay_227.txt",
+          "label": "अध्यायः 227",
           "type": "file"
         },
         {
           "name": "adhyay_228.txt",
+          "label": "अध्यायः 228",
           "type": "file"
         },
         {
           "name": "adhyay_229.txt",
+          "label": "अध्यायः 229",
           "type": "file"
         },
         {
           "name": "adhyay_23.txt",
+          "label": "अध्यायः 23",
           "type": "file"
         },
         {
           "name": "adhyay_230.txt",
+          "label": "अध्यायः 230",
           "type": "file"
         },
         {
           "name": "adhyay_231.txt",
+          "label": "अध्यायः 231",
           "type": "file"
         },
         {
           "name": "adhyay_232.txt",
+          "label": "अध्यायः 232",
           "type": "file"
         },
         {
           "name": "adhyay_233.txt",
+          "label": "अध्यायः 233",
           "type": "file"
         },
         {
           "name": "adhyay_234.txt",
+          "label": "अध्यायः 234",
           "type": "file"
         },
         {
           "name": "adhyay_235.txt",
+          "label": "अध्यायः 235",
           "type": "file"
         },
         {
           "name": "adhyay_236.txt",
+          "label": "अध्यायः 236",
           "type": "file"
         },
         {
           "name": "adhyay_237.txt",
+          "label": "अध्यायः 237",
           "type": "file"
         },
         {
           "name": "adhyay_238.txt",
+          "label": "अध्यायः 238",
           "type": "file"
         },
         {
           "name": "adhyay_239.txt",
+          "label": "अध्यायः 239",
           "type": "file"
         },
         {
           "name": "adhyay_24.txt",
+          "label": "अध्यायः 24",
           "type": "file"
         },
         {
           "name": "adhyay_240.txt",
+          "label": "अध्यायः 240",
           "type": "file"
         },
         {
           "name": "adhyay_241.txt",
+          "label": "अध्यायः 241",
           "type": "file"
         },
         {
           "name": "adhyay_242.txt",
+          "label": "अध्यायः 242",
           "type": "file"
         },
         {
           "name": "adhyay_243.txt",
+          "label": "अध्यायः 243",
           "type": "file"
         },
         {
           "name": "adhyay_244.txt",
+          "label": "अध्यायः 244",
           "type": "file"
         },
         {
           "name": "adhyay_245.txt",
+          "label": "अध्यायः 245",
           "type": "file"
         },
         {
           "name": "adhyay_246.txt",
+          "label": "अध्यायः 246",
           "type": "file"
         },
         {
           "name": "adhyay_247.txt",
+          "label": "अध्यायः 247",
           "type": "file"
         },
         {
           "name": "adhyay_248.txt",
+          "label": "अध्यायः 248",
           "type": "file"
         },
         {
           "name": "adhyay_249.txt",
+          "label": "अध्यायः 249",
           "type": "file"
         },
         {
           "name": "adhyay_25.txt",
+          "label": "अध्यायः 25",
           "type": "file"
         },
         {
           "name": "adhyay_250.txt",
+          "label": "अध्यायः 250",
           "type": "file"
         },
         {
           "name": "adhyay_251.txt",
+          "label": "अध्यायः 251",
           "type": "file"
         },
         {
           "name": "adhyay_252.txt",
+          "label": "अध्यायः 252",
           "type": "file"
         },
         {
           "name": "adhyay_253.txt",
+          "label": "अध्यायः 253",
           "type": "file"
         },
         {
           "name": "adhyay_254.txt",
+          "label": "अध्यायः 254",
           "type": "file"
         },
         {
           "name": "adhyay_255.txt",
+          "label": "अध्यायः 255",
           "type": "file"
         },
         {
           "name": "adhyay_256.txt",
+          "label": "अध्यायः 256",
           "type": "file"
         },
         {
           "name": "adhyay_257.txt",
+          "label": "अध्यायः 257",
           "type": "file"
         },
         {
           "name": "adhyay_258.txt",
+          "label": "अध्यायः 258",
           "type": "file"
         },
         {
           "name": "adhyay_259.txt",
+          "label": "अध्यायः 259",
           "type": "file"
         },
         {
           "name": "adhyay_26.txt",
+          "label": "अध्यायः 26",
           "type": "file"
         },
         {
           "name": "adhyay_260.txt",
+          "label": "अध्यायः 260",
           "type": "file"
         },
         {
           "name": "adhyay_261.txt",
+          "label": "अध्यायः 261",
           "type": "file"
         },
         {
           "name": "adhyay_262.txt",
+          "label": "अध्यायः 262",
           "type": "file"
         },
         {
           "name": "adhyay_263.txt",
+          "label": "अध्यायः 263",
           "type": "file"
         },
         {
           "name": "adhyay_264.txt",
+          "label": "अध्यायः 264",
           "type": "file"
         },
         {
           "name": "adhyay_265.txt",
+          "label": "अध्यायः 265",
           "type": "file"
         },
         {
           "name": "adhyay_266.txt",
+          "label": "अध्यायः 266",
           "type": "file"
         },
         {
           "name": "adhyay_267.txt",
+          "label": "अध्यायः 267",
           "type": "file"
         },
         {
           "name": "adhyay_268.txt",
+          "label": "अध्यायः 268",
           "type": "file"
         },
         {
           "name": "adhyay_269.txt",
+          "label": "अध्यायः 269",
           "type": "file"
         },
         {
           "name": "adhyay_27.txt",
+          "label": "अध्यायः 27",
           "type": "file"
         },
         {
           "name": "adhyay_270.txt",
+          "label": "अध्यायः 270",
           "type": "file"
         },
         {
           "name": "adhyay_271.txt",
+          "label": "अध्यायः 271",
           "type": "file"
         },
         {
           "name": "adhyay_272.txt",
+          "label": "अध्यायः 272",
           "type": "file"
         },
         {
           "name": "adhyay_273.txt",
+          "label": "अध्यायः 273",
           "type": "file"
         },
         {
           "name": "adhyay_274.txt",
+          "label": "अध्यायः 274",
           "type": "file"
         },
         {
           "name": "adhyay_275.txt",
+          "label": "अध्यायः 275",
           "type": "file"
         },
         {
           "name": "adhyay_276.txt",
+          "label": "अध्यायः 276",
           "type": "file"
         },
         {
           "name": "adhyay_277.txt",
+          "label": "अध्यायः 277",
           "type": "file"
         },
         {
           "name": "adhyay_278.txt",
+          "label": "अध्यायः 278",
           "type": "file"
         },
         {
           "name": "adhyay_279.txt",
+          "label": "अध्यायः 279",
           "type": "file"
         },
         {
           "name": "adhyay_28.txt",
+          "label": "अध्यायः 28",
           "type": "file"
         },
         {
           "name": "adhyay_280.txt",
+          "label": "अध्यायः 280",
           "type": "file"
         },
         {
           "name": "adhyay_281.txt",
+          "label": "अध्यायः 281",
           "type": "file"
         },
         {
           "name": "adhyay_282.txt",
+          "label": "अध्यायः 282",
           "type": "file"
         },
         {
           "name": "adhyay_283.txt",
+          "label": "अध्यायः 283",
           "type": "file"
         },
         {
           "name": "adhyay_284.txt",
+          "label": "अध्यायः 284",
           "type": "file"
         },
         {
           "name": "adhyay_285.txt",
+          "label": "अध्यायः 285",
           "type": "file"
         },
         {
           "name": "adhyay_286.txt",
+          "label": "अध्यायः 286",
           "type": "file"
         },
         {
           "name": "adhyay_287.txt",
+          "label": "अध्यायः 287",
           "type": "file"
         },
         {
           "name": "adhyay_288.txt",
+          "label": "अध्यायः 288",
           "type": "file"
         },
         {
           "name": "adhyay_289.txt",
+          "label": "अध्यायः 289",
           "type": "file"
         },
         {
           "name": "adhyay_29.txt",
+          "label": "अध्यायः 29",
           "type": "file"
         },
         {
           "name": "adhyay_290.txt",
+          "label": "अध्यायः 290",
           "type": "file"
         },
         {
           "name": "adhyay_291.txt",
+          "label": "अध्यायः 291",
           "type": "file"
         },
         {
           "name": "adhyay_292.txt",
+          "label": "अध्यायः 292",
           "type": "file"
         },
         {
           "name": "adhyay_293.txt",
+          "label": "अध्यायः 293",
           "type": "file"
         },
         {
           "name": "adhyay_294.txt",
+          "label": "अध्यायः 294",
           "type": "file"
         },
         {
           "name": "adhyay_295.txt",
+          "label": "अध्यायः 295",
           "type": "file"
         },
         {
           "name": "adhyay_296.txt",
+          "label": "अध्यायः 296",
           "type": "file"
         },
         {
           "name": "adhyay_297.txt",
+          "label": "अध्यायः 297",
           "type": "file"
         },
         {
           "name": "adhyay_298.txt",
+          "label": "अध्यायः 298",
           "type": "file"
         },
         {
           "name": "adhyay_299.txt",
+          "label": "अध्यायः 299",
           "type": "file"
         },
         {
           "name": "adhyay_3.txt",
+          "label": "अध्यायः 3",
           "type": "file"
         },
         {
           "name": "adhyay_30.txt",
+          "label": "अध्यायः 30",
           "type": "file"
         },
         {
           "name": "adhyay_300.txt",
+          "label": "अध्यायः 300",
           "type": "file"
         },
         {
           "name": "adhyay_301.txt",
+          "label": "अध्यायः 301",
           "type": "file"
         },
         {
           "name": "adhyay_302.txt",
+          "label": "अध्यायः 302",
           "type": "file"
         },
         {
           "name": "adhyay_303.txt",
+          "label": "अध्यायः 303",
           "type": "file"
         },
         {
           "name": "adhyay_304.txt",
+          "label": "अध्यायः 304",
           "type": "file"
         },
         {
           "name": "adhyay_305.txt",
+          "label": "अध्यायः 305",
           "type": "file"
         },
         {
           "name": "adhyay_306.txt",
+          "label": "अध्यायः 306",
           "type": "file"
         },
         {
           "name": "adhyay_307.txt",
+          "label": "अध्यायः 307",
           "type": "file"
         },
         {
           "name": "adhyay_308.txt",
+          "label": "अध्यायः 308",
           "type": "file"
         },
         {
           "name": "adhyay_309.txt",
+          "label": "अध्यायः 309",
           "type": "file"
         },
         {
           "name": "adhyay_31.txt",
+          "label": "अध्यायः 31",
           "type": "file"
         },
         {
           "name": "adhyay_310.txt",
+          "label": "अध्यायः 310",
           "type": "file"
         },
         {
           "name": "adhyay_311.txt",
+          "label": "अध्यायः 311",
           "type": "file"
         },
         {
           "name": "adhyay_312.txt",
+          "label": "अध्यायः 312",
           "type": "file"
         },
         {
           "name": "adhyay_313.txt",
+          "label": "अध्यायः 313",
           "type": "file"
         },
         {
           "name": "adhyay_314.txt",
+          "label": "अध्यायः 314",
           "type": "file"
         },
         {
           "name": "adhyay_315.txt",
+          "label": "अध्यायः 315",
           "type": "file"
         },
         {
           "name": "adhyay_316.txt",
+          "label": "अध्यायः 316",
           "type": "file"
         },
         {
           "name": "adhyay_317.txt",
+          "label": "अध्यायः 317",
           "type": "file"
         },
         {
           "name": "adhyay_318.txt",
+          "label": "अध्यायः 318",
           "type": "file"
         },
         {
           "name": "adhyay_319.txt",
+          "label": "अध्यायः 319",
           "type": "file"
         },
         {
           "name": "adhyay_32.txt",
+          "label": "अध्यायः 32",
           "type": "file"
         },
         {
           "name": "adhyay_320.txt",
+          "label": "अध्यायः 320",
           "type": "file"
         },
         {
           "name": "adhyay_321.txt",
+          "label": "अध्यायः 321",
           "type": "file"
         },
         {
           "name": "adhyay_322.txt",
+          "label": "अध्यायः 322",
           "type": "file"
         },
         {
           "name": "adhyay_323.txt",
+          "label": "अध्यायः 323",
           "type": "file"
         },
         {
           "name": "adhyay_324.txt",
+          "label": "अध्यायः 324",
           "type": "file"
         },
         {
           "name": "adhyay_325.txt",
+          "label": "अध्यायः 325",
           "type": "file"
         },
         {
           "name": "adhyay_326.txt",
+          "label": "अध्यायः 326",
           "type": "file"
         },
         {
           "name": "adhyay_327.txt",
+          "label": "अध्यायः 327",
           "type": "file"
         },
         {
           "name": "adhyay_328.txt",
+          "label": "अध्यायः 328",
           "type": "file"
         },
         {
           "name": "adhyay_329.txt",
+          "label": "अध्यायः 329",
           "type": "file"
         },
         {
           "name": "adhyay_33.txt",
+          "label": "अध्यायः 33",
           "type": "file"
         },
         {
           "name": "adhyay_330.txt",
+          "label": "अध्यायः 330",
           "type": "file"
         },
         {
           "name": "adhyay_331.txt",
+          "label": "अध्यायः 331",
           "type": "file"
         },
         {
           "name": "adhyay_332.txt",
+          "label": "अध्यायः 332",
           "type": "file"
         },
         {
           "name": "adhyay_333.txt",
+          "label": "अध्यायः 333",
           "type": "file"
         },
         {
           "name": "adhyay_334.txt",
+          "label": "अध्यायः 334",
           "type": "file"
         },
         {
           "name": "adhyay_335.txt",
+          "label": "अध्यायः 335",
           "type": "file"
         },
         {
           "name": "adhyay_336.txt",
+          "label": "अध्यायः 336",
           "type": "file"
         },
         {
           "name": "adhyay_337.txt",
+          "label": "अध्यायः 337",
           "type": "file"
         },
         {
           "name": "adhyay_338.txt",
+          "label": "अध्यायः 338",
           "type": "file"
         },
         {
           "name": "adhyay_339.txt",
+          "label": "अध्यायः 339",
           "type": "file"
         },
         {
           "name": "adhyay_34.txt",
+          "label": "अध्यायः 34",
           "type": "file"
         },
         {
           "name": "adhyay_340.txt",
+          "label": "अध्यायः 340",
           "type": "file"
         },
         {
           "name": "adhyay_341.txt",
+          "label": "अध्यायः 341",
           "type": "file"
         },
         {
           "name": "adhyay_342.txt",
+          "label": "अध्यायः 342",
           "type": "file"
         },
         {
           "name": "adhyay_343.txt",
+          "label": "अध्यायः 343",
           "type": "file"
         },
         {
           "name": "adhyay_344.txt",
+          "label": "अध्यायः 344",
           "type": "file"
         },
         {
           "name": "adhyay_345.txt",
+          "label": "अध्यायः 345",
           "type": "file"
         },
         {
           "name": "adhyay_346.txt",
+          "label": "अध्यायः 346",
           "type": "file"
         },
         {
           "name": "adhyay_347.txt",
+          "label": "अध्यायः 347",
           "type": "file"
         },
         {
           "name": "adhyay_348.txt",
+          "label": "अध्यायः 348",
           "type": "file"
         },
         {
           "name": "adhyay_349.txt",
+          "label": "अध्यायः 349",
           "type": "file"
         },
         {
           "name": "adhyay_35.txt",
+          "label": "अध्यायः 35",
           "type": "file"
         },
         {
           "name": "adhyay_350.txt",
+          "label": "अध्यायः 350",
           "type": "file"
         },
         {
           "name": "adhyay_351.txt",
+          "label": "अध्यायः 351",
           "type": "file"
         },
         {
           "name": "adhyay_352.txt",
+          "label": "अध्यायः 352",
           "type": "file"
         },
         {
           "name": "adhyay_353.txt",
+          "label": "अध्यायः 353",
           "type": "file"
         },
         {
           "name": "adhyay_354.txt",
+          "label": "अध्यायः 354",
           "type": "file"
         },
         {
           "name": "adhyay_355.txt",
+          "label": "अध्यायः 355",
           "type": "file"
         },
         {
           "name": "adhyay_356.txt",
+          "label": "अध्यायः 356",
           "type": "file"
         },
         {
           "name": "adhyay_357.txt",
+          "label": "अध्यायः 357",
           "type": "file"
         },
         {
           "name": "adhyay_358.txt",
+          "label": "अध्यायः 358",
           "type": "file"
         },
         {
           "name": "adhyay_359.txt",
+          "label": "अध्यायः 359",
           "type": "file"
         },
         {
           "name": "adhyay_36.txt",
+          "label": "अध्यायः 36",
           "type": "file"
         },
         {
           "name": "adhyay_360.txt",
+          "label": "अध्यायः 360",
           "type": "file"
         },
         {
           "name": "adhyay_361.txt",
+          "label": "अध्यायः 361",
           "type": "file"
         },
         {
           "name": "adhyay_362.txt",
+          "label": "अध्यायः 362",
           "type": "file"
         },
         {
           "name": "adhyay_363.txt",
+          "label": "अध्यायः 363",
           "type": "file"
         },
         {
           "name": "adhyay_364.txt",
+          "label": "अध्यायः 364",
           "type": "file"
         },
         {
           "name": "adhyay_365.txt",
+          "label": "अध्यायः 365",
           "type": "file"
         },
         {
           "name": "adhyay_366.txt",
+          "label": "अध्यायः 366",
           "type": "file"
         },
         {
           "name": "adhyay_367.txt",
+          "label": "अध्यायः 367",
           "type": "file"
         },
         {
           "name": "adhyay_368.txt",
+          "label": "अध्यायः 368",
           "type": "file"
         },
         {
           "name": "adhyay_369.txt",
+          "label": "अध्यायः 369",
           "type": "file"
         },
         {
           "name": "adhyay_37.txt",
+          "label": "अध्यायः 37",
           "type": "file"
         },
         {
           "name": "adhyay_370.txt",
+          "label": "अध्यायः 370",
           "type": "file"
         },
         {
           "name": "adhyay_371.txt",
+          "label": "अध्यायः 371",
           "type": "file"
         },
         {
           "name": "adhyay_372.txt",
+          "label": "अध्यायः 372",
           "type": "file"
         },
         {
           "name": "adhyay_373.txt",
+          "label": "अध्यायः 373",
           "type": "file"
         },
         {
           "name": "adhyay_374.txt",
+          "label": "अध्यायः 374",
           "type": "file"
         },
         {
           "name": "adhyay_375.txt",
+          "label": "अध्यायः 375",
           "type": "file"
         },
         {
           "name": "adhyay_376.txt",
+          "label": "अध्यायः 376",
           "type": "file"
         },
         {
           "name": "adhyay_377.txt",
+          "label": "अध्यायः 377",
           "type": "file"
         },
         {
           "name": "adhyay_378.txt",
+          "label": "अध्यायः 378",
           "type": "file"
         },
         {
           "name": "adhyay_379.txt",
+          "label": "अध्यायः 379",
           "type": "file"
         },
         {
           "name": "adhyay_38.txt",
+          "label": "अध्यायः 38",
           "type": "file"
         },
         {
           "name": "adhyay_380.txt",
+          "label": "अध्यायः 380",
           "type": "file"
         },
         {
           "name": "adhyay_381.txt",
+          "label": "अध्यायः 381",
           "type": "file"
         },
         {
           "name": "adhyay_382.txt",
+          "label": "अध्यायः 382",
           "type": "file"
         },
         {
           "name": "adhyay_383.txt",
+          "label": "अध्यायः 383",
           "type": "file"
         },
         {
           "name": "adhyay_39.txt",
+          "label": "अध्यायः 39",
           "type": "file"
         },
         {
           "name": "adhyay_4.txt",
+          "label": "अध्यायः 4",
           "type": "file"
         },
         {
           "name": "adhyay_40.txt",
+          "label": "अध्यायः 40",
           "type": "file"
         },
         {
           "name": "adhyay_41.txt",
+          "label": "अध्यायः 41",
           "type": "file"
         },
         {
           "name": "adhyay_42.txt",
+          "label": "अध्यायः 42",
           "type": "file"
         },
         {
           "name": "adhyay_43.txt",
+          "label": "अध्यायः 43",
           "type": "file"
         },
         {
           "name": "adhyay_44.txt",
+          "label": "अध्यायः 44",
           "type": "file"
         },
         {
           "name": "adhyay_45.txt",
+          "label": "अध्यायः 45",
           "type": "file"
         },
         {
           "name": "adhyay_46.txt",
+          "label": "अध्यायः 46",
           "type": "file"
         },
         {
           "name": "adhyay_47.txt",
+          "label": "अध्यायः 47",
           "type": "file"
         },
         {
           "name": "adhyay_48.txt",
+          "label": "अध्यायः 48",
           "type": "file"
         },
         {
           "name": "adhyay_49.txt",
+          "label": "अध्यायः 49",
           "type": "file"
         },
         {
           "name": "adhyay_5.txt",
+          "label": "अध्यायः 5",
           "type": "file"
         },
         {
           "name": "adhyay_50.txt",
+          "label": "अध्यायः 50",
           "type": "file"
         },
         {
           "name": "adhyay_51.txt",
+          "label": "अध्यायः 51",
           "type": "file"
         },
         {
           "name": "adhyay_52.txt",
+          "label": "अध्यायः 52",
           "type": "file"
         },
         {
           "name": "adhyay_53.txt",
+          "label": "अध्यायः 53",
           "type": "file"
         },
         {
           "name": "adhyay_54.txt",
+          "label": "अध्यायः 54",
           "type": "file"
         },
         {
           "name": "adhyay_55.txt",
+          "label": "अध्यायः 55",
           "type": "file"
         },
         {
           "name": "adhyay_56.txt",
+          "label": "अध्यायः 56",
           "type": "file"
         },
         {
           "name": "adhyay_57.txt",
+          "label": "अध्यायः 57",
           "type": "file"
         },
         {
           "name": "adhyay_58.txt",
+          "label": "अध्यायः 58",
           "type": "file"
         },
         {
           "name": "adhyay_59.txt",
+          "label": "अध्यायः 59",
           "type": "file"
         },
         {
           "name": "adhyay_6.txt",
+          "label": "अध्यायः 6",
           "type": "file"
         },
         {
           "name": "adhyay_60.txt",
+          "label": "अध्यायः 60",
           "type": "file"
         },
         {
           "name": "adhyay_61.txt",
+          "label": "अध्यायः 61",
           "type": "file"
         },
         {
           "name": "adhyay_62.txt",
+          "label": "अध्यायः 62",
           "type": "file"
         },
         {
           "name": "adhyay_63.txt",
+          "label": "अध्यायः 63",
           "type": "file"
         },
         {
           "name": "adhyay_64.txt",
+          "label": "अध्यायः 64",
           "type": "file"
         },
         {
           "name": "adhyay_65.txt",
+          "label": "अध्यायः 65",
           "type": "file"
         },
         {
           "name": "adhyay_66.txt",
+          "label": "अध्यायः 66",
           "type": "file"
         },
         {
           "name": "adhyay_67.txt",
+          "label": "अध्यायः 67",
           "type": "file"
         },
         {
           "name": "adhyay_68.txt",
+          "label": "अध्यायः 68",
           "type": "file"
         },
         {
           "name": "adhyay_69.txt",
+          "label": "अध्यायः 69",
           "type": "file"
         },
         {
           "name": "adhyay_7.txt",
+          "label": "अध्यायः 7",
           "type": "file"
         },
         {
           "name": "adhyay_70.txt",
+          "label": "अध्यायः 70",
           "type": "file"
         },
         {
           "name": "adhyay_71.txt",
+          "label": "अध्यायः 71",
           "type": "file"
         },
         {
           "name": "adhyay_72.txt",
+          "label": "अध्यायः 72",
           "type": "file"
         },
         {
           "name": "adhyay_73.txt",
+          "label": "अध्यायः 73",
           "type": "file"
         },
         {
           "name": "adhyay_74.txt",
+          "label": "अध्यायः 74",
           "type": "file"
         },
         {
           "name": "adhyay_75.txt",
+          "label": "अध्यायः 75",
           "type": "file"
         },
         {
           "name": "adhyay_76.txt",
+          "label": "अध्यायः 76",
           "type": "file"
         },
         {
           "name": "adhyay_77.txt",
+          "label": "अध्यायः 77",
           "type": "file"
         },
         {
           "name": "adhyay_78.txt",
+          "label": "अध्यायः 78",
           "type": "file"
         },
         {
           "name": "adhyay_79.txt",
+          "label": "अध्यायः 79",
           "type": "file"
         },
         {
           "name": "adhyay_8.txt",
+          "label": "अध्यायः 8",
           "type": "file"
         },
         {
           "name": "adhyay_80.txt",
+          "label": "अध्यायः 80",
           "type": "file"
         },
         {
           "name": "adhyay_81.txt",
+          "label": "अध्यायः 81",
           "type": "file"
         },
         {
           "name": "adhyay_82.txt",
+          "label": "अध्यायः 82",
           "type": "file"
         },
         {
           "name": "adhyay_83.txt",
+          "label": "अध्यायः 83",
           "type": "file"
         },
         {
           "name": "adhyay_84.txt",
+          "label": "अध्यायः 84",
           "type": "file"
         },
         {
           "name": "adhyay_85.txt",
+          "label": "अध्यायः 85",
           "type": "file"
         },
         {
           "name": "adhyay_86.txt",
+          "label": "अध्यायः 86",
           "type": "file"
         },
         {
           "name": "adhyay_87.txt",
+          "label": "अध्यायः 87",
           "type": "file"
         },
         {
           "name": "adhyay_88.txt",
+          "label": "अध्यायः 88",
           "type": "file"
         },
         {
           "name": "adhyay_89.txt",
+          "label": "अध्यायः 89",
           "type": "file"
         },
         {
           "name": "adhyay_9.txt",
+          "label": "अध्यायः 9",
           "type": "file"
         },
         {
           "name": "adhyay_90.txt",
+          "label": "अध्यायः 90",
           "type": "file"
         },
         {
           "name": "adhyay_91.txt",
+          "label": "अध्यायः 91",
           "type": "file"
         },
         {
           "name": "adhyay_92.txt",
+          "label": "अध्यायः 92",
           "type": "file"
         },
         {
           "name": "adhyay_93.txt",
+          "label": "अध्यायः 93",
           "type": "file"
         },
         {
           "name": "adhyay_94.txt",
+          "label": "अध्यायः 94",
           "type": "file"
         },
         {
           "name": "adhyay_95.txt",
+          "label": "अध्यायः 95",
           "type": "file"
         },
         {
           "name": "adhyay_96.txt",
+          "label": "अध्यायः 96",
           "type": "file"
         },
         {
           "name": "adhyay_97.txt",
+          "label": "अध्यायः 97",
           "type": "file"
         },
         {
           "name": "adhyay_98.txt",
+          "label": "अध्यायः 98",
           "type": "file"
         },
         {
           "name": "adhyay_99.txt",
+          "label": "अध्यायः 99",
           "type": "file"
         }
       ]
     },
+
     {
       "name": "bhavishyapuranam",
       "type": "folder",
-      "label":"भविष्यपुराणम्",
+      "label": "भविष्यपुराणम्",
       "children": [
         {
           "name": "1_brahmaparva",
           "type": "folder",
-          "label":"पर्व १ (ब्राह्मपर्व)",
+          "label": "पर्व १ (ब्राह्मपर्व)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2421,7 +2805,7 @@
         {
           "name": "2_1_madhyamparva",
           "type": "folder",
-          "label":"पर्व २ (मध्यमपर्व)/भागः १",
+          "label": "पर्व २ (मध्यमपर्व)/भागः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2512,7 +2896,7 @@
         {
           "name": "2_2_madhyamparva",
           "type": "folder",
-          "label":"पर्व २ (मध्यमपर्व)/भागः २",
+          "label": "पर्व २ (मध्यमपर्व)/भागः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2599,7 +2983,7 @@
         {
           "name": "2_3_madhyamparva",
           "type": "folder",
-          "label":"पर्व २ (मध्यमपर्व)/भागः ३",
+          "label": "पर्व २ (मध्यमपर्व)/भागः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2686,7 +3070,7 @@
         {
           "name": "3_1_pratisargaparva",
           "type": "folder",
-          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः १",
+          "label": "पर्व ३ (प्रतिसर्गपर्व)/खण्डः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2721,7 +3105,7 @@
         {
           "name": "3_2_pratisargaparva",
           "type": "folder",
-          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः २",
+          "label": "पर्व ३ (प्रतिसर्गपर्व)/खण्डः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2868,7 +3252,7 @@
         {
           "name": "3_3_pratisargaparva",
           "type": "folder",
-          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ३",
+          "label": "पर्व ३ (प्रतिसर्गपर्व)/खण्डः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3003,7 +3387,7 @@
         {
           "name": "3_4_pratisargaparva",
           "type": "folder",
-          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ४",
+          "label": "पर्व ३ (प्रतिसर्गपर्व)/खण्डः ४",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3114,7 +3498,7 @@
         {
           "name": "4_uttaraaparva",
           "type": "folder",
-          "label":" पर्व ४ (उत्तरपर्व)",
+          "label": " पर्व ४ (उत्तरपर्व)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3955,17 +4339,17 @@
     {
       "name": "brahmandpuranam",
       "type": "folder",
-      "label":"ब्रह्माण्डपुराणम्",
+      "label": "ब्रह्माण्डपुराणम्",
       "children": [
         {
           "name": "1_purvabhag",
           "type": "folder",
-          "label":"पूर्वभागः",
+          "label": "पूर्वभागः",
           "children": [
             {
               "name": "1_prakriyaapaadah",
               "type": "folder",
-              "label":"प्रक्रियापादः",
+              "label": "प्रक्रियापादः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -3992,7 +4376,7 @@
             {
               "name": "2_anushangapada",
               "type": "folder",
-              "label":"अनुषङ्गपादः",
+              "label": "अनुषङ्गपादः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -4133,7 +4517,7 @@
         {
           "name": "2_madhyabhag",
           "type": "folder",
-          "label":"मध्यभागः",
+          "label": "मध्यभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -4436,7 +4820,7 @@
         {
           "name": "3_uttarbhag",
           "type": "folder",
-          "label":"उत्तरभागः",
+          "label": "उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -4621,7 +5005,7 @@
     {
       "name": "brahmapuranam",
       "type": "folder",
-      "label":"ब्रह्मपुराणम्",
+      "label": "ब्रह्मपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -5612,12 +5996,12 @@
     {
       "name": "brahmavaivarthapurana",
       "type": "folder",
-      "label":"ब्रह्मवैवर्तपुराणम्",
+      "label": "ब्रह्मवैवर्तपुराणम्",
       "children": [
         {
           "name": "1_brahmakhand",
           "type": "folder",
-          "label":"ब्रह्मखण्डः",
+          "label": "ब्रह्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -5744,7 +6128,7 @@
         {
           "name": "2_prakritikhand",
           "type": "folder",
-          "label":"प्रकृति खण्डः",
+          "label": "प्रकृति खण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6019,7 +6403,7 @@
         {
           "name": "3_ganapatikhand",
           "type": "folder",
-          "label":"गणपति खण्डः",
+          "label": "गणपति खण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6210,7 +6594,7 @@
         {
           "name": "4_srikrishnajanmakhanda",
           "type": "folder",
-          "label":"श्रीकृष्णजन्मखण्डः",
+          "label": "श्रीकृष्णजन्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6751,12 +7135,12 @@
     {
       "name": "garudapuranam",
       "type": "folder",
-      "label":"गरुडपुराणम्",
+      "label": "गरुडपुराणम्",
       "children": [
         {
           "name": "1_acharkand",
           "type": "folder",
-          "label":"आचारकाण्डः",
+          "label": "आचारकाण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -7723,7 +8107,7 @@
         {
           "name": "2_pretkand",
           "type": "folder",
-          "label":"प्रेतकाण्डः (धर्मकाण्डः)",
+          "label": "प्रेतकाण्डः (धर्मकाण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -7926,7 +8310,7 @@
         {
           "name": "3_brahmakand",
           "type": "folder",
-          "label":"ब्रह्मकाण्डः (मोक्षकाण्डः)",
+          "label": "ब्रह्मकाण्डः (मोक्षकाण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8051,12 +8435,12 @@
     {
       "name": "harivanshapuraanam",
       "type": "folder",
-      "label":"हरिवंशपुराणम्",
+      "label": "हरिवंशपुराणम्",
       "children": [
         {
           "name": "1_harivansh_parv",
           "type": "folder",
-          "label":"हरिवंश पर्व",
+          "label": "हरिवंश पर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8283,7 +8667,7 @@
         {
           "name": "2_vishnuparv",
           "type": "folder",
-          "label":"विष्णुपर्व",
+          "label": "विष्णुपर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8802,7 +9186,7 @@
         {
           "name": "3_bhavishyaparv",
           "type": "folder",
-          "label":"भविष्य पर्व",
+          "label": "भविष्य पर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9349,7 +9733,7 @@
         {
           "name": "4_mahaatmyam",
           "type": "folder",
-          "label":"माहात्म्यम् (पद्मपुराणोक्त)",
+          "label": "माहात्म्यम् (पद्मपुराणोक्त)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9380,19 +9764,19 @@
         {
           "name": "5_sant_gopaal_mantr_stotram.txt",
           "type": "file",
-          "label":"संतानगोपाल मन्त्र-स्तोत्रम्"
+          "label": "संतानगोपाल मन्त्र-स्तोत्रम्"
         }
       ]
     },
     {
       "name": "kurmapuranam",
       "type": "folder",
-      "label":"कूर्मपुराणम्",
+      "label": "कूर्मपुराणम्",
       "children": [
         {
           "name": "1_kurmapuranam_purvabhaga",
           "type": "folder",
-          "label":"कूर्मपुराणम्-पूर्वभागः",
+          "label": "कूर्मपुराणम्-पूर्वभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9611,7 +9995,7 @@
         {
           "name": "2_kurmapuranam_utarbhaga",
           "type": "folder",
-          "label":"कूर्मपुराणम्-उत्तरभागः",
+          "label": "कूर्मपुराणम्-उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9804,12 +10188,12 @@
     {
       "name": "lingapuranam",
       "type": "folder",
-      "label":"लिङ्गपुराणम्",
+      "label": "लिङ्गपुराणम्",
       "children": [
         {
           "name": "1_purvabhag",
           "type": "folder",
-          "label":"लिङ्गपुराणम् - पूर्वभागः",
+          "label": "लिङ्गपुराणम् - पूर्वभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -10248,7 +10632,7 @@
         {
           "name": "2_uttarbhag",
           "type": "folder",
-          "label":"लिङ्गपुराणम् - उत्तरभागः",
+          "label": "लिङ्गपुराणम् - उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -10477,7 +10861,7 @@
     {
       "name": "markandeypuranam",
       "type": "folder",
-      "label":"मार्कण्डेयपुराणम्",
+      "label": "मार्कण्डेयपुराणम्",
       "children": [
         {
           "name": "adhyay_001_005.txt",
@@ -10592,7 +10976,7 @@
     {
       "name": "matsyapuranam",
       "type": "folder",
-      "label":"मत्स्यपुराणम्",
+      "label": "मत्स्यपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -11759,12 +12143,12 @@
     {
       "name": "naradapuranam",
       "type": "folder",
-      "label":"नारदपुराणम्",
+      "label": "नारदपुराणम्",
       "children": [
         {
           "name": "1_purvardhah",
           "type": "folder",
-          "label":"नारदपुराणम्- पूर्वार्धः",
+          "label": "नारदपुराणम्- पूर्वार्धः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12271,7 +12655,7 @@
         {
           "name": "2_uttaraardh",
           "type": "folder",
-          "label":"नारदपुराणम्- उत्तरार्धः",
+          "label": "नारदपुराणम्- उत्तरार्धः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12608,12 +12992,12 @@
     {
       "name": "padmapuranam",
       "type": "folder",
-      "label":"पद्मपुराणम्",
+      "label": "पद्मपुराणम्",
       "children": [
         {
           "name": "1_srshtikhand",
           "type": "folder",
-          "label":"सृष्टिखण्डः",
+          "label": "सृष्टिखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12948,7 +13332,7 @@
         {
           "name": "2_bhumikhand",
           "type": "folder",
-          "label":"भूमिखण्डः",
+          "label": "भूमिखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13455,7 +13839,7 @@
         {
           "name": "3_swargakhand",
           "type": "folder",
-          "label":"स्वर्गखण्डः",
+          "label": "स्वर्गखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13710,7 +14094,7 @@
         {
           "name": "4_brahmakhand",
           "type": "folder",
-          "label":"ब्रह्मखण्डः",
+          "label": "ब्रह्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13821,7 +14205,7 @@
         {
           "name": "5_patalkhand",
           "type": "folder",
-          "label":"पातालखण्डः",
+          "label": "पातालखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -14296,7 +14680,7 @@
         {
           "name": "6_uttarakhand",
           "type": "folder",
-          "label":"उत्तरखण्डः",
+          "label": "उत्तरखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -15325,12 +15709,12 @@
     {
       "name": "shivapuraanam",
       "type": "folder",
-      "label":"शिवपुराणम्",
+      "label": "शिवपुराणम्",
       "children": [
         {
           "name": "1_vishveshvara_smahita",
           "type": "folder",
-          "label":"विश्वेश्वरसंहिता",
+          "label": "विश्वेश्वरसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -15437,12 +15821,12 @@
         {
           "name": "2_rudra_samhita",
           "type": "folder",
-          "label":"रुद्रसंहिता",
+          "label": "रुद्रसंहिता",
           "children": [
             {
               "name": "1_srshtikhandah",
               "type": "folder",
-              "label":"खण्डः १ (सृष्टिखण्डः)",
+              "label": "खण्डः १ (सृष्टिखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15529,7 +15913,7 @@
             {
               "name": "2_sateekhandah",
               "type": "folder",
-              "label":"खण्डः २ (सतीखण्डः)",
+              "label": "खण्डः २ (सतीखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15708,7 +16092,7 @@
             {
               "name": "3_paarvateekhandah",
               "type": "folder",
-              "label":"खण्डः ३ (पार्वतीखण्डः)",
+              "label": "खण्डः ३ (पार्वतीखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15935,7 +16319,7 @@
             {
               "name": "4_kumaarakhandah",
               "type": "folder",
-              "label":"खण्डः ४ (कुमारखण्डः)",
+              "label": "खण्डः ४ (कुमारखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -16022,7 +16406,7 @@
             {
               "name": "5_yuddhakhandah",
               "type": "folder",
-              "label":"खण्डः ५ (युद्धखण्डः)",
+              "label": "खण्डः ५ (युद्धखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -16267,7 +16651,7 @@
         {
           "name": "3_shatru_sanhita",
           "type": "folder",
-          "label":"शतरुद्रसंहिता",
+          "label": "शतरुद्रसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16442,7 +16826,7 @@
         {
           "name": "4_kotirudra_sanhita",
           "type": "folder",
-          "label":"कोटिरुद्रसंहिता",
+          "label": "कोटिरुद्रसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16621,7 +17005,7 @@
         {
           "name": "5_umaa_sanhita",
           "type": "folder",
-          "label":"उमा संहिता",
+          "label": "उमा संहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16832,7 +17216,7 @@
         {
           "name": "6_kailaasa_sanhita",
           "type": "folder",
-          "label":"कैलास संहिता",
+          "label": "कैलास संहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16931,12 +17315,12 @@
         {
           "name": "7_vaayaveeya_sanhita",
           "type": "folder",
-          "label":"वायवीय संहिता",
+          "label": "वायवीय संहिता",
           "children": [
             {
               "name": "1_purvabhag",
               "type": "folder",
-              "label":"पूर्व भागः",
+              "label": "पूर्व भागः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17083,7 +17467,7 @@
             {
               "name": "2_uttarbhag",
               "type": "folder",
-              "label":"उत्तर भागः",
+              "label": "उत्तर भागः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17258,17 +17642,17 @@
     {
       "name": "skandapuranam",
       "type": "folder",
-      "label":"स्कन्दपुराणम्",
+      "label": "स्कन्दपुराणम्",
       "children": [
         {
           "name": "1_maheshwar_khand",
           "type": "folder",
-          "label":"खण्डः १ (माहेश्वरखण्डः)",
+          "label": "खण्डः १ (माहेश्वरखण्डः)",
           "children": [
             {
               "name": "1_kedar_khand",
               "type": "folder",
-              "label":"केदारखण्डः",
+              "label": "केदारखण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17415,7 +17799,7 @@
             {
               "name": "2_kaumarika_khand",
               "type": "folder",
-              "label":"कौमारिकाखण्डः",
+              "label": "कौमारिकाखण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17686,7 +18070,7 @@
             {
               "name": "3_arunachal_mahatmya_purvardham",
               "type": "folder",
-              "label":"अरुणाचलमाहात्म्यपूर्वार्धम्",
+              "label": "अरुणाचलमाहात्म्यपूर्वार्धम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17745,7 +18129,7 @@
             {
               "name": "4_arunachal_mahatmyuttarardham",
               "type": "folder",
-              "label":"अरुणाचलमाहात्म्यौत्तरार्धम्",
+              "label": "अरुणाचलमाहात्म्यौत्तरार्धम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17850,12 +18234,12 @@
         {
           "name": "2_vaishnav_khand",
           "type": "folder",
-          "label":"खण्डः २ (वैष्णवखण्डः)",
+          "label": "खण्डः २ (वैष्णवखण्डः)",
           "children": [
             {
               "name": "1_venkatachala_mahatmyam",
               "type": "folder",
-              "label":"वेङ्कटाचलमाहात्म्यम्",
+              "label": "वेङ्कटाचलमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18022,7 +18406,7 @@
             {
               "name": "2_purushottamajgannath_mahatmyam",
               "type": "folder",
-              "label":"पुरुषोत्तमजगन्नाथमाहात्म्यम्",
+              "label": "पुरुषोत्तमजगन्नाथमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18225,7 +18609,7 @@
             {
               "name": "3_badarikashram_mahatmyam",
               "type": "folder",
-              "label":"बदरिकाश्रममाहात्म्यम्",
+              "label": "बदरिकाश्रममाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18264,7 +18648,7 @@
             {
               "name": "4_kartikmasa_mahatmyam",
               "type": "folder",
-              "label":"कार्तिकमासमाहात्म्यम्",
+              "label": "कार्तिकमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18415,7 +18799,7 @@
             {
               "name": "5_margasirshamasa_mahatmyam",
               "type": "folder",
-              "label":"मार्गशीर्षमासमाहात्म्यम्",
+              "label": "मार्गशीर्षमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18490,7 +18874,7 @@
             {
               "name": "6_bhagavat_mahatmyam",
               "type": "folder",
-              "label":"भागवतमाहात्म्यम्",
+              "label": "भागवतमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18513,7 +18897,7 @@
             {
               "name": "7_bhagavat_mahatmyam",
               "type": "folder",
-              "label":"वैशाखमासमाहात्म्यम्",
+              "label": "वैशाखमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18620,7 +19004,7 @@
             {
               "name": "8_ayodhya_mahatmyam",
               "type": "folder",
-              "label":"अयोध्यामाहात्म्यम्",
+              "label": "अयोध्यामाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18667,7 +19051,7 @@
             {
               "name": "9_vasudeva _mahatmyam",
               "type": "folder",
-              "label":"वासुदेवमाहात्म्यम्",
+              "label": "वासुदेवमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18804,12 +19188,12 @@
         {
           "name": "3_brahmakhand_khand",
           "type": "folder",
-          "label":"खण्डः ३ (ब्रह्मखण्डः)",
+          "label": "खण्डः ३ (ब्रह्मखण्डः)",
           "children": [
             {
               "name": "1_setu_khand",
               "type": "folder",
-              "label":"सेतु खण्डः",
+              "label": "सेतु खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19024,7 +19408,7 @@
             {
               "name": "2_dharmaranya_khanda",
               "type": "folder",
-              "label":"धर्मारण्य खण्डः",
+              "label": "धर्मारण्य खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19191,7 +19575,7 @@
             {
               "name": "3_brahmottara_khand",
               "type": "folder",
-              "label":"ब्रह्मोत्तर खण्डः",
+              "label": "ब्रह्मोत्तर खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19288,7 +19672,7 @@
         {
           "name": "4_kashi_khand",
           "type": "folder",
-          "label":"खण्डः ४ (काशीखण्डः)",
+          "label": "खण्डः ४ (काशीखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -19695,12 +20079,12 @@
         {
           "name": "5_avanti_khand",
           "type": "folder",
-          "label":"खण्डः ५ (अवन्तीखण्डः)",
+          "label": "खण्डः ५ (अवन्तीखण्डः)",
           "children": [
             {
               "name": "1_avanti_kshetra_mahatmyam",
               "type": "folder",
-              "label":"अवन्तीक्षेत्रमाहात्म्यम्",
+              "label": "अवन्तीक्षेत्रमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19991,7 +20375,7 @@
             {
               "name": "2_avantisthachaturshitilinga_mahatmyam",
               "type": "folder",
-              "label":"अवन्तीस्थचतुरशीतिलिङ्गमाहात्म्यम्",
+              "label": "अवन्तीस्थचतुरशीतिलिङ्गमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -20334,7 +20718,7 @@
             {
               "name": "3_reva_khandam",
               "type": "folder",
-              "label":" रेवा खण्डम्",
+              "label": " रेवा खण्डम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -21271,7 +21655,7 @@
         {
           "name": "6_nagar_khand",
           "type": "folder",
-          "label":"खण्डः ६ (नागरखण्डः)",
+          "label": "खण्डः ६ (नागरखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -22394,12 +22778,12 @@
         {
           "name": "7_prabhas_khand",
           "type": "folder",
-          "label":"खण्डः ७ (प्रभासखण्डः)",
+          "label": "खण्डः ७ (प्रभासखण्डः)",
           "children": [
             {
               "name": "1_prabhasekshetra_mahatmyam",
               "type": "folder",
-              "label":"प्रभासखण्डे प्रभासक्षेत्र माहात्म्यम्",
+              "label": "प्रभासखण्डे प्रभासक्षेत्र माहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -23870,7 +24254,7 @@
             {
               "name": "2_vastrapath_kshetra_mahatmyam",
               "type": "folder",
-              "label":"प्रभासखण्डे वस्त्रापथक्षेत्र माहात्म्यम्",
+              "label": "प्रभासखण्डे वस्त्रापथक्षेत्र माहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -23953,7 +24337,7 @@
             {
               "name": "3_arbudkhandam",
               "type": "folder",
-              "label":"प्रभासखण्डे अर्बुदखण्डम्",
+              "label": "प्रभासखण्डे अर्बुदखण्डम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24212,7 +24596,7 @@
             {
               "name": "4_dwarkaamahatmyam",
               "type": "folder",
-              "label":"प्रभासखण्डे द्वारकामाहात्म्यम्",
+              "label": "प्रभासखण्डे द्वारकामाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24397,7 +24781,7 @@
         {
           "name": "8_ambika_khand",
           "type": "folder",
-          "label":"खण्डः ८ (अम्बिकाखण्डः)",
+          "label": "खण्डः ८ (अम्बिकाखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -24482,17 +24866,17 @@
     {
       "name": "srimadbhagavatampurana",
       "type": "folder",
-      "label":"श्रीमद्भागवतपुराणम्",
+      "label": "श्रीमद्भागवतपुराणम्",
       "children": [
         {
           "name": "10_skandhah",
           "type": "folder",
-          "label":"स्कन्धः १०",
+          "label": "स्कन्धः १०",
           "children": [
             {
               "name": "1_poorvaardhah",
               "type": "folder",
-              "label":"पूर्वार्धः",
+              "label": "पूर्वार्धः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24695,7 +25079,7 @@
             {
               "name": "2_uttarardhah",
               "type": "folder",
-              "label":"उत्तरार्धः",
+              "label": "उत्तरार्धः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24868,7 +25252,7 @@
         {
           "name": "11_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ११",
+          "label": "स्कन्धः ११",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -24999,7 +25383,7 @@
         {
           "name": "12_skandhah",
           "type": "folder",
-          "label":"स्कन्धः १२",
+          "label": "स्कन्धः १२",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25058,7 +25442,7 @@
         {
           "name": "1_skandhah",
           "type": "folder",
-          "label":"स्कन्धः १",
+          "label": "स्कन्धः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25141,7 +25525,7 @@
         {
           "name": "2_skandhah",
           "type": "folder",
-          "label":"स्कन्धः २",
+          "label": "स्कन्धः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25188,7 +25572,7 @@
         {
           "name": "3_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ३",
+          "label": "स्कन्धः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25327,7 +25711,7 @@
         {
           "name": "4_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ४",
+          "label": "स्कन्धः ४",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25458,7 +25842,7 @@
         {
           "name": "5_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ५",
+          "label": "स्कन्धः ५",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25569,7 +25953,7 @@
         {
           "name": "6_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ६",
+          "label": "स्कन्धः ६",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25652,7 +26036,7 @@
         {
           "name": "7_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ७",
+          "label": "स्कन्धः ७",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25719,7 +26103,7 @@
         {
           "name": "8_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ८",
+          "label": "स्कन्धः ८",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25822,7 +26206,7 @@
         {
           "name": "9_skandhah",
           "type": "folder",
-          "label":"स्कन्धः ९",
+          "label": "स्कन्धः ९",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25955,7 +26339,7 @@
     {
       "name": "vaamanapuraanam",
       "type": "folder",
-      "label":"वामनपुराणम्",
+      "label": "वामनपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -26346,12 +26730,12 @@
     {
       "name": "vaayupuraanam",
       "type": "folder",
-      "label":"वायुपुराणम्",
+      "label": "वायुपुराणम्",
       "children": [
         {
           "name": "1_purvaardham",
           "type": "folder",
-          "label":"पूर्वार्धम्",
+          "label": "पूर्वार्धम्",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -26602,7 +26986,7 @@
         {
           "name": "2_uttaraardh",
           "type": "folder",
-          "label":"उत्तरार्धम्",
+          "label": "उत्तरार्धम्",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -26811,7 +27195,7 @@
     {
       "name": "varahapuranam",
       "type": "folder",
-      "label":"वराहपुराणम्",
+      "label": "वराहपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -27690,12 +28074,12 @@
     {
       "name": "vishnupuranam",
       "type": "folder",
-      "label":"विष्णुपुराणम्",
+      "label": "विष्णुपुराणम्",
       "children": [
         {
           "name": "1_prathamaanshah",
           "type": "folder",
-          "label":"प्रथमांशः",
+          "label": "प्रथमांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27790,7 +28174,7 @@
         {
           "name": "2_dviteeyaanshah",
           "type": "folder",
-          "label":"द्वितीयांशः",
+          "label": "द्वितीयांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27861,7 +28245,7 @@
         {
           "name": "3_trteeyaanshah",
           "type": "folder",
-          "label":"तृतीयांशः",
+          "label": "तृतीयांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27940,7 +28324,7 @@
         {
           "name": "4_chaturthaanshah",
           "type": "folder",
-          "label":"चतुर्थांशः",
+          "label": "चतुर्थांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -28043,7 +28427,7 @@
         {
           "name": "5_panchamaanshah",
           "type": "folder",
-          "label":"पञ्चमांशः",
+          "label": "पञ्चमांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -28202,7 +28586,7 @@
         {
           "name": "6_shashtaanshah",
           "type": "folder",
-          "label":"षष्टांशः",
+          "label": "षष्टांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
