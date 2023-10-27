@@ -1,12 +1,12 @@
 {
   "name": "puranas",
   "type": "folder",
-  "hindi_name":"पुराणानि",
+  "label":"पुराणानि",
   "children": [
     {
       "name": "agnipuranam",
       "type": "folder",
-      "hindi_name":"अग्निपुराणम्",
+      "label":"अग्निपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -1545,12 +1545,12 @@
     {
       "name": "bhavishyapuranam",
       "type": "folder",
-      "hindi_name":"भविष्यपुराणम्",
+      "label":"भविष्यपुराणम्",
       "children": [
         {
           "name": "1_brahmaparva",
           "type": "folder",
-          "hindi_name":"पर्व १ (ब्राह्मपर्व)",
+          "label":"पर्व १ (ब्राह्मपर्व)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2421,7 +2421,7 @@
         {
           "name": "2_1_madhyamparva",
           "type": "folder",
-          "hindi_name":"पर्व २ (मध्यमपर्व)/भागः १",
+          "label":"पर्व २ (मध्यमपर्व)/भागः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2512,7 +2512,7 @@
         {
           "name": "2_2_madhyamparva",
           "type": "folder",
-          "hindi_name":"पर्व २ (मध्यमपर्व)/भागः २",
+          "label":"पर्व २ (मध्यमपर्व)/भागः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2599,7 +2599,7 @@
         {
           "name": "2_3_madhyamparva",
           "type": "folder",
-          "hindi_name":"पर्व २ (मध्यमपर्व)/भागः ३",
+          "label":"पर्व २ (मध्यमपर्व)/भागः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2686,7 +2686,7 @@
         {
           "name": "3_1_pratisargaparva",
           "type": "folder",
-          "hindi_name":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः १",
+          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2721,7 +2721,7 @@
         {
           "name": "3_2_pratisargaparva",
           "type": "folder",
-          "hindi_name":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः २",
+          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -2868,7 +2868,7 @@
         {
           "name": "3_3_pratisargaparva",
           "type": "folder",
-          "hindi_name":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ३",
+          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3003,7 +3003,7 @@
         {
           "name": "3_4_pratisargaparva",
           "type": "folder",
-          "hindi_name":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ४",
+          "label":"पर्व ३ (प्रतिसर्गपर्व)/खण्डः ४",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3114,7 +3114,7 @@
         {
           "name": "4_uttaraaparva",
           "type": "folder",
-          "hindi_name":" पर्व ४ (उत्तरपर्व)",
+          "label":" पर्व ४ (उत्तरपर्व)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -3955,17 +3955,17 @@
     {
       "name": "brahmandpuranam",
       "type": "folder",
-      "hindi_name":"ब्रह्माण्डपुराणम्",
+      "label":"ब्रह्माण्डपुराणम्",
       "children": [
         {
           "name": "1_purvabhag",
           "type": "folder",
-          "hindi_name":"पूर्वभागः",
+          "label":"पूर्वभागः",
           "children": [
             {
               "name": "1_prakriyaapaadah",
               "type": "folder",
-              "hindi_name":"प्रक्रियापादः",
+              "label":"प्रक्रियापादः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -3992,7 +3992,7 @@
             {
               "name": "2_anushangapada",
               "type": "folder",
-              "hindi_name":"अनुषङ्गपादः",
+              "label":"अनुषङ्गपादः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -4133,7 +4133,7 @@
         {
           "name": "2_madhyabhag",
           "type": "folder",
-          "hindi_name":"मध्यभागः",
+          "label":"मध्यभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -4436,7 +4436,7 @@
         {
           "name": "3_uttarbhag",
           "type": "folder",
-          "hindi_name":"उत्तरभागः",
+          "label":"उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -4621,7 +4621,7 @@
     {
       "name": "brahmapuranam",
       "type": "folder",
-      "hindi_name":"ब्रह्मपुराणम्",
+      "label":"ब्रह्मपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -5612,12 +5612,12 @@
     {
       "name": "brahmavaivarthapurana",
       "type": "folder",
-      "hindi_name":"ब्रह्मवैवर्तपुराणम्",
+      "label":"ब्रह्मवैवर्तपुराणम्",
       "children": [
         {
           "name": "1_brahmakhand",
           "type": "folder",
-          "hindi_name":"ब्रह्मखण्डः",
+          "label":"ब्रह्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -5744,7 +5744,7 @@
         {
           "name": "2_prakritikhand",
           "type": "folder",
-          "hindi_name":"प्रकृति खण्डः",
+          "label":"प्रकृति खण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6019,7 +6019,7 @@
         {
           "name": "3_ganapatikhand",
           "type": "folder",
-          "hindi_name":"गणपति खण्डः",
+          "label":"गणपति खण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6210,7 +6210,7 @@
         {
           "name": "4_srikrishnajanmakhanda",
           "type": "folder",
-          "hindi_name":"श्रीकृष्णजन्मखण्डः",
+          "label":"श्रीकृष्णजन्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -6751,12 +6751,12 @@
     {
       "name": "garudapuranam",
       "type": "folder",
-      "hindi_name":"गरुडपुराणम्",
+      "label":"गरुडपुराणम्",
       "children": [
         {
           "name": "1_acharkand",
           "type": "folder",
-          "hindi_name":"आचारकाण्डः",
+          "label":"आचारकाण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -7723,7 +7723,7 @@
         {
           "name": "2_pretkand",
           "type": "folder",
-          "hindi_name":"प्रेतकाण्डः (धर्मकाण्डः)",
+          "label":"प्रेतकाण्डः (धर्मकाण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -7926,7 +7926,7 @@
         {
           "name": "3_brahmakand",
           "type": "folder",
-          "hindi_name":"ब्रह्मकाण्डः (मोक्षकाण्डः)",
+          "label":"ब्रह्मकाण्डः (मोक्षकाण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8051,12 +8051,12 @@
     {
       "name": "harivanshapuraanam",
       "type": "folder",
-      "hindi_name":"हरिवंशपुराणम्",
+      "label":"हरिवंशपुराणम्",
       "children": [
         {
           "name": "1_harivansh_parv",
           "type": "folder",
-          "hindi_name":"हरिवंश पर्व",
+          "label":"हरिवंश पर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8283,7 +8283,7 @@
         {
           "name": "2_vishnuparv",
           "type": "folder",
-          "hindi_name":"विष्णुपर्व",
+          "label":"विष्णुपर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -8802,7 +8802,7 @@
         {
           "name": "3_bhavishyaparv",
           "type": "folder",
-          "hindi_name":"भविष्य पर्व",
+          "label":"भविष्य पर्व",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9349,7 +9349,7 @@
         {
           "name": "4_mahaatmyam",
           "type": "folder",
-          "hindi_name":"माहात्म्यम् (पद्मपुराणोक्त)",
+          "label":"माहात्म्यम् (पद्मपुराणोक्त)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9380,19 +9380,19 @@
         {
           "name": "5_sant_gopaal_mantr_stotram.txt",
           "type": "file",
-          "hindi_name":"संतानगोपाल मन्त्र-स्तोत्रम्"
+          "label":"संतानगोपाल मन्त्र-स्तोत्रम्"
         }
       ]
     },
     {
       "name": "kurmapuranam",
       "type": "folder",
-      "hindi_name":"कूर्मपुराणम्",
+      "label":"कूर्मपुराणम्",
       "children": [
         {
           "name": "1_kurmapuranam_purvabhaga",
           "type": "folder",
-          "hindi_name":"कूर्मपुराणम्-पूर्वभागः",
+          "label":"कूर्मपुराणम्-पूर्वभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9611,7 +9611,7 @@
         {
           "name": "2_kurmapuranam_utarbhaga",
           "type": "folder",
-          "hindi_name":"कूर्मपुराणम्-उत्तरभागः",
+          "label":"कूर्मपुराणम्-उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -9804,12 +9804,12 @@
     {
       "name": "lingapuranam",
       "type": "folder",
-      "hindi_name":"लिङ्गपुराणम्",
+      "label":"लिङ्गपुराणम्",
       "children": [
         {
           "name": "1_purvabhag",
           "type": "folder",
-          "hindi_name":"लिङ्गपुराणम् - पूर्वभागः",
+          "label":"लिङ्गपुराणम् - पूर्वभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -10248,7 +10248,7 @@
         {
           "name": "2_uttarbhag",
           "type": "folder",
-          "hindi_name":"लिङ्गपुराणम् - उत्तरभागः",
+          "label":"लिङ्गपुराणम् - उत्तरभागः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -10477,7 +10477,7 @@
     {
       "name": "markandeypuranam",
       "type": "folder",
-      "hindi_name":"मार्कण्डेयपुराणम्",
+      "label":"मार्कण्डेयपुराणम्",
       "children": [
         {
           "name": "adhyay_001_005.txt",
@@ -10592,7 +10592,7 @@
     {
       "name": "matsyapuranam",
       "type": "folder",
-      "hindi_name":"मत्स्यपुराणम्",
+      "label":"मत्स्यपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -11759,12 +11759,12 @@
     {
       "name": "naradapuranam",
       "type": "folder",
-      "hindi_name":"नारदपुराणम्",
+      "label":"नारदपुराणम्",
       "children": [
         {
           "name": "1_purvardhah",
           "type": "folder",
-          "hindi_name":"नारदपुराणम्- पूर्वार्धः",
+          "label":"नारदपुराणम्- पूर्वार्धः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12271,7 +12271,7 @@
         {
           "name": "2_uttaraardh",
           "type": "folder",
-          "hindi_name":"नारदपुराणम्- उत्तरार्धः",
+          "label":"नारदपुराणम्- उत्तरार्धः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12608,12 +12608,12 @@
     {
       "name": "padmapuranam",
       "type": "folder",
-      "hindi_name":"पद्मपुराणम्",
+      "label":"पद्मपुराणम्",
       "children": [
         {
           "name": "1_srshtikhand",
           "type": "folder",
-          "hindi_name":"सृष्टिखण्डः",
+          "label":"सृष्टिखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -12948,7 +12948,7 @@
         {
           "name": "2_bhumikhand",
           "type": "folder",
-          "hindi_name":"भूमिखण्डः",
+          "label":"भूमिखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13455,7 +13455,7 @@
         {
           "name": "3_swargakhand",
           "type": "folder",
-          "hindi_name":"स्वर्गखण्डः",
+          "label":"स्वर्गखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13710,7 +13710,7 @@
         {
           "name": "4_brahmakhand",
           "type": "folder",
-          "hindi_name":"ब्रह्मखण्डः",
+          "label":"ब्रह्मखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -13821,7 +13821,7 @@
         {
           "name": "5_patalkhand",
           "type": "folder",
-          "hindi_name":"पातालखण्डः",
+          "label":"पातालखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -14296,7 +14296,7 @@
         {
           "name": "6_uttarakhand",
           "type": "folder",
-          "hindi_name":"उत्तरखण्डः",
+          "label":"उत्तरखण्डः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -15325,12 +15325,12 @@
     {
       "name": "shivapuraanam",
       "type": "folder",
-      "hindi_name":"शिवपुराणम्",
+      "label":"शिवपुराणम्",
       "children": [
         {
           "name": "1_vishveshvara_smahita",
           "type": "folder",
-          "hindi_name":"विश्वेश्वरसंहिता",
+          "label":"विश्वेश्वरसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -15437,12 +15437,12 @@
         {
           "name": "2_rudra_samhita",
           "type": "folder",
-          "hindi_name":"रुद्रसंहिता",
+          "label":"रुद्रसंहिता",
           "children": [
             {
               "name": "1_srshtikhandah",
               "type": "folder",
-              "hindi_name":"खण्डः १ (सृष्टिखण्डः)",
+              "label":"खण्डः १ (सृष्टिखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15529,7 +15529,7 @@
             {
               "name": "2_sateekhandah",
               "type": "folder",
-              "hindi_name":"खण्डः २ (सतीखण्डः)",
+              "label":"खण्डः २ (सतीखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15708,7 +15708,7 @@
             {
               "name": "3_paarvateekhandah",
               "type": "folder",
-              "hindi_name":"खण्डः ३ (पार्वतीखण्डः)",
+              "label":"खण्डः ३ (पार्वतीखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -15935,7 +15935,7 @@
             {
               "name": "4_kumaarakhandah",
               "type": "folder",
-              "hindi_name":"खण्डः ४ (कुमारखण्डः)",
+              "label":"खण्डः ४ (कुमारखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -16022,7 +16022,7 @@
             {
               "name": "5_yuddhakhandah",
               "type": "folder",
-              "hindi_name":"खण्डः ५ (युद्धखण्डः)",
+              "label":"खण्डः ५ (युद्धखण्डः)",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -16267,7 +16267,7 @@
         {
           "name": "3_shatru_sanhita",
           "type": "folder",
-          "hindi_name":"शतरुद्रसंहिता",
+          "label":"शतरुद्रसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16442,7 +16442,7 @@
         {
           "name": "4_kotirudra_sanhita",
           "type": "folder",
-          "hindi_name":"कोटिरुद्रसंहिता",
+          "label":"कोटिरुद्रसंहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16621,7 +16621,7 @@
         {
           "name": "5_umaa_sanhita",
           "type": "folder",
-          "hindi_name":"उमा संहिता",
+          "label":"उमा संहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16832,7 +16832,7 @@
         {
           "name": "6_kailaasa_sanhita",
           "type": "folder",
-          "hindi_name":"कैलास संहिता",
+          "label":"कैलास संहिता",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -16931,12 +16931,12 @@
         {
           "name": "7_vaayaveeya_sanhita",
           "type": "folder",
-          "hindi_name":"वायवीय संहिता",
+          "label":"वायवीय संहिता",
           "children": [
             {
               "name": "1_purvabhag",
               "type": "folder",
-              "hindi_name":"पूर्व भागः",
+              "label":"पूर्व भागः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17083,7 +17083,7 @@
             {
               "name": "2_uttarbhag",
               "type": "folder",
-              "hindi_name":"उत्तर भागः",
+              "label":"उत्तर भागः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17258,17 +17258,17 @@
     {
       "name": "skandapuranam",
       "type": "folder",
-      "hindi_name":"स्कन्दपुराणम्",
+      "label":"स्कन्दपुराणम्",
       "children": [
         {
           "name": "1_maheshwar_khand",
           "type": "folder",
-          "hindi_name":"खण्डः १ (माहेश्वरखण्डः)",
+          "label":"खण्डः १ (माहेश्वरखण्डः)",
           "children": [
             {
               "name": "1_kedar_khand",
               "type": "folder",
-              "hindi_name":"केदारखण्डः",
+              "label":"केदारखण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17415,7 +17415,7 @@
             {
               "name": "2_kaumarika_khand",
               "type": "folder",
-              "hindi_name":"कौमारिकाखण्डः",
+              "label":"कौमारिकाखण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17686,7 +17686,7 @@
             {
               "name": "3_arunachal_mahatmya_purvardham",
               "type": "folder",
-              "hindi_name":"अरुणाचलमाहात्म्यपूर्वार्धम्",
+              "label":"अरुणाचलमाहात्म्यपूर्वार्धम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17745,7 +17745,7 @@
             {
               "name": "4_arunachal_mahatmyuttarardham",
               "type": "folder",
-              "hindi_name":"अरुणाचलमाहात्म्यौत्तरार्धम्",
+              "label":"अरुणाचलमाहात्म्यौत्तरार्धम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -17850,12 +17850,12 @@
         {
           "name": "2_vaishnav_khand",
           "type": "folder",
-          "hindi_name":"खण्डः २ (वैष्णवखण्डः)",
+          "label":"खण्डः २ (वैष्णवखण्डः)",
           "children": [
             {
               "name": "1_venkatachala_mahatmyam",
               "type": "folder",
-              "hindi_name":"वेङ्कटाचलमाहात्म्यम्",
+              "label":"वेङ्कटाचलमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18022,7 +18022,7 @@
             {
               "name": "2_purushottamajgannath_mahatmyam",
               "type": "folder",
-              "hindi_name":"पुरुषोत्तमजगन्नाथमाहात्म्यम्",
+              "label":"पुरुषोत्तमजगन्नाथमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18225,7 +18225,7 @@
             {
               "name": "3_badarikashram_mahatmyam",
               "type": "folder",
-              "hindi_name":"बदरिकाश्रममाहात्म्यम्",
+              "label":"बदरिकाश्रममाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18264,7 +18264,7 @@
             {
               "name": "4_kartikmasa_mahatmyam",
               "type": "folder",
-              "hindi_name":"कार्तिकमासमाहात्म्यम्",
+              "label":"कार्तिकमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18415,7 +18415,7 @@
             {
               "name": "5_margasirshamasa_mahatmyam",
               "type": "folder",
-              "hindi_name":"मार्गशीर्षमासमाहात्म्यम्",
+              "label":"मार्गशीर्षमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18490,7 +18490,7 @@
             {
               "name": "6_bhagavat_mahatmyam",
               "type": "folder",
-              "hindi_name":"भागवतमाहात्म्यम्",
+              "label":"भागवतमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18513,7 +18513,7 @@
             {
               "name": "7_bhagavat_mahatmyam",
               "type": "folder",
-              "hindi_name":"वैशाखमासमाहात्म्यम्",
+              "label":"वैशाखमासमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18620,7 +18620,7 @@
             {
               "name": "8_ayodhya_mahatmyam",
               "type": "folder",
-              "hindi_name":"अयोध्यामाहात्म्यम्",
+              "label":"अयोध्यामाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18667,7 +18667,7 @@
             {
               "name": "9_vasudeva _mahatmyam",
               "type": "folder",
-              "hindi_name":"वासुदेवमाहात्म्यम्",
+              "label":"वासुदेवमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -18804,12 +18804,12 @@
         {
           "name": "3_brahmakhand_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ३ (ब्रह्मखण्डः)",
+          "label":"खण्डः ३ (ब्रह्मखण्डः)",
           "children": [
             {
               "name": "1_setu_khand",
               "type": "folder",
-              "hindi_name":"सेतु खण्डः",
+              "label":"सेतु खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19024,7 +19024,7 @@
             {
               "name": "2_dharmaranya_khanda",
               "type": "folder",
-              "hindi_name":"धर्मारण्य खण्डः",
+              "label":"धर्मारण्य खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19191,7 +19191,7 @@
             {
               "name": "3_brahmottara_khand",
               "type": "folder",
-              "hindi_name":"ब्रह्मोत्तर खण्डः",
+              "label":"ब्रह्मोत्तर खण्डः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19288,7 +19288,7 @@
         {
           "name": "4_kashi_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ४ (काशीखण्डः)",
+          "label":"खण्डः ४ (काशीखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -19695,12 +19695,12 @@
         {
           "name": "5_avanti_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ५ (अवन्तीखण्डः)",
+          "label":"खण्डः ५ (अवन्तीखण्डः)",
           "children": [
             {
               "name": "1_avanti_kshetra_mahatmyam",
               "type": "folder",
-              "hindi_name":"अवन्तीक्षेत्रमाहात्म्यम्",
+              "label":"अवन्तीक्षेत्रमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -19991,7 +19991,7 @@
             {
               "name": "2_avantisthachaturshitilinga_mahatmyam",
               "type": "folder",
-              "hindi_name":"अवन्तीस्थचतुरशीतिलिङ्गमाहात्म्यम्",
+              "label":"अवन्तीस्थचतुरशीतिलिङ्गमाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -20334,7 +20334,7 @@
             {
               "name": "3_reva_khandam",
               "type": "folder",
-              "hindi_name":" रेवा खण्डम्",
+              "label":" रेवा खण्डम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -21271,7 +21271,7 @@
         {
           "name": "6_nagar_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ६ (नागरखण्डः)",
+          "label":"खण्डः ६ (नागरखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -22394,12 +22394,12 @@
         {
           "name": "7_prabhas_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ७ (प्रभासखण्डः)",
+          "label":"खण्डः ७ (प्रभासखण्डः)",
           "children": [
             {
               "name": "1_prabhasekshetra_mahatmyam",
               "type": "folder",
-              "hindi_name":"प्रभासखण्डे प्रभासक्षेत्र माहात्म्यम्",
+              "label":"प्रभासखण्डे प्रभासक्षेत्र माहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -23870,7 +23870,7 @@
             {
               "name": "2_vastrapath_kshetra_mahatmyam",
               "type": "folder",
-              "hindi_name":"प्रभासखण्डे वस्त्रापथक्षेत्र माहात्म्यम्",
+              "label":"प्रभासखण्डे वस्त्रापथक्षेत्र माहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -23953,7 +23953,7 @@
             {
               "name": "3_arbudkhandam",
               "type": "folder",
-              "hindi_name":"प्रभासखण्डे अर्बुदखण्डम्",
+              "label":"प्रभासखण्डे अर्बुदखण्डम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24212,7 +24212,7 @@
             {
               "name": "4_dwarkaamahatmyam",
               "type": "folder",
-              "hindi_name":"प्रभासखण्डे द्वारकामाहात्म्यम्",
+              "label":"प्रभासखण्डे द्वारकामाहात्म्यम्",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24397,7 +24397,7 @@
         {
           "name": "8_ambika_khand",
           "type": "folder",
-          "hindi_name":"खण्डः ८ (अम्बिकाखण्डः)",
+          "label":"खण्डः ८ (अम्बिकाखण्डः)",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -24482,17 +24482,17 @@
     {
       "name": "srimadbhagavatampurana",
       "type": "folder",
-      "hindi_name":"श्रीमद्भागवतपुराणम्",
+      "label":"श्रीमद्भागवतपुराणम्",
       "children": [
         {
           "name": "10_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः १०",
+          "label":"स्कन्धः १०",
           "children": [
             {
               "name": "1_poorvaardhah",
               "type": "folder",
-              "hindi_name":"पूर्वार्धः",
+              "label":"पूर्वार्धः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24695,7 +24695,7 @@
             {
               "name": "2_uttarardhah",
               "type": "folder",
-              "hindi_name":"उत्तरार्धः",
+              "label":"उत्तरार्धः",
               "children": [
                 {
                   "name": "adhyay_1.txt",
@@ -24868,7 +24868,7 @@
         {
           "name": "11_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ११",
+          "label":"स्कन्धः ११",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -24999,7 +24999,7 @@
         {
           "name": "12_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः १२",
+          "label":"स्कन्धः १२",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25058,7 +25058,7 @@
         {
           "name": "1_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः १",
+          "label":"स्कन्धः १",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25141,7 +25141,7 @@
         {
           "name": "2_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः २",
+          "label":"स्कन्धः २",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25188,7 +25188,7 @@
         {
           "name": "3_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ३",
+          "label":"स्कन्धः ३",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25327,7 +25327,7 @@
         {
           "name": "4_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ४",
+          "label":"स्कन्धः ४",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25458,7 +25458,7 @@
         {
           "name": "5_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ५",
+          "label":"स्कन्धः ५",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25569,7 +25569,7 @@
         {
           "name": "6_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ६",
+          "label":"स्कन्धः ६",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25652,7 +25652,7 @@
         {
           "name": "7_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ७",
+          "label":"स्कन्धः ७",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25719,7 +25719,7 @@
         {
           "name": "8_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ८",
+          "label":"स्कन्धः ८",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25822,7 +25822,7 @@
         {
           "name": "9_skandhah",
           "type": "folder",
-          "hindi_name":"स्कन्धः ९",
+          "label":"स्कन्धः ९",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -25955,7 +25955,7 @@
     {
       "name": "vaamanapuraanam",
       "type": "folder",
-      "hindi_name":"वामनपुराणम्",
+      "label":"वामनपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -26346,12 +26346,12 @@
     {
       "name": "vaayupuraanam",
       "type": "folder",
-      "hindi_name":"वायुपुराणम्",
+      "label":"वायुपुराणम्",
       "children": [
         {
           "name": "1_purvaardham",
           "type": "folder",
-          "hindi_name":"पूर्वार्धम्",
+          "label":"पूर्वार्धम्",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -26602,7 +26602,7 @@
         {
           "name": "2_uttaraardh",
           "type": "folder",
-          "hindi_name":"उत्तरार्धम्",
+          "label":"उत्तरार्धम्",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -26811,7 +26811,7 @@
     {
       "name": "varahapuranam",
       "type": "folder",
-      "hindi_name":"वराहपुराणम्",
+      "label":"वराहपुराणम्",
       "children": [
         {
           "name": "adhyay_1.txt",
@@ -27690,12 +27690,12 @@
     {
       "name": "vishnupuranam",
       "type": "folder",
-      "hindi_name":"विष्णुपुराणम्",
+      "label":"विष्णुपुराणम्",
       "children": [
         {
           "name": "1_prathamaanshah",
           "type": "folder",
-          "hindi_name":"प्रथमांशः",
+          "label":"प्रथमांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27790,7 +27790,7 @@
         {
           "name": "2_dviteeyaanshah",
           "type": "folder",
-          "hindi_name":"द्वितीयांशः",
+          "label":"द्वितीयांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27861,7 +27861,7 @@
         {
           "name": "3_trteeyaanshah",
           "type": "folder",
-          "hindi_name":"तृतीयांशः",
+          "label":"तृतीयांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -27940,7 +27940,7 @@
         {
           "name": "4_chaturthaanshah",
           "type": "folder",
-          "hindi_name":"चतुर्थांशः",
+          "label":"चतुर्थांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -28043,7 +28043,7 @@
         {
           "name": "5_panchamaanshah",
           "type": "folder",
-          "hindi_name":"पञ्चमांशः",
+          "label":"पञ्चमांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
@@ -28202,7 +28202,7 @@
         {
           "name": "6_shashtaanshah",
           "type": "folder",
-          "hindi_name":"षष्टांशः",
+          "label":"षष्टांशः",
           "children": [
             {
               "name": "adhyay_1.txt",
