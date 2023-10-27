@@ -1,0 +1,149 @@
+<div id="ws-data" class="ws-noexport" style="display:none; speak:none">
+<p><span id="ws-title"><a href="/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="श्रीमद्भागवतपुराणम्">श्रीमद्भागवतपुराणम्</a></span>
+<span id="ws-author">वेदव्यासः</span>
+<span id="ws-year"></span>
+</p>
+</div>
+<table style="width:100%; margin-bottom:5px; border: 1px solid #ADA; background-color: #FFFFFF; text-align:center; font-size:0.9em;">
+
+<tbody><tr>
+<td style="width:20%; text-align:left; font-size:0.9em;">←&nbsp;<a href="/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%83_%E0%A5%AC/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A6" title="श्रीमद्भागवतपुराणम्/स्कन्धः ६/अध्यायः १०">अध्यायः १०</a>
+</td>
+<td style="width:60%;"><span style="font-size:110%"><b><a href="/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="श्रीमद्भागवतपुराणम्">श्रीमद्भागवतपुराणम्</a></b></span><br>अध्यायः ११<br> <a href="/wiki/%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%95%E0%A4%83:%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%83" title="लेखकः:वेदव्यासः">वेदव्यासः</a>
+</td>
+<td style="width:200%; text-align:right;font-size:0.9em;"><a href="/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%83_%E0%A5%AC/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%A8" title="श्रीमद्भागवतपुराणम्/स्कन्धः ६/अध्यायः १२">अध्यायः १२</a>&nbsp;→
+</td></tr></tbody></table>
+<table style="width:100%; border-bottom:1px solid #A88; background:#FFFFFF; font-size:0.9em;">
+
+<tbody><tr>
+<td>
+</td></tr></tbody></table>
+<p>श्रीमद्‌भागवत महापुराण
+</p><p>षष्ठः स्कन्धः - एकादशोऽध्यायः
+</p><p>
+वृत्रस्य भक्तिज्ञानवैराग्ययुक्त वीरोचितोद्‌गाराः -</p><center></center><p>श्रीशुक उवाच -&nbsp;
+</p><p>ते एवं शंसतो धर्मं वचः पत्युरचेतसः ।&nbsp;
+</p><p>नैवागृह्णन् भयत्रस्ताः पलायनपरा नृप ॥ १ ॥
+</p><p>विशीर्यमाणां पृतनां आसुरीं असुरर्षभः ।&nbsp;
+</p><p>कालानुकूलैः त्रिदशैः काल्यमानामनाथवत् ॥ २ ॥
+</p><p>दृष्ट्वातप्यत सङ्‌क्रुद्ध इन्द्रशत्रुरमर्षितः ।&nbsp;
+</p><p>तान्निवार्यौजसा राजन् निर्भर्त्स्येदमुवाच ह ॥ ३ ॥
+</p><p>किं व उच्चरितैर्मातुः धावद्‌भिः पृष्ठतो हतैः ।&nbsp;
+</p><p>न हि भीतवधः श्लाघ्यो न स्वर्ग्यः शूरमानिनाम् ॥ ४ ॥
+</p><p>यदि वः प्रधने श्रद्धा सारं वा क्षुल्लका हृदि ।&nbsp;
+</p><p>अग्रे तिष्ठत मात्रं मे न चेद्‍ग्राम्यसुखे स्पृहा ॥ ५ ॥
+</p><p>एवं सुरगणान् क्रुद्धो भीषयन् वपुषा रिपून् ।&nbsp;
+</p><p>व्यनदत्सुमहाप्राणो येन लोका विचेतसः ॥ ६ ॥
+</p><p>तेन देवगणाः सर्वे वृत्रविस्फोटनेन वै ।&nbsp;
+</p><p>निपेतुर्मूर्च्छिता भूमौ यथैवाशनिना हताः ॥ ७ ॥
+</p><p>ममर्द पद्‍भ्यां सुरसैन्यमातुरं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; निमीलिताक्षं रणरङ्‌गदुर्मदः ।&nbsp;
+</p><p>गां कम्पयन् उद्यतशूल ओजसा&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; नालं वनं यूथपतिर्यथोन्मदः ॥ ८ ॥
+</p><p>विलोक्य तं वज्रधरोऽत्यमर्षितः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; स्वशत्रवेऽभिद्रवते महागदाम् ।&nbsp;
+</p><p>चिक्षेप तामापततीं सुदुःसहां&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; जग्राह वामेन करेण लीलया ॥ ९ ॥
+</p><p>स इन्द्रशत्रुः कुपितो भृशं तया&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; महेन्द्रवाहं गदयोरुविक्रमः ।&nbsp;
+</p><p>जघान कुम्भस्थल उन्नदन् मृधे&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; तत्कर्म सर्वे समपूजयन् नृप ॥ १० ॥
+</p><p>ऐरावतो वृत्रगदाभिमृष्टो&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; विघूर्णितोऽद्रिः कुलिशाहतो यथा ।&nbsp;
+</p><p>अपासरद्‌ भिन्नमुखः सहेन्द्रो&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; मुञ्चन्नसृक् सप्तधनुर्भृशार्तः ॥ ११ ॥
+</p><p>न सन्नवाहाय विषण्णचेतसे&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; प्रायुङ्‌क्त भूयः स गदां महात्मा ।&nbsp;
+</p><p>इन्द्रोऽमृतस्यन्दिकराभिमर्श&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; वीतव्यथक्षतवाहोऽवतस्थे ॥ १२ ॥
+</p><p>स तं नृपेन्द्राहवकाम्यया रिपुं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; वज्रायुधं भ्रातृहणं विलोक्य ।&nbsp;
+</p><p>स्मरंश्च तत्कर्म नृशंसमंहः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; शोकेन मोहेन हसन् जगाद ॥ १३ ॥
+</p><p>श्रीवृत्र उवाच
+</p><p>दिष्ट्या भवान् मे समवस्थितो रिपुः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; यो ब्रह्महा गुरुहा भ्रातृहा च ।&nbsp;
+</p><p>दिष्ट्यानृणोऽद्याहमसत्तम त्वया&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; मच्छूलनिर्भिन्न दृषद्‌धृदाचिरात् ॥ १४ ॥&nbsp;
+</p><p>यो नोऽग्रजस्यात्मविदो द्विजातेः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; गुरोरपापस्य च दीक्षितस्य ।&nbsp;
+</p><p>विश्रभ्य खड्गेन शिरांस्यवृश्चय्&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; पशोरिवाकरुणः स्वर्गकामः ॥ १५ ॥
+</p><p>ह्रीश्रीदयाकीर्तिभिरुज्झितं त्वां&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; स्वकर्मणा पुरुषादैश्च गर्ह्यम् ।&nbsp;
+</p><p>कृच्छ्रेण मच्छूलविभिन्नदेहं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; अस्पृष्टवह्निं समदन्ति गृध्राः ॥ १६ ॥
+</p><p>अन्येऽनु ये त्वेह नृशंसमज्ञा&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; ये ह्युद्यतास्त्राः प्रहरन्ति मह्यम् ।&nbsp;
+</p><p>तैर्भूतनाथान् सगणान् निशात&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; त्रिशूलनिर्भिन्नगलैर्यजामि ॥ १७ ॥
+</p><p>अथो हरे मे कुलिशेन वीर&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; हर्ता प्रमथ्यैव शिरो यदीह ।&nbsp;
+</p><p>तत्रानृणो भूतबलिं विधाय&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; मनस्विनां पादरजः प्रपत्स्ये ॥ १८ ॥
+</p><p>सुरेश कस्मान्न हिनोषि वज्रं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; पुरः स्थिते वैरिणि मय्यमोघम् ।&nbsp;
+</p><p>मा संशयिष्ठा न गदेव वज्रः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; स्यान्निष्फलः कृपणार्थेव याच्ञा ॥ १९ ॥
+</p><p>नन्वेष वज्रस्तव शक्र तेजसा&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; हरेर्दधीचेस्तपसा च तेजितः ।&nbsp;
+</p><p>तेनैव शत्रुं जहि विष्णुयन्त्रितो&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; यतो हरिर्विजयः श्रीर्गुणास्ततः ॥ २० ॥
+</p><p>अहं समाधाय मनो यथाऽऽह&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; नः सङ्‌कर्षणस्तच्चरणारविन्दे ।&nbsp;
+</p><p>त्वद्वज्ररंहोलुलितग्राम्यपाशो&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; गतिं मुनेर्याम्यपविद्धलोकः ॥ २१ ॥
+</p><p>पुंसां किलैकान्तधियां स्वकानां&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; याः सम्पदो दिवि भूमौ रसायाम् ।&nbsp;
+</p><p>न राति यद् द्वेष उद्वेग आधिः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; मदः कलिर्व्यसनं सम्प्रयासः ॥ २२ ॥
+</p><p>त्रैवर्गिकायासविघातमस्मत्&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; पतिर्विधत्ते पुरुषस्य शक्र ।&nbsp;
+</p><p>ततोऽनुमेयो भगवत्प्रसादो&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; यो दुर्लभोऽकिञ्चनगोचरोऽन्यैः ॥ २३ ॥
+</p><p>अहं हरे तव पादैकमूल&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; दासानुदासो भवितास्मि भूयः ।&nbsp;
+</p><p>मनः स्मरेतासुपतेर्गुणांस्ते&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; गृणीत वाक्कर्म करोतु कायः ॥ २४ ॥
+</p><p>न नाकपृष्ठं न च पारमेष्ठ्यं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; न सार्वभौमं न रसाधिपत्यम् ।&nbsp;
+</p><p>न योगसिद्धीरपुनर्भवं वा&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; समञ्जस त्वा विरहय्य काङ्‌क्षे ॥ २५ ॥
+</p><p>अजातपक्षा इव मातरं खगाः&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; स्तन्यं यथा वत्सतराः क्षुधार्ताः ।&nbsp;
+</p><p>प्रियं प्रियेव व्युषितं विषण्णा&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; मनोऽरविन्दाक्ष दिदृक्षते त्वाम् ॥ २६ ॥
+</p><p>ममोत्तमश्लोकजनेषु सख्यं&nbsp;
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; संसारचक्रे भ्रमतः स्वकर्मभिः ।&nbsp;
+</p><p>त्वन्माययात्मात्मजदारगेहे
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp; ष्वासक्तचित्तस्य न नाथ भूयात् ॥ २७ ॥
+</p><p>इति श्रीमद्‌भागवते महापुराणे पारमहंस्यां संहितायां&nbsp;
+</p><p>षष्ठस्कन्धे इन्द्रवृत्रासुरयुद्धवर्णनं नाम एकादशोऽध्या‍यः ॥ ११ ॥&nbsp;
+</p><p>हरिः ॐ तत्सत् श्रीकृष्णार्पणमस्तु ॥&nbsp;
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐8cd667d59‐sxgh9
+Cached time: 20231023061916
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.008 seconds
+Real time usage: 0.012 seconds
+Preprocessor visited node count: 60/1000000
+Post‐expand include size: 1084/2097152 bytes
+Template argument size: 807/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.327      1 फलकम्:Header
+100.00%    2.327      1 -total
+-->
+
+<!-- Saved in parser cache with key sawikisource:pcache:idhash:46891-0!canonical and timestamp 20231023061916 and revision id 183702. Rendering was triggered because: page-view
+ -->
