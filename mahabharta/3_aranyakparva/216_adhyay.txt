@@ -1,25 +1,6 @@
-
-<tbody><tr>
-<th style="background: #ccf; text-align: center;">महाभारतस्य पर्वाणि<br>
-</th></tr>
-<tr>
-<td style="font-size: 90%;">
-<ol><li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%A7-%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०१-आदिपर्व">आदिपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%A8-%E0%A4%B8%E0%A4%AD%E0%A4%BE%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०२-सभापर्व">सभापर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%A9-%E0%A4%86%E0%A4%B0%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०३-आरण्यकपर्व">आरण्यकपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AA-%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%9F%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०४-विराटपर्व">विराटपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AB-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०५-उद्योगपर्व">उद्योगपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AC-%E0%A4%AD%E0%A5%80%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०६-भीष्मपर्व">भीष्मपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AD-%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A3%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०७-द्रोणपर्व">द्रोणपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AE-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०८-कर्णपर्व">कर्णपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A6%E0%A5%AF-%E0%A4%B6%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-०९-शल्यपर्व">शल्यपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%A6-%E0%A4%B8%E0%A5%8C%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१०-सौप्तिकपर्व">सौप्तिकपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%A7-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-११-स्त्रीपर्व">स्त्रीपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%A8-%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१२-शांतिपर्व">शान्तिपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%A9-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१३-अनुशासनपर्व">अनुशासनपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AA-%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%87%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१४-आश्वमेधिकपर्व">आश्वमेधिकपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AB-%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१५-आश्रमवासिकपर्व">आश्रमवासिकपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AC-%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%B2%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१६-मौसलपर्व">मौसलपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AD-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१७-महाप्रस्थानिकपर्व">महाप्रस्थानिकपर्व</a></li>
-<li><a href="/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AE-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A4%A3%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5" class="mw-redirect" title="महाभारतम्-१८-स्वर्गारोहणपर्व">स्वर्गारोहणपर्व</a></li></ol>
-</td></tr></tbody>
+3-216-10 नचास्य संशयो नाम इति झ. पाठः ।।<br>
+3-216-27 समानोदानयोर्मध्येप्राणपानौ समाहितौ इति झ. पाठः ।।<br>
+३-२१६-३४ मूर्तिमन्तं हि तं विद्धि नित्यं कर्मजितात्मकम्।<br>
+३-२१६-३५ आत्मानं तं विजानीहि नित्यं योगजितात्मकं ।।<br>
+3-216-45 धर्मे रक्षेच्च मत्सरात् इति झ. पाठः ।।<br>
+3-216-50 मैत्रं मित्रभावस्तदेवायनं मार्गस्तद्गतश्चरेत् ।।
