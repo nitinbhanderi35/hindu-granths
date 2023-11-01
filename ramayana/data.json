@@ -1,0 +1,3281 @@
+{
+  "name": "ramayana",
+  "type": "folder",
+  "label": "रामायणम्",
+  "children": [
+    {
+      "name": "1_balkandam",
+      "type": "folder",
+      "label": "बालकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        },
+        {
+          "name": "69_saragah.txt",
+          "label": "सर्गः 69",
+          "type": "file"
+        },
+        {
+          "name": "70_saragah.txt",
+          "label": "सर्गः 70",
+          "type": "file"
+        },
+        {
+          "name": "71_saragah.txt",
+          "label": "सर्गः 71",
+          "type": "file"
+        },
+        {
+          "name": "72_saragah.txt",
+          "label": "सर्गः 72",
+          "type": "file"
+        },
+        {
+          "name": "73_saragah.txt",
+          "label": "सर्गः 73",
+          "type": "file"
+        },
+        {
+          "name": "74_saragah.txt",
+          "label": "सर्गः 74",
+          "type": "file"
+        },
+        {
+          "name": "75_saragah.txt",
+          "label": "सर्गः 75",
+          "type": "file"
+        },
+        {
+          "name": "76_saragah.txt",
+          "label": "सर्गः 76",
+          "type": "file"
+        },
+        {
+          "name": "77_saragah.txt",
+          "label": "सर्गः 77",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "2_ayodhyakandam",
+      "type": "folder",
+      "label": "अयोध्याकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        },
+        {
+          "name": "69_saragah.txt",
+          "label": "सर्गः 69",
+          "type": "file"
+        },
+        {
+          "name": "70_saragah.txt",
+          "label": "सर्गः 70",
+          "type": "file"
+        },
+        {
+          "name": "71_saragah.txt",
+          "label": "सर्गः 71",
+          "type": "file"
+        },
+        {
+          "name": "72_saragah.txt",
+          "label": "सर्गः 72",
+          "type": "file"
+        },
+        {
+          "name": "73_saragah.txt",
+          "label": "सर्गः 73",
+          "type": "file"
+        },
+        {
+          "name": "74_saragah.txt",
+          "label": "सर्गः 74",
+          "type": "file"
+        },
+        {
+          "name": "75_saragah.txt",
+          "label": "सर्गः 75",
+          "type": "file"
+        },
+        {
+          "name": "76_saragah.txt",
+          "label": "सर्गः 76",
+          "type": "file"
+        },
+        {
+          "name": "77_saragah.txt",
+          "label": "सर्गः 77",
+          "type": "file"
+        },
+        {
+          "name": "78_saragah.txt",
+          "label": "सर्गः 78",
+          "type": "file"
+        },
+        {
+          "name": "79_saragah.txt",
+          "label": "सर्गः 79",
+          "type": "file"
+        },
+        {
+          "name": "80_saragah.txt",
+          "label": "सर्गः 80",
+          "type": "file"
+        },
+        {
+          "name": "81_saragah.txt",
+          "label": "सर्गः 81",
+          "type": "file"
+        },
+        {
+          "name": "82_saragah.txt",
+          "label": "सर्गः 82",
+          "type": "file"
+        },
+        {
+          "name": "83_saragah.txt",
+          "label": "सर्गः 83",
+          "type": "file"
+        },
+        {
+          "name": "84_saragah.txt",
+          "label": "सर्गः 84",
+          "type": "file"
+        },
+        {
+          "name": "85_saragah.txt",
+          "label": "सर्गः 85",
+          "type": "file"
+        },
+        {
+          "name": "86_saragah.txt",
+          "label": "सर्गः 86",
+          "type": "file"
+        },
+        {
+          "name": "87_saragah.txt",
+          "label": "सर्गः 87",
+          "type": "file"
+        },
+        {
+          "name": "88_saragah.txt",
+          "label": "सर्गः 88",
+          "type": "file"
+        },
+        {
+          "name": "89_saragah.txt",
+          "label": "सर्गः 89",
+          "type": "file"
+        },
+        {
+          "name": "90_saragah.txt",
+          "label": "सर्गः 90",
+          "type": "file"
+        },
+        {
+          "name": "91_saragah.txt",
+          "label": "सर्गः 91",
+          "type": "file"
+        },
+        {
+          "name": "92_saragah.txt",
+          "label": "सर्गः 92",
+          "type": "file"
+        },
+        {
+          "name": "93_saragah.txt",
+          "label": "सर्गः 93",
+          "type": "file"
+        },
+        {
+          "name": "94_saragah.txt",
+          "label": "सर्गः 94",
+          "type": "file"
+        },
+        {
+          "name": "95_saragah.txt",
+          "label": "सर्गः 95",
+          "type": "file"
+        },
+        {
+          "name": "96_saragah.txt",
+          "label": "सर्गः 96",
+          "type": "file"
+        },
+        {
+          "name": "97_saragah.txt",
+          "label": "सर्गः 97",
+          "type": "file"
+        },
+        {
+          "name": "98_saragah.txt",
+          "label": "सर्गः 98",
+          "type": "file"
+        },
+        {
+          "name": "99_saragah.txt",
+          "label": "सर्गः 99",
+          "type": "file"
+        },
+        {
+          "name": "100_saragah.txt",
+          "label": "सर्गः 100",
+          "type": "file"
+        },
+        {
+          "name": "101_saragah.txt",
+          "label": "सर्गः 101",
+          "type": "file"
+        },
+        {
+          "name": "102_saragah.txt",
+          "label": "सर्गः 102",
+          "type": "file"
+        },
+        {
+          "name": "103_saragah.txt",
+          "label": "सर्गः 103",
+          "type": "file"
+        },
+        {
+          "name": "104_saragah.txt",
+          "label": "सर्गः 104",
+          "type": "file"
+        },
+        {
+          "name": "105_saragah.txt",
+          "label": "सर्गः 105",
+          "type": "file"
+        },
+        {
+          "name": "106_saragah.txt",
+          "label": "सर्गः 106",
+          "type": "file"
+        },
+        {
+          "name": "107_saragah.txt",
+          "label": "सर्गः 107",
+          "type": "file"
+        },
+        {
+          "name": "108_saragah.txt",
+          "label": "सर्गः 108",
+          "type": "file"
+        },
+        {
+          "name": "109_saragah.txt",
+          "label": "सर्गः 109",
+          "type": "file"
+        },
+        {
+          "name": "110_saragah.txt",
+          "label": "सर्गः 110",
+          "type": "file"
+        },
+        {
+          "name": "111_saragah.txt",
+          "label": "सर्गः 111",
+          "type": "file"
+        },
+        {
+          "name": "112_saragah.txt",
+          "label": "सर्गः 112",
+          "type": "file"
+        },
+        {
+          "name": "113_saragah.txt",
+          "label": "सर्गः 113",
+          "type": "file"
+        },
+        {
+          "name": "114_saragah.txt",
+          "label": "सर्गः 114",
+          "type": "file"
+        },
+        {
+          "name": "115_saragah.txt",
+          "label": "सर्गः 115",
+          "type": "file"
+        },
+        {
+          "name": "116_saragah.txt",
+          "label": "सर्गः 116",
+          "type": "file"
+        },
+        {
+          "name": "117_saragah.txt",
+          "label": "सर्गः 117",
+          "type": "file"
+        },
+        {
+          "name": "118_saragah.txt",
+          "label": "सर्गः 118",
+          "type": "file"
+        },
+        {
+          "name": "119_saragah.txt",
+          "label": "सर्गः 119",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "3_aranyakandam",
+      "type": "folder",
+      "label": "अरण्यकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        },
+        {
+          "name": "69_saragah.txt",
+          "label": "सर्गः 69",
+          "type": "file"
+        },
+        {
+          "name": "70_saragah.txt",
+          "label": "सर्गः 70",
+          "type": "file"
+        },
+        {
+          "name": "71_saragah.txt",
+          "label": "सर्गः 71",
+          "type": "file"
+        },
+        {
+          "name": "72_saragah.txt",
+          "label": "सर्गः 72",
+          "type": "file"
+        },
+        {
+          "name": "73_saragah.txt",
+          "label": "सर्गः 73",
+          "type": "file"
+        },
+        {
+          "name": "74_saragah.txt",
+          "label": "सर्गः 74",
+          "type": "file"
+        },
+        {
+          "name": "75_saragah.txt",
+          "label": "सर्गः 75",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "4_kishkindhakandam",
+      "type": "folder",
+      "label": "किष्किन्धाकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "5_sundarkandam",
+      "type": "folder",
+      "label": "सुन्दरकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "6_yudhkandam",
+      "type": "folder",
+      "label": "युद्धकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        },
+        {
+          "name": "69_saragah.txt",
+          "label": "सर्गः 69",
+          "type": "file"
+        },
+        {
+          "name": "70_saragah.txt",
+          "label": "सर्गः 70",
+          "type": "file"
+        },
+        {
+          "name": "71_saragah.txt",
+          "label": "सर्गः 71",
+          "type": "file"
+        },
+        {
+          "name": "72_saragah.txt",
+          "label": "सर्गः 72",
+          "type": "file"
+        },
+        {
+          "name": "73_saragah.txt",
+          "label": "सर्गः 73",
+          "type": "file"
+        },
+        {
+          "name": "74_saragah.txt",
+          "label": "सर्गः 74",
+          "type": "file"
+        },
+        {
+          "name": "75_saragah.txt",
+          "label": "सर्गः 75",
+          "type": "file"
+        },
+        {
+          "name": "76_saragah.txt",
+          "label": "सर्गः 76",
+          "type": "file"
+        },
+        {
+          "name": "77_saragah.txt",
+          "label": "सर्गः 77",
+          "type": "file"
+        },
+        {
+          "name": "78_saragah.txt",
+          "label": "सर्गः 78",
+          "type": "file"
+        },
+        {
+          "name": "79_saragah.txt",
+          "label": "सर्गः 79",
+          "type": "file"
+        },
+        {
+          "name": "80_saragah.txt",
+          "label": "सर्गः 80",
+          "type": "file"
+        },
+        {
+          "name": "81_saragah.txt",
+          "label": "सर्गः 81",
+          "type": "file"
+        },
+        {
+          "name": "82_saragah.txt",
+          "label": "सर्गः 82",
+          "type": "file"
+        },
+        {
+          "name": "83_saragah.txt",
+          "label": "सर्गः 83",
+          "type": "file"
+        },
+        {
+          "name": "84_saragah.txt",
+          "label": "सर्गः 84",
+          "type": "file"
+        },
+        {
+          "name": "85_saragah.txt",
+          "label": "सर्गः 85",
+          "type": "file"
+        },
+        {
+          "name": "86_saragah.txt",
+          "label": "सर्गः 86",
+          "type": "file"
+        },
+        {
+          "name": "87_saragah.txt",
+          "label": "सर्गः 87",
+          "type": "file"
+        },
+        {
+          "name": "88_saragah.txt",
+          "label": "सर्गः 88",
+          "type": "file"
+        },
+        {
+          "name": "89_saragah.txt",
+          "label": "सर्गः 89",
+          "type": "file"
+        },
+        {
+          "name": "90_saragah.txt",
+          "label": "सर्गः 90",
+          "type": "file"
+        },
+        {
+          "name": "91_saragah.txt",
+          "label": "सर्गः 91",
+          "type": "file"
+        },
+        {
+          "name": "92_saragah.txt",
+          "label": "सर्गः 92",
+          "type": "file"
+        },
+        {
+          "name": "93_saragah.txt",
+          "label": "सर्गः 93",
+          "type": "file"
+        },
+        {
+          "name": "94_saragah.txt",
+          "label": "सर्गः 94",
+          "type": "file"
+        },
+        {
+          "name": "95_saragah.txt",
+          "label": "सर्गः 95",
+          "type": "file"
+        },
+        {
+          "name": "96_saragah.txt",
+          "label": "सर्गः 96",
+          "type": "file"
+        },
+        {
+          "name": "97_saragah.txt",
+          "label": "सर्गः 97",
+          "type": "file"
+        },
+        {
+          "name": "98_saragah.txt",
+          "label": "सर्गः 98",
+          "type": "file"
+        },
+        {
+          "name": "99_saragah.txt",
+          "label": "सर्गः 99",
+          "type": "file"
+        },
+        {
+          "name": "100_saragah.txt",
+          "label": "सर्गः 100",
+          "type": "file"
+        },
+        {
+          "name": "101_saragah.txt",
+          "label": "सर्गः 101",
+          "type": "file"
+        },
+        {
+          "name": "102_saragah.txt",
+          "label": "सर्गः 102",
+          "type": "file"
+        },
+        {
+          "name": "103_saragah.txt",
+          "label": "सर्गः 103",
+          "type": "file"
+        },
+        {
+          "name": "104_saragah.txt",
+          "label": "सर्गः 104",
+          "type": "file"
+        },
+        {
+          "name": "105_saragah.txt",
+          "label": "सर्गः 105",
+          "type": "file"
+        },
+        {
+          "name": "106_saragah.txt",
+          "label": "सर्गः 106",
+          "type": "file"
+        },
+        {
+          "name": "107_saragah.txt",
+          "label": "सर्गः 107",
+          "type": "file"
+        },
+        {
+          "name": "108_saragah.txt",
+          "label": "सर्गः 108",
+          "type": "file"
+        },
+        {
+          "name": "109_saragah.txt",
+          "label": "सर्गः 109",
+          "type": "file"
+        },
+        {
+          "name": "110_saragah.txt",
+          "label": "सर्गः 110",
+          "type": "file"
+        },
+        {
+          "name": "111_saragah.txt",
+          "label": "सर्गः 111",
+          "type": "file"
+        },
+        {
+          "name": "112_saragah.txt",
+          "label": "सर्गः 112",
+          "type": "file"
+        },
+        {
+          "name": "113_saragah.txt",
+          "label": "सर्गः 113",
+          "type": "file"
+        },
+        {
+          "name": "114_saragah.txt",
+          "label": "सर्गः 114",
+          "type": "file"
+        },
+        {
+          "name": "115_saragah.txt",
+          "label": "सर्गः 115",
+          "type": "file"
+        },
+        {
+          "name": "116_saragah.txt",
+          "label": "सर्गः 116",
+          "type": "file"
+        },
+        {
+          "name": "117_saragah.txt",
+          "label": "सर्गः 117",
+          "type": "file"
+        },
+        {
+          "name": "118_saragah.txt",
+          "label": "सर्गः 118",
+          "type": "file"
+        },
+        {
+          "name": "119_saragah.txt",
+          "label": "सर्गः 119",
+          "type": "file"
+        },
+        {
+          "name": "120_saragah.txt",
+          "label": "सर्गः 120",
+          "type": "file"
+        },
+        {
+          "name": "121_saragah.txt",
+          "label": "सर्गः 121",
+          "type": "file"
+        },
+        {
+          "name": "122_saragah.txt",
+          "label": "सर्गः 122",
+          "type": "file"
+        },
+        {
+          "name": "123_saragah.txt",
+          "label": "सर्गः 123",
+          "type": "file"
+        },
+        {
+          "name": "124_saragah.txt",
+          "label": "सर्गः 124",
+          "type": "file"
+        },
+        {
+          "name": "125_saragah.txt",
+          "label": "सर्गः 125",
+          "type": "file"
+        },
+        {
+          "name": "126_saragah.txt",
+          "label": "सर्गः 126",
+          "type": "file"
+        },
+        {
+          "name": "127_saragah.txt",
+          "label": "सर्गः 127",
+          "type": "file"
+        },
+        {
+          "name": "128_saragah.txt",
+          "label": "सर्गः 128",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "7_uttarkandam",
+      "type": "folder",
+      "label": "उत्तरकाण्डम्",
+      "children": [
+        {
+          "name": "1_saragah.txt",
+          "label": "सर्गः 1",
+          "type": "file"
+        },
+        {
+          "name": "2_saragah.txt",
+          "label": "सर्गः 2",
+          "type": "file"
+        },
+        {
+          "name": "3_saragah.txt",
+          "label": "सर्गः 3",
+          "type": "file"
+        },
+        {
+          "name": "4_saragah.txt",
+          "label": "सर्गः 4",
+          "type": "file"
+        },
+        {
+          "name": "5_saragah.txt",
+          "label": "सर्गः 5",
+          "type": "file"
+        },
+        {
+          "name": "6_saragah.txt",
+          "label": "सर्गः 6",
+          "type": "file"
+        },
+        {
+          "name": "7_saragah.txt",
+          "label": "सर्गः 7",
+          "type": "file"
+        },
+        {
+          "name": "8_saragah.txt",
+          "label": "सर्गः 8",
+          "type": "file"
+        },
+        {
+          "name": "9_saragah.txt",
+          "label": "सर्गः 9",
+          "type": "file"
+        },
+        {
+          "name": "10_saragah.txt",
+          "label": "सर्गः 10",
+          "type": "file"
+        },
+        {
+          "name": "11_saragah.txt",
+          "label": "सर्गः 11",
+          "type": "file"
+        },
+        {
+          "name": "12_saragah.txt",
+          "label": "सर्गः 12",
+          "type": "file"
+        },
+        {
+          "name": "13_saragah.txt",
+          "label": "सर्गः 13",
+          "type": "file"
+        },
+        {
+          "name": "14_saragah.txt",
+          "label": "सर्गः 14",
+          "type": "file"
+        },
+        {
+          "name": "15_saragah.txt",
+          "label": "सर्गः 15",
+          "type": "file"
+        },
+        {
+          "name": "16_saragah.txt",
+          "label": "सर्गः 16",
+          "type": "file"
+        },
+        {
+          "name": "17_saragah.txt",
+          "label": "सर्गः 17",
+          "type": "file"
+        },
+        {
+          "name": "18_saragah.txt",
+          "label": "सर्गः 18",
+          "type": "file"
+        },
+        {
+          "name": "19_saragah.txt",
+          "label": "सर्गः 19",
+          "type": "file"
+        },
+        {
+          "name": "20_saragah.txt",
+          "label": "सर्गः 20",
+          "type": "file"
+        },
+        {
+          "name": "21_saragah.txt",
+          "label": "सर्गः 21",
+          "type": "file"
+        },
+        {
+          "name": "22_saragah.txt",
+          "label": "सर्गः 22",
+          "type": "file"
+        },
+        {
+          "name": "23_saragah.txt",
+          "label": "सर्गः 23",
+          "type": "file"
+        },
+        {
+          "name": "24_saragah.txt",
+          "label": "सर्गः 24",
+          "type": "file"
+        },
+        {
+          "name": "25_saragah.txt",
+          "label": "सर्गः 25",
+          "type": "file"
+        },
+        {
+          "name": "26_saragah.txt",
+          "label": "सर्गः 26",
+          "type": "file"
+        },
+        {
+          "name": "27_saragah.txt",
+          "label": "सर्गः 27",
+          "type": "file"
+        },
+        {
+          "name": "28_saragah.txt",
+          "label": "सर्गः 28",
+          "type": "file"
+        },
+        {
+          "name": "29_saragah.txt",
+          "label": "सर्गः 29",
+          "type": "file"
+        },
+        {
+          "name": "30_saragah.txt",
+          "label": "सर्गः 30",
+          "type": "file"
+        },
+        {
+          "name": "31_saragah.txt",
+          "label": "सर्गः 31",
+          "type": "file"
+        },
+        {
+          "name": "32_saragah.txt",
+          "label": "सर्गः 32",
+          "type": "file"
+        },
+        {
+          "name": "33_saragah.txt",
+          "label": "सर्गः 33",
+          "type": "file"
+        },
+        {
+          "name": "34_saragah.txt",
+          "label": "सर्गः 34",
+          "type": "file"
+        },
+        {
+          "name": "35_saragah.txt",
+          "label": "सर्गः 35",
+          "type": "file"
+        },
+        {
+          "name": "36_saragah.txt",
+          "label": "सर्गः 36",
+          "type": "file"
+        },
+        {
+          "name": "37_saragah.txt",
+          "label": "सर्गः 37",
+          "type": "file"
+        },
+        {
+          "name": "38_saragah.txt",
+          "label": "सर्गः 38",
+          "type": "file"
+        },
+        {
+          "name": "39_saragah.txt",
+          "label": "सर्गः 39",
+          "type": "file"
+        },
+        {
+          "name": "40_saragah.txt",
+          "label": "सर्गः 40",
+          "type": "file"
+        },
+        {
+          "name": "41_saragah.txt",
+          "label": "सर्गः 41",
+          "type": "file"
+        },
+        {
+          "name": "42_saragah.txt",
+          "label": "सर्गः 42",
+          "type": "file"
+        },
+        {
+          "name": "43_saragah.txt",
+          "label": "सर्गः 43",
+          "type": "file"
+        },
+        {
+          "name": "44_saragah.txt",
+          "label": "सर्गः 44",
+          "type": "file"
+        },
+        {
+          "name": "45_saragah.txt",
+          "label": "सर्गः 45",
+          "type": "file"
+        },
+        {
+          "name": "46_saragah.txt",
+          "label": "सर्गः 46",
+          "type": "file"
+        },
+        {
+          "name": "47_saragah.txt",
+          "label": "सर्गः 47",
+          "type": "file"
+        },
+        {
+          "name": "48_saragah.txt",
+          "label": "सर्गः 48",
+          "type": "file"
+        },
+        {
+          "name": "49_saragah.txt",
+          "label": "सर्गः 49",
+          "type": "file"
+        },
+        {
+          "name": "50_saragah.txt",
+          "label": "सर्गः 50",
+          "type": "file"
+        },
+        {
+          "name": "51_saragah.txt",
+          "label": "सर्गः 51",
+          "type": "file"
+        },
+        {
+          "name": "52_saragah.txt",
+          "label": "सर्गः 52",
+          "type": "file"
+        },
+        {
+          "name": "53_saragah.txt",
+          "label": "सर्गः 53",
+          "type": "file"
+        },
+        {
+          "name": "54_saragah.txt",
+          "label": "सर्गः 54",
+          "type": "file"
+        },
+        {
+          "name": "55_saragah.txt",
+          "label": "सर्गः 55",
+          "type": "file"
+        },
+        {
+          "name": "56_saragah.txt",
+          "label": "सर्गः 56",
+          "type": "file"
+        },
+        {
+          "name": "57_saragah.txt",
+          "label": "सर्गः 57",
+          "type": "file"
+        },
+        {
+          "name": "58_saragah.txt",
+          "label": "सर्गः 58",
+          "type": "file"
+        },
+        {
+          "name": "59_saragah.txt",
+          "label": "सर्गः 59",
+          "type": "file"
+        },
+        {
+          "name": "60_saragah.txt",
+          "label": "सर्गः 60",
+          "type": "file"
+        },
+        {
+          "name": "61_saragah.txt",
+          "label": "सर्गः 61",
+          "type": "file"
+        },
+        {
+          "name": "62_saragah.txt",
+          "label": "सर्गः 62",
+          "type": "file"
+        },
+        {
+          "name": "63_saragah.txt",
+          "label": "सर्गः 63",
+          "type": "file"
+        },
+        {
+          "name": "64_saragah.txt",
+          "label": "सर्गः 64",
+          "type": "file"
+        },
+        {
+          "name": "65_saragah.txt",
+          "label": "सर्गः 65",
+          "type": "file"
+        },
+        {
+          "name": "66_saragah.txt",
+          "label": "सर्गः 66",
+          "type": "file"
+        },
+        {
+          "name": "67_saragah.txt",
+          "label": "सर्गः 67",
+          "type": "file"
+        },
+        {
+          "name": "68_saragah.txt",
+          "label": "सर्गः 68",
+          "type": "file"
+        },
+        {
+          "name": "69_saragah.txt",
+          "label": "सर्गः 69",
+          "type": "file"
+        },
+        {
+          "name": "70_saragah.txt",
+          "label": "सर्गः 70",
+          "type": "file"
+        },
+        {
+          "name": "71_saragah.txt",
+          "label": "सर्गः 71",
+          "type": "file"
+        },
+        {
+          "name": "72_saragah.txt",
+          "label": "सर्गः 72",
+          "type": "file"
+        },
+        {
+          "name": "73_saragah.txt",
+          "label": "सर्गः 73",
+          "type": "file"
+        },
+        {
+          "name": "74_saragah.txt",
+          "label": "सर्गः 74",
+          "type": "file"
+        },
+        {
+          "name": "75_saragah.txt",
+          "label": "सर्गः 75",
+          "type": "file"
+        },
+        {
+          "name": "76_saragah.txt",
+          "label": "सर्गः 76",
+          "type": "file"
+        },
+        {
+          "name": "77_saragah.txt",
+          "label": "सर्गः 77",
+          "type": "file"
+        },
+        {
+          "name": "78_saragah.txt",
+          "label": "सर्गः 78",
+          "type": "file"
+        },
+        {
+          "name": "79_saragah.txt",
+          "label": "सर्गः 79",
+          "type": "file"
+        },
+        {
+          "name": "80_saragah.txt",
+          "label": "सर्गः 80",
+          "type": "file"
+        },
+        {
+          "name": "81_saragah.txt",
+          "label": "सर्गः 81",
+          "type": "file"
+        },
+        {
+          "name": "82_saragah.txt",
+          "label": "सर्गः 82",
+          "type": "file"
+        },
+        {
+          "name": "83_saragah.txt",
+          "label": "सर्गः 83",
+          "type": "file"
+        },
+        {
+          "name": "84_saragah.txt",
+          "label": "सर्गः 84",
+          "type": "file"
+        },
+        {
+          "name": "85_saragah.txt",
+          "label": "सर्गः 85",
+          "type": "file"
+        },
+        {
+          "name": "86_saragah.txt",
+          "label": "सर्गः 86",
+          "type": "file"
+        },
+        {
+          "name": "87_saragah.txt",
+          "label": "सर्गः 87",
+          "type": "file"
+        },
+        {
+          "name": "88_saragah.txt",
+          "label": "सर्गः 88",
+          "type": "file"
+        },
+        {
+          "name": "89_saragah.txt",
+          "label": "सर्गः 89",
+          "type": "file"
+        },
+        {
+          "name": "90_saragah.txt",
+          "label": "सर्गः 90",
+          "type": "file"
+        },
+        {
+          "name": "91_saragah.txt",
+          "label": "सर्गः 91",
+          "type": "file"
+        },
+        {
+          "name": "92_saragah.txt",
+          "label": "सर्गः 92",
+          "type": "file"
+        },
+        {
+          "name": "93_saragah.txt",
+          "label": "सर्गः 93",
+          "type": "file"
+        },
+        {
+          "name": "94_saragah.txt",
+          "label": "सर्गः 94",
+          "type": "file"
+        },
+        {
+          "name": "95_saragah.txt",
+          "label": "सर्गः 95",
+          "type": "file"
+        },
+        {
+          "name": "96_saragah.txt",
+          "label": "सर्गः 96",
+          "type": "file"
+        },
+        {
+          "name": "97_saragah.txt",
+          "label": "सर्गः 97",
+          "type": "file"
+        },
+        {
+          "name": "98_saragah.txt",
+          "label": "सर्गः 98",
+          "type": "file"
+        },
+        {
+          "name": "99_saragah.txt",
+          "label": "सर्गः 99",
+          "type": "file"
+        },
+        {
+          "name": "100_saragah.txt",
+          "label": "सर्गः 100",
+          "type": "file"
+        },
+        {
+          "name": "101_saragah.txt",
+          "label": "सर्गः 101",
+          "type": "file"
+        },
+        {
+          "name": "102_saragah.txt",
+          "label": "सर्गः 102",
+          "type": "file"
+        },
+        {
+          "name": "103_saragah.txt",
+          "label": "सर्गः 103",
+          "type": "file"
+        },
+        {
+          "name": "104_saragah.txt",
+          "label": "सर्गः 104",
+          "type": "file"
+        },
+        {
+          "name": "105_saragah.txt",
+          "label": "सर्गः 105",
+          "type": "file"
+        },
+        {
+          "name": "106_saragah.txt",
+          "label": "सर्गः 106",
+          "type": "file"
+        },
+        {
+          "name": "107_saragah.txt",
+          "label": "सर्गः 107",
+          "type": "file"
+        },
+        {
+          "name": "108_saragah.txt",
+          "label": "सर्गः 108",
+          "type": "file"
+        },
+        {
+          "name": "109_saragah.txt",
+          "label": "सर्गः 109",
+          "type": "file"
+        },
+        {
+          "name": "110_saragah.txt",
+          "label": "सर्गः 110",
+          "type": "file"
+        },
+        {
+          "name": "111_saragah.txt",
+          "label": "सर्गः 111",
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+
+<table style="width:100%; margin-bottom:5px; border: 1px solid #ADA; background-color: #FFFFFF; text-align:center; font-size:0.9em;">
+
+<tbody><tr>
+<td style="width:20%; text-align:left; font-size:0.9em;">←&nbsp;<a href="/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83_%E0%A5%AE%E0%A5%AB" title="रामायणम्/अयोध्याकाण्डम्/सर्गः ८५">सर्गः ८५</a>
+</td>
+<td style="width:60%;"><span style="font-size:110%"><b><a href="/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D" title="रामायणम्/अयोध्याकाण्डम्">रामायणम्/अयोध्याकाण्डम्</a></b></span><br>अयोध्याकाण्डम्<br> <a href="/wiki/%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%95%E0%A4%83:%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%BF%E0%A4%83" title="लेखकः:वाल्मीकिः">वाल्मीकिः</a>
+</td>
+<td style="width:200%; text-align:right;font-size:0.9em;"><a href="/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83_%E0%A5%AE%E0%A5%AD" title="रामायणम्/अयोध्याकाण्डम्/सर्गः ८७">सर्गः ८७</a>&nbsp;→
+</td></tr></tbody></table>
+<table style="width:100%; border-bottom:1px solid #A88; background:#FFFFFF; font-size:0.9em;">
+
+<tbody><tr>
+<td>
+</td></tr></tbody></table>
+<figure class="mw-default-size mw-halign-center" typeof="mw:File/Thumb"><span><audio id="mwe_player_0" controls="" preload="none" class="mw-file-element" width="220" style="width:220px;" data-durationhint="263" data-mwtitle="Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.ogg" data-mwprovider="wikimediacommons" resource="/wiki/%E0%A4%B8%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BE:Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.ogg"><source src="//upload.wikimedia.org/wikipedia/commons/e/ee/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-width="0" data-height="0"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.ogg/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.ogg.mp3" type="audio/mpeg" data-transcodekey="mp3" data-width="0" data-height="0"></audio></span><figcaption>षडशीतितमः सर्गः श्रूयताम्</figcaption></figure>
+<p><b>श्रीमद्वाल्मीकियरामायणे अयोध्याकाण्डे षडशीतितमः सर्गः ॥२-८६॥</b><br><br>
+</p><p>आचचक्षे अथ सद्भावम् लक्ष्मणस्य महात्मनः ।<br>
+भरताय अप्रमेयाय गुहो गहन गोचरः ॥२-८६-१॥<br><br>
+</p><p>तम् जाग्रतम् गुणैर् युक्तम् वर चाप इषु धारिणम् ।<br>
+भ्रातृ गुप्त्य् अर्थम् अत्यन्तम् अहम् लक्ष्मणम् अब्रवम् ॥२-८६-२॥<br><br>
+</p><p>इयम् तात सुखा शय्या त्वद् अर्थम् उपकल्पिता ।<br>
+प्रत्याश्वसिहि शेष्व अस्याम् सुखम् राघव नन्दन ॥२-८६-३॥<br><br>
+</p><p>उचितो अयम् जनः सर्वे दुह्खानाम् त्वम् सुख उचितः ।<br>
+धर्म आत्ममः तस्य गुप्त्य् अर्थम् जागरिष्यामहे वयम् ॥२-८६-४॥<br><br>
+</p><p>न हि रामात् प्रियतरो मम अस्ति भुवि कश्चन ।<br>
+मा उत्सुको भूर् ब्रवीम्य् एतद् अप्य् असत्यम् तव अग्रतः ॥२-८६-५॥<br><br>
+</p><p>अस्य प्रसादाद् आशम्से लोके अस्मिन् सुमहद् यशः ।<br>
+धर्म अवाप्तिम् च विपुलाम् अर्थ अवाप्तिम् च केवलाम् ॥२-८६-६॥<br><br>
+</p><p>सो अहम् प्रिय सखम् रामम् शयानम् सह सीतया ।<br>
+रक्षिष्यामि धनुष् पाणिः सर्वैः स्वैर् ज्नातिभिः सह ॥२-८६-७॥<br><br>
+</p><p>न हि मे अविदितम् किम्चिद् वने अस्मिमः चरतः सदा ।<br>
+चतुर् अन्गम् ह्य् अपि बलम् प्रसहेम वयम् युधि ॥२-८६-८॥<br><br>
+</p><p>एवम् अस्माभिर् उक्तेन लक्ष्मणेन महात्मना ।<br>
+अनुनीता वयम् सर्वे धर्मम् एव अनुपश्यता ॥२-८६-९॥<br><br>
+</p><p>कथम् दाशरथौ भूमौ शयाने सह सीतया ।<br>
+शक्या निद्रा मया लब्धुम् जीवितम् वा सुखानि वा ॥२-८६-१०॥<br><br>
+</p><p>यो न देव असुरैः सर्वैः शक्यः प्रसहितुम् युधि ।<br>
+तम् पश्य गुह सम्विष्टम् तृणेषु सह सीतया ॥२-८६-११॥<br><br>
+</p><p>महता तपसा लब्धो विविधैः च परिश्रमैः ।<br>
+एको दशरथस्य एष पुत्रः सदृश लक्षणः ॥२-८६-१२॥<br><br>
+</p><p>अस्मिन् प्रव्राजिते राजा न चिरम् वर्तयिष्यति ।<br>
+विधवा मेदिनी नूनम् क्षिप्रम् एव भविष्यति ॥२-८६-१३॥<br><br>
+</p><p>विनद्य सुमहा नादम् श्रमेण उपरताः स्त्रियः ।<br>
+निर्घोष उपरतम् नूनम् अद्य राज निवेशनम् ॥२-८६-१४॥<br><br>
+</p><p>कौसल्या चैव राजा च तथा एव जननी मम ।<br>
+न आशम्से यदि ते सर्वे जीवेयुः शर्वरीम् इमाम् ॥२-८६-१५॥<br><br>
+</p><p>जीवेद् अपि हि मे माता शत्रुघ्नस्य अन्ववेक्षया ।<br>
+दुह्खिता या तु कौसल्या वीरसूर् विनशिष्यति ॥२-८६-१६॥<br><br>
+</p><p>अतिक्रान्तम् अतिक्रान्तम् अनवाप्य मनो रथम् ।<br>
+राज्ये रामम् अनिक्षिप्य पिता मे विनशिष्यति ॥२-८६-१७॥<br><br>
+</p><p>सिद्ध अर्थाः पितरम् वृत्तम् तस्मिन् काले ह्य् उपस्थिते ।<br>
+प्रेत कार्येषु सर्वेषु सम्स्करिष्यन्ति भूमिपम् ॥२-८६-१८॥<br><br>
+</p><p>रम्य चत्वर सम्स्थानाम् सुविभक्त महा पथाम् ।<br>
+हर्म्य प्रासाद सम्पन्नाम् सर्व रत्न विभूषिताम् ॥२-८६-१९॥<br>
+गज अश्व रथ सम्बाधाम् तूर्य नाद विनादिताम् ।<br>
+सर्व कल्याण सम्पूर्णाम् हृष्ट पुष्ट जन आकुलाम् ॥२-८६-२०॥<br>
+आराम उद्यान सम्पूर्णाम् समाज उत्सव शालिनीम् ।<br>
+सुखिता विचरिष्यन्ति राज धानीम् पितुर् मम ॥२-८६-२१॥<br><br>
+</p><p>अपि सत्य प्रतिज्नेन सार्धम् कुशलिना वयम् ।<br>
+निवृत्ते समये ह्य् अस्मिन् सुखिताः प्रविशेमहि ॥२-८६-२२॥<br><br>
+</p><p>परिदेवयमानस्य तस्य एवम् सुमहात्मनः ।<br>
+तिष्ठतो राज पुत्रस्य शर्वरी सा अत्यवर्तत ॥२-८६-२३॥<br><br>
+</p><p>प्रभाते विमले सूर्ये कारयित्वा जटा उभौ ।<br>
+अस्मिन् भागीरथी तीरे सुखम् सम्तारितौ मया ॥२-८६-२४॥<br><br>
+</p><p>जटा धरौ तौ द्रुम चीर वाससौ ।<br>
+महा बलौ कुन्जर यूथप उपमौ ।<br>
+वर इषु चाप असि धरौ परम् तपौ ।<br>
+व्यवेक्षमाणौ सह सीतया गतौ ॥२-८६-२५॥<br><br>
+</p><p><br>
+</p><p><b>इति वाल्मीकि रामायणे आदि काव्ये अयोध्याकाण्डे षडशीतितमः सर्गः ॥२-८६॥</b><br><br>
+</p>
+<h2><span id=".E0.A4.B8.E0.A5.8D.E0.A4.B0.E0.A5.8B.E0.A4.A4.E0.A4.83"></span><span class="mw-headline" id="स्रोतः">स्रोतः</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83_%E0%A5%AE%E0%A5%AC&amp;action=edit&amp;section=1" title="सम्पादनविभागः: स्रोतः"><span>सम्पाद्यताम्</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>पाठकौ घनपाठी वि.श्रीरामः, घनपाठी हरिसीताराममूर्तिः च । <a rel="nofollow" class="external text" href="https://sanskrit.github.io/groups/dyuganga/projects/audio/ramayana-audio/index.html">अत्र</a>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2415
+Cached time: 20231016130752
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.013 seconds
+Real time usage: 0.024 seconds
+Preprocessor visited node count: 64/1000000
+Post‐expand include size: 1315/2097152 bytes
+Template argument size: 1356/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    1.965      1 फलकम्:Header
+100.00%    1.965      1 -total
+-->
+
+<!-- Saved in parser cache with key sawikisource:pcache:idhash:1331-0!canonical and timestamp 20231016130752 and revision id 313934. Rendering was triggered because: page-view
+ -->
