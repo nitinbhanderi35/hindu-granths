@@ -1,0 +1,2415 @@
+{
+  "name": "brahmasutra",
+  "name_hi": "।। ब्रह्मसूत्रभाष्यम् ।।",
+  "type": "folder",
+  "children": [
+    {
+      "name": "chapter_1",
+      "name_hi": "।। प्रथमोऽध्यायः ।।",
+      "type": "folder",
+      "children": [
+        {
+          "name": "quarter_1",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_3",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_42.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_43.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_4",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chapter_2",
+      "name_hi": "।। द्वितीयोऽध्यायः ।।",
+      "type": "folder",
+      "children": [
+        {
+          "name": "quarter_1",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_42.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_43.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_44.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_45.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_3",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_42.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_43.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_44.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_45.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_46.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_47.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_48.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_49.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_50.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_51.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_52.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_53.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_4",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chapter_3",
+      "name_hi": "।। तृतीयोऽध्यायः ।।",
+      "type": "folder",
+      "children": [
+        {
+          "name": "quarter_1",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_3",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_42.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_43.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_44.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_45.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_46.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_47.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_48.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_49.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_50.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_51.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_52.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_53.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_54.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_55.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_56.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_57.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_58.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_59.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_60.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_61.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_62.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_63.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_64.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_65.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_66.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_4",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_23.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_24.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_25.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_26.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_27.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_28.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_29.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_30.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_31.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_32.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_33.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_34.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_35.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_36.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_37.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_38.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_39.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_40.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_41.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_42.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_43.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_44.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_45.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_46.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_47.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_48.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_49.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_50.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_51.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_52.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chapter_4",
+      "name_hi": "।। चतुर्थोऽध्यायः ।।",
+      "type": "folder",
+      "children": [
+        {
+          "name": "quarter_1",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_3",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quarter_4",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sutra_0.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_1.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_10.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_11.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_12.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_13.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_14.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_15.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_16.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_17.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_18.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_19.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_2.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_20.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_21.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_22.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_3.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_4.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_5.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_6.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_7.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_8.txt",
+              "type": "file"
+            },
+            {
+              "name": "sutra_9.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
