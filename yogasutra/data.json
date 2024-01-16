@@ -1,21 +1,26 @@
 {
   "name": "yogasutra",
+  "name_hi": "योगसूत्र",
   "data": [
     {
       "id": "1",
-      "name": "chapter_1"
+      "name": "chapter_1",
+      "name_hi": "।। प्रथमोऽध्यायः ।।"
     },
     {
       "id": "2",
-      "name": "chapter_2"
+      "name": "chapter_2",
+      "name_hi": "।। द्वितीयोऽध्यायः ।।"
     },
     {
       "id": "2",
-      "name": "chapter_3"
+      "name": "chapter_3",
+      "name_hi": "।। तृतीयोऽध्यायः ।।"
     },
     {
       "id": "4",
-      "name": "chapter_4"
+      "name": "chapter_4",
+      "name_hi": "।। चतुर्थोऽध्यायः ।।"
     }
   ]
 }
