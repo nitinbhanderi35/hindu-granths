@@ -1,0 +1,21 @@
+{
+  "name": "yogasutra",
+  "data": [
+    {
+      "id": "1",
+      "name": "chapter_1"
+    },
+    {
+      "id": "2",
+      "name": "chapter_2"
+    },
+    {
+      "id": "2",
+      "name": "chapter_3"
+    },
+    {
+      "id": "4",
+      "name": "chapter_4"
+    }
+  ]
+}
