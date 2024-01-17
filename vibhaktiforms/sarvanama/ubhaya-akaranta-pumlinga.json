@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67248",
+      "key": "ubhaya-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः उभय-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67249",
+      "key": "ubhaya-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "उभयः|-|उभये|हे उभय|-|हे उभये|उभयम्|-|उभयान्|उभयेन|-|उभयैः|उभयस्मै|-|उभयेभ्यः|उभयस्मात्-उभयस्माद्|-|उभयेभ्यः|उभयस्य|-|उभयेषाम्|उभयस्मिन्|-|उभयेषु"
+    }
+  ]
+}

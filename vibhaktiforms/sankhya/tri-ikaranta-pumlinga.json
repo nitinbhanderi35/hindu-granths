@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67305",
+      "key": "tri-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "इकारान्तः पुंलिङ्गः त्रि-शब्दः 3"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67306",
+      "key": "tri-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|त्रयः|-|-|हे त्रयः|-|-|त्रीन्|-|-|त्रिभिः|-|-|त्रिभ्यः|-|-|त्रिभ्यः|-|-|त्रयाणाम्|-|-|त्रिषु"
+    }
+  ]
+}

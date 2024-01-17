@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67266",
+      "key": "yad-dakaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "दकारान्तः नपुंसकलिङ्गः यद्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67269",
+      "key": "yad-dakaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "यत्-यद्|ये|यानि|-|-|-|यत्-यद्|ये|यानि|येन|याभ्याम्|यैः|यस्मै|याभ्याम्|येभ्यः|यस्मात्-यस्माद्|याभ्याम्|येभ्यः|यस्य|ययोः|येषाम्|यस्मिन्|ययोः|येषु"
+    }
+  ]
+}

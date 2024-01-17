@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67244",
+      "key": "ubhaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "आकारान्तः स्त्रीलिङ्गः उभा-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67245",
+      "key": "ubhaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|उभे|-|-|हे उभे|-|-|उभे|-|-|उभाभ्याम्|-|-|उभाभ्याम्|-|-|उभाभ्याम्|-|-|उभयोः|-|-|उभयोः|-"
+    }
+  ]
+}

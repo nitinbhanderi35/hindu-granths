@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "66952",
+      "key": "vadhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "ऊकारान्तः स्त्रीलिङ्गः वधू-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormNotes",
+      "id": "67386",
+      "key": "vadhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "उदा, चमू, श्वश्रू"
+    },
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "66953",
+      "key": "vadhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "वधूः|वध्वौ|वध्वः|हे वधु|हे वध्वौ|हे वध्वः|वधूम्|वध्वौ|वधूः|वध्वा|वधूभ्याम्|वधूभिः|वध्वै|वधूभ्याम्|वधूभ्यः|वध्वाः|वधूभ्याम्|वधूभ्यः|वध्वाः|वध्वोः|वधूनाम्|वध्वाम्|वध्वोः|वधूषु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67325",
+      "key": "navan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "नकारान्तः पुंलिङ्गः नवन् 9 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67326",
+      "key": "navan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|नव|-|-|हे नव|-|-|नव|-|-|नवभिः|-|-|नवभ्यः|-|-|नवभ्यः|-|-|नवानाम्|-|-|नवसु"
+    }
+  ]
+}

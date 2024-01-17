@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67307",
+      "key": "tri-ikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "इकारान्तः स्त्रीलिङ्गः त्रि-शब्दः 3"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67308",
+      "key": "tri-ikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|तिस्रः|-|-|हे तिस्रः|-|-|तिस्रः|-|-|तिसृभिः|-|-|तिसृभ्यः|-|-|तिसृभ्यः|-|-|तिसृणाम्|-|-|तिसृषु"
+    }
+  ]
+}

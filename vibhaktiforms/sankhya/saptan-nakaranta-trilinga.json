@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67321",
+      "key": "saptan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "नकारान्तः पुंलिङ्गः सप्तन् 7 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67322",
+      "key": "saptan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|सप्त|-|-|हे सप्त|-|-|सप्त|-|-|सप्तभिः|-|-|सप्तभ्यः|-|-|सप्तभ्यः|-|-|सप्तानाम्|-|-|सप्तसु"
+    }
+  ]
+}

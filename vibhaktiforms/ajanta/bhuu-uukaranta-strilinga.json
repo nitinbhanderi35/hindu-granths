@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "66954",
+      "key": "bhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "ऊकारान्तः स्त्रीलिङ्गः भू-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormNotes",
+      "id": "67387",
+      "key": "bhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "उदा, भ्रू, सुभ्रू"
+    },
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "66955",
+      "key": "bhuu-uukaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "भूः|भुवौ|भुवः|हे भूः|हे भुवौ|हे भुवः|भुवम्|भुवौ|भुवः|भुवा|भूभ्याम्|भूभिः|भुवे-भुवै|भूभ्याम्|भूभ्यः|भुवाः-भुवः|भूभ्याम्|भूभ्यः|भुवाः-भुवः|भुवोः|भूणाम्-भुवाम्|भुवाम्-भुवि|भुवोः|भूषु"
+    }
+  ]
+}

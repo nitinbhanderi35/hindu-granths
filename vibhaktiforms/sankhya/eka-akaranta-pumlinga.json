@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67295",
+      "key": "eka-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः एक-शब्दः 1"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormNotes",
+      "id": "67380",
+      "key": "eka-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सङ्ख्याव्यतिरिक्तेषु अर्थेषु अस्य द्विवचनबहुवचने अपि रूपाणि 'सर्व' शब्दवद् भवन्ति।\n\nएक when means number 'one' is declined only in the singular (no dual, plural). But in other senses, it is declined in the Dual and Plural also.\n\nFor other meanings check एक in kosha.  "
+    },
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67296",
+      "key": "eka-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "एकः|-|-|-|-|-|एकम्|-|-|एकेन|-|-|एकस्मै|-|-|एकस्मात्-एकस्माद्|-|-|एकस्य|-|-|एकस्मिन्|-|-"
+    }
+  ]
+}

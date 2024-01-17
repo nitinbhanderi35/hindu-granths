@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67360",
+      "key": "se-ekaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "एकारान्तः पुंलिङ्गः से-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67361",
+      "key": "se-ekaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "से|सयौ|सयः|हे से|हे सयौ|हे सयः|सयम्|सयौ|सयः|सया|सेभ्याम्|सेभिः|सये|सेभ्याम्|सेभ्यः|सेः|सेभ्याम्|सेभ्यः|सेः|सयोः|सयाम्|सयि|सयोः|सेषु"
+    }
+  ]
+}

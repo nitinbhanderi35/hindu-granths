@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67309",
+      "key": "tri-ikaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "इकारान्तः नपुंसकलिङ्गः त्रि-शब्दः 3"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67310",
+      "key": "tri-ikaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|त्रीणि|-|-|हे त्रीणि|-|-|त्रीणि|-|-|त्रिभिः|-|-|त्रिभ्यः|-|-|त्रिभ्यः|-|-|त्रयाणाम्|-|-|त्रिषु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67277",
+      "key": "kim-makaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "मकारान्तः स्त्रीलिङ्गः किम्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67278",
+      "key": "kim-makaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "का|के|काः|-|-|-|काम्|के|काः|कया|काभ्याम्|काभिः|कस्यै|काभ्याम्|काभ्यः|कस्याः|काभ्याम्|काभ्यः|कस्याः|कयोः|कासाम्|कस्याम्|कयोः|कासु"
+    }
+  ]
+}

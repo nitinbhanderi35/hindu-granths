@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67313",
+      "key": "chatur-rephanta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "रेफान्तः स्त्रीलिङ्गः चतुर्-शब्दः 4"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67314",
+      "key": "chatur-rephanta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|चतस्रः|-||हे चतस्रः|-|-|चतस्रः|-|-|चतसृभिः|-|-|चतसृभ्यः|-|-|चतसृभ्यः|-|-|चतसृणाम्|-|-|चतसृषु"
+    }
+  ]
+}

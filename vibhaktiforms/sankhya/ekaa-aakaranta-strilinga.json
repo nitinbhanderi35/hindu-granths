@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67299",
+      "key": "ekaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "आकारान्तः स्त्रीलिङ्गः एका-शब्दः 1"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormNotes",
+      "id": "67381",
+      "key": "ekaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सङ्ख्याव्यतिरिक्तेषु अर्थेषु अस्य द्विवचनबहुवचने अपि रूपाणि 'सर्व' शब्दवद् भवन्ति।\n\nएक when means number 'one' is declined only in the singular (no dual, plural). But in other senses, it is declined in the Dual and Plural also.\n\nFor other meanings check एक in kosha."
+    },
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67300",
+      "key": "ekaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "एका|-|-|-|-|-|एकाम्|-|-|एकया|-|-|एकस्यै|-|-|एकस्याः|-|-|एकस्याः|-|-|एकस्याम्|-|-"
+    }
+  ]
+}

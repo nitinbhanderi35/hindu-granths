@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67293",
+      "key": "bhavat-takaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "हलन्तः",
+        "सर्वनाम"
+      ],
+      "text": "तकारान्तः नपुंसकलिङ्गः भवत्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67294",
+      "key": "bhavat-takaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "हलन्तः",
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "भवत्|भवती|भवन्ति|हे भवत्|हे भवती|हे भवन्ति|भवत्|भवती|भवन्ति|भवता|भवद्भ्याम्|भवद्भिः|भवते|भवद्भ्याम्|भवद्भ्यः|भवतः|भवद्भ्याम्|भवद्भ्यः|भवतः|भवतोः|भवताम्|भवति|भवतोः|भवत्सु"
+    }
+  ]
+}

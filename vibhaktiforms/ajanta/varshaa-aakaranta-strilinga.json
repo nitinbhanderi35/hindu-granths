@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67370",
+      "key": "varshaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "आकारान्तः स्त्रीलिङ्गः वर्षा-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67371",
+      "key": "varshaa-aakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|वर्षाः|-|-|हे वर्षाः|-|-|वर्षाः|-|-|वर्षाभिः|-|-|वर्षाभ्यः|-|-|वर्षाभ्यः|-|-|वर्षाणाम्|-|-|वर्षासु"
+    }
+  ]
+}

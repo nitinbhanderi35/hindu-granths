@@ -1,0 +1,1826 @@
+{
+  "name": "vibhaktiforms",
+  "name_hi": "विभक्ति",
+  "sections": [
+    {
+      "folder": "ajanta",
+      "id": 1,
+      "title": "अजन्त-शब्दाः",
+      "shabdas": [
+        {
+          "book": "VibhaktiForms",
+          "id": "67378",
+          "key": "dosha-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः दोष-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67376",
+          "key": "dvyahna-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः द्व्यह्न-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67374",
+          "key": "yuusha-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः यूष-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67372",
+          "key": "dyo-okaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ओकारान्तः स्त्रीलिङ्गः द्यो-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67370",
+          "key": "varshaa-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः स्त्रीलिङ्गः वर्षा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67368",
+          "key": "janau-aukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "औकारान्तः पुंलिङ्गः जनौ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67366",
+          "key": "smrto-okaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ओकारान्तः पुंलिङ्गः स्मृतो-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67364",
+          "key": "sudyo-okaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ओकारान्तः पुंलिङ्गः सुद्यो-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67362",
+          "key": "smrte-ekaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "एकारान्तः पुंलिङ्गः स्मृते-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67360",
+          "key": "se-ekaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "एकारान्तः पुंलिङ्गः से-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67358",
+          "key": "trr-rrkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ॠकारान्तः पुंलिङ्गः तॄ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67356",
+          "key": "krr-rrkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ॠकारान्तः पुंलिङ्गः कॄ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67354",
+          "key": "shaklr-lrkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऌकारान्तः पुंलिङ्गः शकॢ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67352",
+          "key": "gamlr-lrkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऌकारान्तः पुंलिङ्गः गमॢ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67350",
+          "key": "l-lrkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऌकारान्तः पुंलिङ्गः ऌ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67348",
+          "key": "atistri-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः अतिस्त्रि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67345",
+          "key": "priyatri-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः प्रियत्रि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67342",
+          "key": "i-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः इ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67340",
+          "key": "pratyeka-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः प्रत्येक-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67333",
+          "key": "jaara-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः जार-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67331",
+          "key": "daara-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः दार-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67329",
+          "key": "grha-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः गृह-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67030",
+          "key": "sudhii-iikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः नपुंसकलिङ्गः सुधी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67028",
+          "key": "vishvapaa-aakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः नपुंसकलिङ्गः विश्वपा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67026",
+          "key": "ajara-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः नपुंसकलिङ्गः अजर-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67024",
+          "key": "jaraa-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः स्त्रीलिङ्गः जरस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67022",
+          "key": "huuhuu-uukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः पुंलिङ्गः हूहू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67020",
+          "key": "svabhuu-uukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः पुंलिङ्गः स्वभू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67018",
+          "key": "varshaabhuu-uukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः पुंलिङ्गः वर्षाभू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67016",
+          "key": "kroshtu-ukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "उकारान्तः पुंलिङ्गः क्रोष्टु-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67014",
+          "key": "vaatapramii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः वातप्रमी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67012",
+          "key": "bahushreyasii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः बहुश्रेयसी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67010",
+          "key": "pradhii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः प्रधी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67008",
+          "key": "nii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः नी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67006",
+          "key": "sudhii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः सुधी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67004",
+          "key": "audulomi-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः औडुलोमि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67002",
+          "key": "pada-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः पाद-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67000",
+          "key": "nirjara-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः निर्जर-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66998",
+          "key": "aikshvaka-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः ऐक्ष्वाक-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66996",
+          "key": "graminii-iikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः पुंलिङ्गः ग्रामणी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66994",
+          "key": "haha-aakaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः पुंलिङ्गः हाहा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66992",
+          "key": "vishvapaa-aakaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः पुंलिङ्गः विश्वपा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66990",
+          "key": "a-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः पुंलिङ्गः अ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66988",
+          "key": "suluu-uukaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः नपुंसकलिङ्गः सुलू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66986",
+          "key": "sunau-aukaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "औकारान्तः नपुंसकलिङ्गः सुनौ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66984",
+          "key": "pradyo-okaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ओकारान्तः नपुंसकलिङ्गः प्रद्यो-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66982",
+          "key": "prarai-aikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऐकारान्तः नपुंसकलिङ्गः प्ररै-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66980",
+          "key": "susmrte-ekaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "एकारान्तः नपुंसकलिङ्गः सुस्मृते-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66978",
+          "key": "gaml-lkaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऌकारान्तः नपुंसकलिङ्गः गमॢ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66976",
+          "key": "daatru-rkaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऋकारान्तः नपुंसकलिङ्गः दातृ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66974",
+          "key": "laghu-ukaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "उकारान्तः नपुंसकलिङ्गः लघु-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66972",
+          "key": "madhu-ukaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "उकारान्तः नपुंसकलिङ्गः मधु-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66970",
+          "key": "suchi-ikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः नपुंसकलिङ्गः शुचि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66968",
+          "key": "dadhi-ikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः नपुंसकलिङ्गः दधि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66966",
+          "key": "vaari-ikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः नपुंसकलिङ्गः वारि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66964",
+          "key": "phala-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "अकारान्तः नपुंसकलिङ्गः फल-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66962",
+          "key": "nau-aukaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "औकारान्तः स्त्रीलिङ्गः नौ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66960",
+          "key": "rai-aikaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऐकारान्तः स्त्रीलिङ्गः रै-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66958",
+          "key": "maatr-rkaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऋकारान्तः स्त्रीलिङ्गः मातृ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66956",
+          "key": "svasr-rkaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऋकारान्तः स्त्रीलिङ्गः स्वसृ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66954",
+          "key": "bhuu-uukaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः स्त्रीलिङ्गः भू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66952",
+          "key": "vadhuu-uukaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऊकारान्तः स्त्रीलिङ्गः वधू-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66950",
+          "key": "dhenu-ukaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "उकारान्तः स्त्रीलिङ्गः धेनु-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66948",
+          "key": "stri-iikaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः स्त्रीलिङ्गः स्त्री-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66946",
+          "key": "shri-iikaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः स्त्रीलिङ्गः श्री-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66944",
+          "key": "nadi-iikaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ईकारान्तः स्त्रीलिङ्गः नदी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66942",
+          "key": "mati-ikaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः स्त्रीलिङ्गः मति-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66940",
+          "key": "rama-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "आकारान्तः स्त्रीलिङ्गः रमा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66938",
+          "key": "glau-aukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "औकारान्तः पुंलिङ्गः ग्लौ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66936",
+          "key": "go-aukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ओकारान्तः पुंलिङ्गः गो-शब्दः (स्त्रीलिङ्गः अपि)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66934",
+          "key": "rai-aikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऐकारान्तः पुंलिङ्गः रै-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66932",
+          "key": "pitru-rkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऋकारान्तः पुंलिङ्गः पितृ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66930",
+          "key": "datru-rkaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "ऋकारान्तः पुंलिङ्गः दातृ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66928",
+          "key": "guru-ukaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "उकारान्तः  पुंलिङ्गः गुरु-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66926",
+          "key": "sakhi-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः सखि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66924",
+          "key": "pati-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः पति-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66922",
+          "key": "hari-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः"],
+          "text": "इकारान्तः पुंलिङ्गः हरि-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "66915",
+          "key": "rama-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["अजन्तः", "पुंलिङ्गः"],
+          "text": "अकारान्तः पुंलिङ्गः राम-शब्दः"
+        }
+      ]
+    },
+    {
+      "folder": "halanta",
+      "id": 2,
+      "title": "हलन्त-शब्दाः",
+      "shabdas": [
+        {
+          "book": "VibhaktiForms",
+          "id": "67293",
+          "key": "bhavat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः", "सर्वनाम"],
+          "text": "तकारान्तः नपुंसकलिङ्गः भवत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67228",
+          "key": "druh-hakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः नपुंसकलिङ्गः द्रुह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67226",
+          "key": "duh-hakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः नपुंसकलिङ्गः दुह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67223",
+          "key": "tiryanch-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः तिर्यञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67220",
+          "key": "udanch-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः उदञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67217",
+          "key": "anvanch-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः अन्वञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67214",
+          "key": "pratyanch-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः प्रत्यञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67211",
+          "key": "pranch-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः प्राञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67209",
+          "key": "archis-sakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः स्त्रीलिङ्गः अर्चिस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67207",
+          "key": "ushnih-hakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः स्त्रीलिङ्गः उष्णिह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67205",
+          "key": "sajush-shakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः स्त्रीलिङ्गः सजुष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67203",
+          "key": "dvaar-rephanta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "रेफान्तः स्त्रीलिङ्गः द्वार्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67201",
+          "key": "anaduh-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः अनडुह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67199",
+          "key": "druh-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः द्रुह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67197",
+          "key": "duh-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः दुह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67195",
+          "key": "turasah-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः तुरासाह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67193",
+          "key": "vishvavah-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः विश्ववाह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67191",
+          "key": "anehas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः अनेहस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67189",
+          "key": "ushnas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः उशनस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67187",
+          "key": "rbhukshin-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः ऋभुक्षिन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67185",
+          "key": "deergahan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः दीर्घाहन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67183",
+          "key": "arvan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः अर्वन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67181",
+          "key": "vrtrahan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः वृत्रहन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67179",
+          "key": "puushan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः पूषन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67177",
+          "key": "rajan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः राजन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67175",
+          "key": "supad-dakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "दकारान्तः पुंलिङ्गः सुपाद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67173",
+          "key": "vishvaraj-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः विश्वराज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67171",
+          "key": "yunj-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः युञ्ज् -शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67169",
+          "key": "yuj-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः युज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67167",
+          "key": "vibhraj-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः विभ्राज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67165",
+          "key": "anvanch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः अन्वञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67163",
+          "key": "tiryanch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः तिर्यञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67161",
+          "key": "udanch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः उदञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67159",
+          "key": "pratyanch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः प्रत्यञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67156",
+          "key": "praanch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः प्राञ्च्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67153",
+          "key": "dhanush-shakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः नपुंसकलिङ्गः धनुष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67151",
+          "key": "havish-shakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः नपुंसकलिङ्गः हविष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67149",
+          "key": "manas-sakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः नपुंसकलिङ्गः मनस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67147",
+          "key": "sutvish-shakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः नपुंसकलिङ्गः सुत्विष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67145",
+          "key": "taadrsh-shakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः नपुंसकलिङ्गः तादृश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67143",
+          "key": "vaar-rephanta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "रेफान्तः नपुंसकलिङ्गः वार्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67141",
+          "key": "gunin-nakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः नपुंसकलिङ्गः गुणिन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67139",
+          "key": "ahan-nakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः नपुंसकलिङ्गः अहन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67137",
+          "key": "atman-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः आत्मन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67135",
+          "key": "bhrahman-nakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः नपुंसकलिङ्गः ब्रह्मन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67133",
+          "key": "naman-nakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः नपुंसकलिङ्गः नामन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67131",
+          "key": "hrud-dakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "दकारान्तः नपुंसकलिङ्गः हृद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67129",
+          "key": "mahat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः महत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67127",
+          "key": "tudat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः तुदत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67125",
+          "key": "dadat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः ददत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67123",
+          "key": "gatavat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः गतवत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67121",
+          "key": "pachat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः पचत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67119",
+          "key": "jagat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः नपुंसकलिङ्गः जगत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67117",
+          "key": "asrj-jakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः नपुंसकलिङ्गः असृज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67114",
+          "key": "suvach-chakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः नपुंसकलिङ्गः सुवाच्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67112",
+          "key": "upaanah-hakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः स्त्रीलिङ्गः उपानह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67110",
+          "key": "aashish-shakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः स्त्रीलिङ्गः आशिष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67108",
+          "key": "bhaas-sakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः स्त्रीलिङ्गः भास्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67106",
+          "key": "praavrsh-shakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः स्त्रीलिङ्गः प्रावृष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67104",
+          "key": "nish-shakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः स्त्रीलिङ्गः निश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67102",
+          "key": "div-vakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "वकारान्तः स्त्रीलिङ्गः दिव्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67100",
+          "key": "gir-rephanta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "रेफान्तः स्त्रीलिङ्गः गिर्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67098",
+          "key": "kakubh-bhakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "भकारान्तः स्त्रीलिङ्गः ककुभ्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67096",
+          "key": "ap-pakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "पकारान्तः स्त्रीलिङ्गः अप्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67094",
+          "key": "siiman-nakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः स्त्रीलिङ्गः सीमन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67092",
+          "key": "kshudh-dhakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "धकारान्तः स्त्रीलिङ्गः क्षुध्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67090",
+          "key": "aapad-dakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "दकारान्तः स्त्रीलिङ्गः आपद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67088",
+          "key": "sarit-takaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः स्त्रीलिङ्गः सरित्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67086",
+          "key": "sraj-jakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः स्त्रीलिङ्गः स्रज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67083",
+          "key": "dish-shakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः स्त्रीलिङ्गः दिश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67081",
+          "key": "vach-chakaranta-strilinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः स्त्रीलिङ्गः वाच्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67079",
+          "key": "lih-hakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "हकारान्तः पुंलिङ्गः लिह्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67077",
+          "key": "dosh-shakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः पुंलिङ्गः दोष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67075",
+          "key": "vidvas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः विद्वस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67073",
+          "key": "pums-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः पुंस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67071",
+          "key": "shreyas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः श्रेयस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67069",
+          "key": "vedhas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "सकारान्तः पुंलिङ्गः वेधस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67067",
+          "key": "dvish-shakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "षकारान्तः पुंलिङ्गः द्विष्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67065",
+          "key": "tadrush-shakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः पुंलिङ्गः तादृश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67063",
+          "key": "nash-shakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः पुंलिङ्गः नश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67061",
+          "key": "vish-shakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "शकारान्तः पुंलिङ्गः विश्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67059",
+          "key": "gunin-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः गुणिन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67057",
+          "key": "pathin-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः पथिन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67055",
+          "key": "maghavan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः मघवन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67053",
+          "key": "yuvan-nakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "नकारान्तः पुंलिङ्गः युवन्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67051",
+          "key": "suhrd-dakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "दकारान्तः पुंलिङ्गः सुहृद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67049",
+          "key": "bhavat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः", "सर्वनाम"],
+          "text": "तकारान्तः पुंलिङ्गः भवत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67047",
+          "key": "mahat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः महत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67045",
+          "key": "dhiimat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः धीमत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67043",
+          "key": "pacat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः पचत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67041",
+          "key": "jakshat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः जक्षत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67039",
+          "key": "dadat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः ददत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67037",
+          "key": "marut-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "तकारान्तः पुंलिङ्गः मरुत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67035",
+          "key": "raj-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः राज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67033",
+          "key": "vanij-jakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "जकारान्तः पुंलिङ्गः वणिज्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67032",
+          "key": "jalamuch-chakaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः"],
+          "text": "चकारान्तः पुंलिङ्गः जलमुच्-शब्दः"
+        }
+      ]
+    },
+    {
+      "folder": "sarvanama",
+      "id": 3,
+      "title": "सर्वनाम-शब्दाः",
+      "shabdas": [
+        {
+          "book": "VibhaktiForms",
+          "id": "67293",
+          "key": "bhavat-takaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["हलन्तः", "सर्वनाम"],
+          "text": "तकारान्तः नपुंसकलिङ्गः भवत्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67291",
+          "key": "adas-sakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "सकारान्तः नपुंसकलिङ्गः अदस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67289",
+          "key": "adas-sakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "सकारान्तः स्त्रीलिङ्गः अदस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67287",
+          "key": "adas-sakaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "सकारान्तः पुंलिङ्गः अदस्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67285",
+          "key": "idam-makaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः पुंलिङ्गः इदम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67283",
+          "key": "idam-makaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः स्त्रीलिङ्गः इदम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67281",
+          "key": "idam-makaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः नपुंसकलिङ्गः इदम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67279",
+          "key": "kim-makaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः नपुंसकलिङ्गः किम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67277",
+          "key": "kim-makaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः स्त्रीलिङ्गः किम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67275",
+          "key": "kim-makaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "मकारान्तः पुंलिङ्गः किम्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67272",
+          "key": "asmad-dakaranta-trilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः पुंलिङ्गः अस्मद्-शब्दः (स्त्रीलिङ्गः नपुंसकलिङ्गः च)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67271",
+          "key": "yushmad-dakaranta-trilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः पुंलिङ्गः युष्मद्-शब्दः (स्त्रीलिङ्गः नपुंसकलिङ्गः च)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67267",
+          "key": "etad-dakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः नपुंसकलिङ्गः एतद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67266",
+          "key": "yad-dakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः नपुंसकलिङ्गः यद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67265",
+          "key": "tad-dakaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः नपुंसकलिङ्गः तद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67261",
+          "key": "etad-dakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः स्त्रीलिङ्गः एतद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67260",
+          "key": "yad-dakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः स्त्रीलिङ्गः यद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67259",
+          "key": "tad-dakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः स्त्रीलिङ्गः तद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67254",
+          "key": "etad-dakaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः पुंलिङ्गः एतद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67253",
+          "key": "yad-dakaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः पुंलिङ्गः यद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67252",
+          "key": "tad-dakaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "दकारान्तः पुंलिङ्गः तद्-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67250",
+          "key": "ubhayii-iikaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "ईकारान्तः स्त्रीलिङ्गः उभयी-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67248",
+          "key": "ubhaya-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः पुंलिङ्गः उभय-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67246",
+          "key": "ubhaya-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः नपुंसकलिङ्गः उभय-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67244",
+          "key": "ubhaa-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "आकारान्तः स्त्रीलिङ्गः उभा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67242",
+          "key": "ubha-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः पुंलिङ्गः उभ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67240",
+          "key": "ubha-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः नपुंसकलिङ्गः उभ-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67238",
+          "key": "purva-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः नपुंसकलिङ्गः पूर्व-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67236",
+          "key": "purva-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः पुंलिङ्गः पूर्व-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67234",
+          "key": "sarva-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः नपुंसकलिङ्गः सर्व-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67232",
+          "key": "sarvaa-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "आकारान्तः स्त्रीलिङ्गः सर्वा-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67230",
+          "key": "sarva-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["सर्वनाम"],
+          "text": "अकारान्तः पुंलिङ्गः सर्व-शब्दः"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67049",
+          "key": "bhavat-takaranta-pumlinga",
+          "order": 1,
+          "tags": ["हलन्तः", "सर्वनाम"],
+          "text": "तकारान्तः पुंलिङ्गः भवत्-शब्दः"
+        }
+      ]
+    },
+    {
+      "folder": "sankhya",
+      "id": 4,
+      "title": "सङ्ख्या-शब्दाः",
+      "shabdas": [
+        {
+          "book": "VibhaktiForms",
+          "id": "67327",
+          "key": "kati-ikaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः पुंलिङ्गः कति (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67325",
+          "key": "navan-nakaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "नकारान्तः पुंलिङ्गः नवन् 9 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67323",
+          "key": "ashtan-nakaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "नकारान्तः पुंलिङ्गः अष्टन् 8 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67321",
+          "key": "saptan-nakaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "नकारान्तः पुंलिङ्गः सप्तन् 7 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67319",
+          "key": "shash-shakaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "षकारान्तः पुंलिङ्गः षष् 6 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67317",
+          "key": "panchan-nakaranta-trilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "नकारान्तः पुंलिङ्गः पञ्चन् 5 (स्त्रीलिङ्गः, नपुंसकलिङ्गः) "
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67315",
+          "key": "chatur-rephanta-napumsakalinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "रेफान्तः नपुंसकलिङ्गः चतुर्-शब्दः 4"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67313",
+          "key": "chatur-rephanta-strilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "रेफान्तः स्त्रीलिङ्गः चतुर्-शब्दः 4"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67311",
+          "key": "chatur-rephanta-pumlinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "रेफान्तः पुंलिङ्गः चतुर्-शब्दः 4"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67309",
+          "key": "tri-ikaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः नपुंसकलिङ्गः त्रि-शब्दः 3"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67307",
+          "key": "tri-ikaranta-strilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः स्त्रीलिङ्गः त्रि-शब्दः 3"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67305",
+          "key": "tri-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः पुंलिङ्गः त्रि-शब्दः 3"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67303",
+          "key": "dvi-ikaranta-strilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः स्त्रीलिङ्गः द्वि-शब्दः 2"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67301",
+          "key": "dvi-ikaranta-pumlinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "इकारान्तः पुंलिङ्गः द्वि-शब्दः 2 (नपुंसकलिङ्गः च)"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67299",
+          "key": "ekaa-aakaranta-strilinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "आकारान्तः स्त्रीलिङ्गः एका-शब्दः 1"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67297",
+          "key": "eka-akaranta-napumsakalinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "अकारान्तः नपुंसकलिङ्गः एक-शब्दः 1"
+        },
+        {
+          "book": "VibhaktiForms",
+          "id": "67295",
+          "key": "eka-akaranta-pumlinga",
+          "order": 1,
+          "tags": ["सङ्ख्या"],
+          "text": "अकारान्तः पुंलिङ्गः एक-शब्दः 1"
+        }
+      ]
+    }
+  ]
+}

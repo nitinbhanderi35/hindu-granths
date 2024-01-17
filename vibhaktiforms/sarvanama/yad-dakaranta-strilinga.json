@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67260",
+      "key": "yad-dakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "दकारान्तः स्त्रीलिङ्गः यद्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67264",
+      "key": "yad-dakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "या|ये|याः|-|-|-|याम्|ये|याः|यया|याभ्याम्|याभिः|यस्यै|याभ्याम्|याभ्यः|यस्याः|याभ्याम्|याभ्यः|यस्याः|ययोः|यासाम्|यस्याम्|ययोः|यासु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "66990",
+      "key": "a-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः अ-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "66991",
+      "key": "a-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "अः|औ|आः|हे अ|हे औ|हे आः|अम्|औ|आन्|एन|आभ्याम्|ऐः|आय|आभ्याम्|एभ्यः|आत्-आद्|आभ्याम्|एभ्यः|अस्य|अयोः|आनाम्|ए|अयोः|एषु"
+    }
+  ]
+}

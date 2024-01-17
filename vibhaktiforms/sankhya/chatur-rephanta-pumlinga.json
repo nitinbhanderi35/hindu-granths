@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67311",
+      "key": "chatur-rephanta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "रेफान्तः पुंलिङ्गः चतुर्-शब्दः 4"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67312",
+      "key": "chatur-rephanta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|चत्वारः|-|-|हे चत्वारः|-|-|चतुरः|-|-|चतुर्भिः|-|-|चतुर्भ्यः|-|-|चतुर्भ्यः|-|-|चतुर्णाम्-चतुर्ण्णाम्|-|-|चतुर्षु"
+    }
+  ]
+}

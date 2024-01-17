@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67329",
+      "key": "grha-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः गृह-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67330",
+      "key": "grha-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|गृहाः|-|-|हे गृहाः|-|-|गृहान्|-|-|गृहैः|-|-|गृहेभ्यः|-|-|गृहेभ्यः|-|-|गृहाणाम्|-|-|गृहेषु"
+    }
+  ]
+}

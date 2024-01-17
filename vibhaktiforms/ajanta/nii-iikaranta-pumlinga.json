@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67008",
+      "key": "nii-iikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "ईकारान्तः पुंलिङ्गः नी-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67009",
+      "key": "nii-iikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "विशेष-अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "नीः|नियौ|नियः|हे नीः|हे नियौ|हे नियः|नियम्|नियौ|नियः|निया|नीभ्याम्|नीभिः|निये|नीभ्याम्|नीभ्यः|नियः|नीभ्याम्|नीभ्यः|नियः|नियोः|नियाम्|नियाम्|नियोः|नीषु"
+    }
+  ]
+}

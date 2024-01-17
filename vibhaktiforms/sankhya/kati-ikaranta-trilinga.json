@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67327",
+      "key": "kati-ikaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "इकारान्तः पुंलिङ्गः कति (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67328",
+      "key": "kati-ikaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|कति|-|-|-|-|-|कति|-|-|कतिभिः|-|-|कतिभ्यः|-|-|कतिभ्यः|-|-|कतीनाम्|-|-|कतिषु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67331",
+      "key": "daara-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः दार-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67332",
+      "key": "daara-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|दाराः|-|-|हे दाराः|-|-|दारान्|-|-|दारैः|-|-|दारेभ्यः|-|-|दारेभ्यः|-|-|दाराणाम्|-|-|दारेषु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67281",
+      "key": "idam-makaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "मकारान्तः नपुंसकलिङ्गः इदम्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67282",
+      "key": "idam-makaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "इदम्|इमे|इमानि|-|-|-|इदम्-एनत्-एनद्|इमे-एने|इमानि-एनानि|अनेन-एनेन|आभ्याम्|एभिः|अस्मै|आभ्याम्|एभ्यः|अस्मात्-अस्माद्|आभ्याम्|एभ्यः|अस्य|अनयोः-एनयोः|एषाम्|अस्मिन्|अनयोः-एनयोः|एषु"
+    }
+  ]
+}

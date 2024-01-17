@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "66960",
+      "key": "rai-aikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "ऐकारान्तः स्त्रीलिङ्गः रै-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "66961",
+      "key": "rai-aikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "राः|रायौ|रायः|हे राः|हे रायौ|हे रायः|रायम्|रायौ|रायः|राया|राभ्याम्|राभिः|राये|राभ्याम्|राभ्यः|रायः|राभ्याम्|राभ्यः|रायः|रायोः|रायाम्|रायि|रायोः|रासु"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67250",
+      "key": "ubhayii-iikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "ईकारान्तः स्त्रीलिङ्गः उभयी-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67251",
+      "key": "ubhayii-iikaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "उभयी|-|उभय्यः|हे उभयि|-|हे उभय्यः|उभयीम्|-|उभयीः|उभय्या|-|उभयीभिः|उभय्यै|-|उभयीभ्यः|उभय्याः|-|उभयीभ्यः|उभय्याः|-|उभयीनाम्|उभय्याम्|-|उभयीषु"
+    }
+  ]
+}

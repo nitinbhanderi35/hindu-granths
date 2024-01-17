@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67279",
+      "key": "kim-makaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "मकारान्तः नपुंसकलिङ्गः किम्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67280",
+      "key": "kim-makaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "किम्|के|कानि|-|-|-|किम्|के|कानि|केन|काभ्याम्|कैः|कस्मै|काभ्याम्|केभ्यः|कस्मात्-कस्माद्|काभ्याम्|केभ्यः|कस्य|कयोः|केषाम्|कस्मिन्|कयोः|केषु"
+    }
+  ]
+}

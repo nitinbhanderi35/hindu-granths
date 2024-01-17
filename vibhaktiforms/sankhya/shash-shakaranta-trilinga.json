@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67319",
+      "key": "shash-shakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "षकारान्तः पुंलिङ्गः षष् 6 (स्त्रीलिङ्गः, नपुंसकलिङ्गः)"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67320",
+      "key": "shash-shakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|षट् |-|-|हे षट्|-|-|षट्|-|-|षड्भिः|-|-|षड्भ्यः|-|-|षड्भ्यः|-|-|षण्णाम्|-|-|षट्सु"
+    }
+  ]
+}

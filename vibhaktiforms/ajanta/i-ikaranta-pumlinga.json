@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67342",
+      "key": "i-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "इकारान्तः पुंलिङ्गः इ-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67343",
+      "key": "i-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "इः|ई|अयः|हे ए|हे ई|हे अयः|इम्|ई|ईन्|इना|इभ्याम्|इभिः|अये |इभ्याम्|इभ्यः|एः|इभ्याम्|इभ्यः|एः|योः|ईनाम्|औ|योः|इषु"
+    }
+  ]
+}

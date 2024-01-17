@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67265",
+      "key": "tad-dakaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "दकारान्तः नपुंसकलिङ्गः तद्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67270",
+      "key": "tad-dakaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "तत्-तद्|ते|तानि|-|-|-|तत्-तद्|ते|तानि|तेन|ताभ्याम्|तैः|तस्मै|ताभ्याम्|तेभ्यः|तस्मात्-तस्माद्|ताभ्याम्|तेभ्यः|तस्य|तयोः|तेषाम्|तस्मिन्|तयोः|तेषु"
+    }
+  ]
+}

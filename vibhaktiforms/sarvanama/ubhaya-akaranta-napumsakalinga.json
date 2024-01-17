@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67246",
+      "key": "ubhaya-akaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "अकारान्तः नपुंसकलिङ्गः उभय-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67247",
+      "key": "ubhaya-akaranta-napumsakalinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "उभयम्|-|उभयानि|हे उभय|-|हे उभयानि|उभयम्|-|उभयानि|उभयेन|-|उभयैः|उभयस्मै|-|उभयेभ्यः|उभयस्मात्-उभयस्माद्|-|उभयेभ्यः|उभयस्य|-|उभयेषाम्|उभयस्मिन्|-|उभयेषु"
+    }
+  ]
+}

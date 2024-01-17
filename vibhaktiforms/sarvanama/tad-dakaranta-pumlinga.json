@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67252",
+      "key": "tad-dakaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "दकारान्तः पुंलिङ्गः तद्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67258",
+      "key": "tad-dakaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सः|तौ|ते|-|-|-|तम्|तौ|तान्|तेन|ताभ्याम्|तैः|तस्मै|ताभ्याम्|तेभ्यः|तस्मात्-तस्माद्|ताभ्याम्|तेभ्यः|तस्य|तयोः|तेषाम्|तस्मिन्|तयोः|तेषु"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "66926",
+      "key": "sakhi-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "इकारान्तः पुंलिङ्गः सखि-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormNotes",
+      "id": "67344",
+      "key": "sakhi-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सुसखि शब्दस्यापि इमान्येव रूपाणि।"
+    },
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "66927",
+      "key": "sakhi-ikaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सखा|सखायौ|सखायः|हे सखे|हे सखायौ|हे सखायः|सखायम्|सखायौ|सखीन्|सख्या|सखिभ्याम्|सखिभिः|सख्ये|सखिभ्याम्|सखिभ्यः|सख्युः|सखिभ्याम्|सखिभ्यः|सख्युः|सख्योः|सखीनाम्|सख्यौ|सख्योः|सखिषु"
+    }
+  ]
+}

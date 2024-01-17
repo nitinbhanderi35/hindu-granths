@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67317",
+      "key": "panchan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या"
+      ],
+      "text": "नकारान्तः पुंलिङ्गः पञ्चन् 5 (स्त्रीलिङ्गः, नपुंसकलिङ्गः) "
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67318",
+      "key": "panchan-nakaranta-trilinga",
+      "order": 1,
+      "tags": [
+        "सङ्ख्या",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|पञ्च|-|-|हे पञ्च|-|-|पञ्च|-|-|पञ्चभिः|-|-|पञ्चभ्यः|-|-|पञ्चभ्यः|-|-|पञ्चानाम् |-|-|पञ्चसु"
+    }
+  ]
+}

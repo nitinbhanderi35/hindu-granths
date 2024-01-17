@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67333",
+      "key": "jaara-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः"
+      ],
+      "text": "अकारान्तः पुंलिङ्गः जार-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67334",
+      "key": "jaara-akaranta-pumlinga",
+      "order": 1,
+      "tags": [
+        "अजन्तः",
+        "Vibhakti Form Entry"
+      ],
+      "text": "-|-|जाराः|-|-|हे जाराः|-|-|जारान्|-|-|जारैः|-|-|जारेभ्यः|-|-|जारेभ्यः|-|-|जाराणाम्|-|-|जारेषु"
+    }
+  ]
+}

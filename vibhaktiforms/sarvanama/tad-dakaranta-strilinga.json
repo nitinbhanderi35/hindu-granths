@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "book": "VibhaktiForms",
+      "id": "67259",
+      "key": "tad-dakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम"
+      ],
+      "text": "दकारान्तः स्त्रीलिङ्गः तद्-शब्दः"
+    }
+  ],
+  "related": [
+    {
+      "book": "VibhaktiFormEntry",
+      "id": "67263",
+      "key": "tad-dakaranta-strilinga",
+      "order": 1,
+      "tags": [
+        "सर्वनाम",
+        "Vibhakti Form Entry"
+      ],
+      "text": "सा|ते|ताः|-|-|-|ताम्|ते|ताः|तया|ताभ्याम्|ताभिः|तस्यै|ताभ्याम्|ताभ्यः|तस्याः|ताभ्याम्|ताभ्यः|तस्याः|तयोः|तासाम्|तस्याम्|तयोः|तासु"
+    }
+  ]
+}
