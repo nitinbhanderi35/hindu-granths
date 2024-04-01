@@ -1,908 +1,915 @@
 [
   {
-    "name": "1_chapter",
-    "name_hi": "।। प्रथमोऽध्यायः ।।",
+    "name": "brahmasutra-sribhasyam",
+    "name_hi": "।। ब्रह्मसूत्रभाष्यम् श्रीभाष्यम् ।।",
     "type": "folder",
     "children": [
       {
-        "name": "1_quarter",
+        "name": "1_chapter",
+        "name_hi": "।। प्रथमोऽध्यायः ।।",
         "type": "folder",
         "children": [
           {
-            "name": "10_sutra.txt",
-            "name_hi": "जिज्ञासाधिकरणम्",
-            "type": "file"
+            "name": "1_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "जिज्ञासाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "11_sutra.txt",
+                "name_hi": "जन्माद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "शास्त्रयोनित्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "समन्वयाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "ईक्षत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "आनन्दमयाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "अन्तरधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "आकाशाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "प्राणाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "ज्योतिरधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "इन्द्रप्राणाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "11_sutra.txt",
-            "name_hi": "जन्माद्यधिकरणम्",
-            "type": "file"
+            "name": "2_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "12_sutra.txt",
+                "name_hi": "सर्वत्रप्रसिद्ध्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "13_sutra.txt",
+                "name_hi": "अत्त्रधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "14_sutra.txt",
+                "name_hi": "अन्तरधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "15_sutra.txt",
+                "name_hi": "अन्तर्याम्यिधकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "16_sutra.txt",
+                "name_hi": "अदृश्यत्वादिगुणकाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "17_sutra.txt",
+                "name_hi": "वैश्वानराधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "1_sutra.txt",
-            "name_hi": "शास्त्रयोनित्वाधिकरणम्",
-            "type": "file"
+            "name": "3_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "18_sutra.txt",
+                "name_hi": "द्युभ्वाद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "19_sutra.txt",
+                "name_hi": "भूमाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "20_sutra.txt",
+                "name_hi": "अक्षराधिकरम्",
+                "type": "file"
+              },
+              {
+                "name": "21_sutra.txt",
+                "name_hi": "ईक्षतिकर्माधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "22_sutra.txt",
+                "name_hi": "दहराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "23_sutra.txt",
+                "name_hi": "प्रमिताधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "24_sutra.txt",
+                "name_hi": "देवताधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "25_sutra.txt",
+                "name_hi": "मध्वधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "26A_sutra.txt",
+                "name_hi": "अपशूद्राधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "26_sutra.txt",
+                "name_hi": "प्रमिताधिकरणशेष",
+                "type": "file"
+              },
+              {
+                "name": "27_sutra.txt",
+                "name_hi": "अर्थान्तरत्वादिव्यपदेशाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "2_sutra.txt",
-            "name_hi": "समन्वयाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "ईक्षत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "आनन्दमयाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "अन्तरधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "आकाशाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "प्राणाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "ज्योतिरधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "इन्द्रप्राणाधिकरणम्",
-            "type": "file"
+            "name": "4_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "28_sutra.txt",
+                "name_hi": "आनुमानिकाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "29_sutra.txt",
+                "name_hi": "चमसाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "30_sutra.txt",
+                "name_hi": "संख्योपसंग्रहाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "31_sutra.txt",
+                "name_hi": "कारणत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "32_sutra.txt",
+                "name_hi": "जगद्वाचित्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "33_sutra.txt",
+                "name_hi": "वाक्यान्वयाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "34_sutra.txt",
+                "name_hi": "प्रकृत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "35_sutra.txt",
+                "name_hi": "सर्वव्याख्यानाधिकरणम्",
+                "type": "file"
+              }
+            ]
           }
         ]
       },
       {
-        "name": "2_quarter",
+        "name": "2_chapter",
+        "name_hi": "।। द्वितीयोऽध्यायः ।।",
         "type": "folder",
         "children": [
           {
-            "name": "12_sutra.txt",
-            "name_hi": "सर्वत्रप्रसिद्ध्यधिकरणम्",
-            "type": "file"
+            "name": "1_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "स्मृत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "योगप्रत्युक्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "विलक्षणत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "शिष्टापरिग्रहाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "भोक्त्रापत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "आरम्भणाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "इतरव्यपदेशाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "उपसंहारदर्शनाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "कृत्स्नप्रसक्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "प्रयोजनवत्त्वाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "13_sutra.txt",
-            "name_hi": "अत्त्रधिकरणम्",
-            "type": "file"
+            "name": "2_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "रचनानुपपत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "महद्दीर्घाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "समुदायाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "उपलब्ध्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "सर्वथानुपपत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "एकस्मिन्नसम्भवाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "पशुपत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "उत्पत्त्यसम्भवाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "14_sutra.txt",
-            "name_hi": "अन्तरधिकरणम्",
-            "type": "file"
+            "name": "3_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "वियदधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "तेजोधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "आत्माधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "ज्ञाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "कर्त्रधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "परायत्ताधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "अंशाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "15_sutra.txt",
-            "name_hi": "अन्तर्याम्यिधकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "16_sutra.txt",
-            "name_hi": "अदृश्यत्वादिगुणकाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "17_sutra.txt",
-            "name_hi": "वैश्वानराधिकरणम्",
-            "type": "file"
+            "name": "4_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "प्राणोत्पत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "सप्तगत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "प्राणाणुत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "वायुक्रियाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "श्रेष्ठाणुत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "ज्योतिराद्यधिष्ठानाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "इन्द्रियाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "संज्ञामूर्तिकॢप्त्यधिकरणम्",
+                "type": "file"
+              }
+            ]
           }
         ]
       },
       {
-        "name": "3_quarter",
+        "name": "3_chapter",
+        "name_hi": "।। तृतीयोऽध्यायः ।।",
         "type": "folder",
         "children": [
           {
-            "name": "18_sutra.txt",
-            "name_hi": "द्युभ्वाद्यधिकरणम्",
-            "type": "file"
+            "name": "1_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "तदन्तरप्रतिपत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "कृतात्ययाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "अनिष्टादिकार्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "तत्स्वाभाव्यापत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "नातिचिराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "अन्याधिष्ठिताधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "19_sutra.txt",
-            "name_hi": "भूमाधिकरणम्",
-            "type": "file"
+            "name": "2_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "सन्ध्याधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "तदभावाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "कर्मानुस्मृतिशब्दविध्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "मुग्धाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "उभयलिङ्गाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "अहिकुण्डलाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "पराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "फलाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "20_sutra.txt",
-            "name_hi": "अक्षराधिकरम्",
-            "type": "file"
+            "name": "3_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "सर्ववेदान्तप्रत्ययाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "11_sutra.txt",
+                "name_hi": "अन्यथात्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "12_sutra.txt",
+                "name_hi": "सर्वाभेदाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "13_sutra.txt",
+                "name_hi": "आनन्दाद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "14_sutra.txt",
+                "name_hi": "कार्याख्यानाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "15_sutra.txt",
+                "name_hi": "समानाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "16_sutra.txt",
+                "name_hi": "सम्बन्धाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "17_sutra.txt",
+                "name_hi": "सम्भृत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "18_sutra.txt",
+                "name_hi": "पुरुषविद्याधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "19_sutra.txt",
+                "name_hi": "वेधाद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "हान्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "20_sutra.txt",
+                "name_hi": "साम्परायाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "21_sutra.txt",
+                "name_hi": "अनियमाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "22_sutra.txt",
+                "name_hi": "अक्षरध्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "23_sutra.txt",
+                "name_hi": "अन्तरत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "24_sutra.txt",
+                "name_hi": "कामाद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "25_sutra.txt",
+                "name_hi": "तन्निर्धारणानियमाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "26_sutra.txt",
+                "name_hi": "प्रदानाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "लिङ्गभूयस्त्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "पूर्वविकल्पाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "शरीरेभावाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "अङ्गावबद्धाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "भूमज्यायस्त्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "शब्दादिभेदाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "विकल्पाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "यथाश्रयभावाधिकरणम्",
+                "type": "file"
+              }
+            ]
           },
           {
-            "name": "21_sutra.txt",
-            "name_hi": "ईक्षतिकर्माधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "22_sutra.txt",
-            "name_hi": "दहराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "23_sutra.txt",
-            "name_hi": "प्रमिताधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "24_sutra.txt",
-            "name_hi": "देवताधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "25_sutra.txt",
-            "name_hi": "मध्वधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "26A_sutra.txt",
-            "name_hi": "अपशूद्राधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "26_sutra.txt",
-            "name_hi": "प्रमिताधिकरणशेष",
-            "type": "file"
-          },
-          {
-            "name": "27_sutra.txt",
-            "name_hi": "अर्थान्तरत्वादिव्यपदेशाधिकरणम्",
-            "type": "file"
+            "name": "4_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "पुरुषार्थाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "11_sutra.txt",
+                "name_hi": "स्तुतिमात्राधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "12_sutra.txt",
+                "name_hi": "पारिप्लवार्थाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "13_sutra.txt",
+                "name_hi": "अग्नीन्धनाद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "14_sutra.txt",
+                "name_hi": "सर्वापेक्षाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "15_sutra.txt",
+                "name_hi": "शमदमद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "सर्वान्नानुमत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "विहितत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "विधुराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "तद्भूताधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "स्वाम्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "सहकार्यन्तरविध्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "अनाविष्काराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "ऐहिकाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "मुक्तिफलाधिकरणम्",
+                "type": "file"
+              }
+            ]
           }
         ]
       },
       {
-        "name": "4_quarter",
+        "name": "4_chapter",
+        "name_hi": "।। चतुर्थोऽध्यायः ।।",
         "type": "folder",
         "children": [
           {
-            "name": "28_sutra.txt",
-            "name_hi": "आनुमानिकाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "29_sutra.txt",
-            "name_hi": "चमसाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "30_sutra.txt",
-            "name_hi": "संख्योपसंग्रहाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "31_sutra.txt",
-            "name_hi": "कारणत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "32_sutra.txt",
-            "name_hi": "जगद्वाचित्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "33_sutra.txt",
-            "name_hi": "वाक्यान्वयाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "34_sutra.txt",
-            "name_hi": "प्रकृत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "35_sutra.txt",
-            "name_hi": "सर्वव्याख्यानाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "2_chapter",
-    "name_hi": "।। द्वितीयोऽध्यायः ।।",
-    "type": "folder",
-    "children": [
-      {
-        "name": "1_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "10_sutra.txt",
-            "name_hi": "स्मृत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "योगप्रत्युक्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "विलक्षणत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "शिष्टापरिग्रहाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "भोक्त्रापत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "आरम्भणाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "इतरव्यपदेशाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "उपसंहारदर्शनाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "कृत्स्नप्रसक्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "प्रयोजनवत्त्वाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "2_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "रचनानुपपत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "महद्दीर्घाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "समुदायाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "उपलब्ध्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "सर्वथानुपपत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "एकस्मिन्नसम्भवाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "पशुपत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "उत्पत्त्यसम्भवाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "3_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "वियदधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "तेजोधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "आत्माधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "ज्ञाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "कर्त्रधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "परायत्ताधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "अंशाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "4_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "प्राणोत्पत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "सप्तगत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "प्राणाणुत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "वायुक्रियाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "श्रेष्ठाणुत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "ज्योतिराद्यधिष्ठानाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "इन्द्रियाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "संज्ञामूर्तिकॢप्त्यधिकरणम्",
-            "type": "file"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "3_chapter",
-    "name_hi": "।। तृतीयोऽध्यायः ।।",
-    "type": "folder",
-    "children": [
-      {
-        "name": "1_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "तदन्तरप्रतिपत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "कृतात्ययाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "अनिष्टादिकार्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "तत्स्वाभाव्यापत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "नातिचिराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "अन्याधिष्ठिताधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "2_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "सन्ध्याधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "तदभावाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "कर्मानुस्मृतिशब्दविध्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "मुग्धाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "उभयलिङ्गाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "अहिकुण्डलाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "पराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "फलाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "3_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "10_sutra.txt",
-            "name_hi": "सर्ववेदान्तप्रत्ययाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "11_sutra.txt",
-            "name_hi": "अन्यथात्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "12_sutra.txt",
-            "name_hi": "सर्वाभेदाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "13_sutra.txt",
-            "name_hi": "आनन्दाद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "14_sutra.txt",
-            "name_hi": "कार्याख्यानाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "15_sutra.txt",
-            "name_hi": "समानाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "16_sutra.txt",
-            "name_hi": "सम्बन्धाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "17_sutra.txt",
-            "name_hi": "सम्भृत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "18_sutra.txt",
-            "name_hi": "पुरुषविद्याधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "19_sutra.txt",
-            "name_hi": "वेधाद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "हान्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "20_sutra.txt",
-            "name_hi": "साम्परायाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "21_sutra.txt",
-            "name_hi": "अनियमाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "22_sutra.txt",
-            "name_hi": "अक्षरध्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "23_sutra.txt",
-            "name_hi": "अन्तरत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "24_sutra.txt",
-            "name_hi": "कामाद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "25_sutra.txt",
-            "name_hi": "तन्निर्धारणानियमाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "26_sutra.txt",
-            "name_hi": "प्रदानाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "लिङ्गभूयस्त्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "पूर्वविकल्पाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "शरीरेभावाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "अङ्गावबद्धाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "भूमज्यायस्त्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "शब्दादिभेदाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "विकल्पाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "यथाश्रयभावाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "4_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "10_sutra.txt",
-            "name_hi": "पुरुषार्थाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "11_sutra.txt",
-            "name_hi": "स्तुतिमात्राधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "12_sutra.txt",
-            "name_hi": "पारिप्लवार्थाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "13_sutra.txt",
-            "name_hi": "अग्नीन्धनाद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "14_sutra.txt",
-            "name_hi": "सर्वापेक्षाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "15_sutra.txt",
-            "name_hi": "शमदमद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "सर्वान्नानुमत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "विहितत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "विधुराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "तद्भूताधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "स्वाम्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "सहकार्यन्तरविध्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "अनाविष्काराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "ऐहिकाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "मुक्तिफलाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "4_chapter",
-    "name_hi": "।। चतुर्थोऽध्यायः ।।",
-    "type": "folder",
-    "children": [
-      {
-        "name": "1_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "10_sutra.txt",
-            "name_hi": "आवृत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "11_sutra.txt",
-            "name_hi": "आत्मत्वोपासनाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "प्रतीकाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "आदित्यादिमत्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "आसीनाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "आप्रयाणाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "तदधिगमाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "इतराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "अनारब्धकार्याधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "अग्निहोत्राद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "इतरक्षपणाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "2_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "10_sutra.txt",
-            "name_hi": "वागधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "11_sutra.txt",
-            "name_hi": "मनोऽधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "अध्यक्षाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "भूताधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "आसृत्युपक्रमाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "परसम्पत्त्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "अविभागाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "तदोकोऽधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "7_sutra.txt",
-            "name_hi": "रश्म्यनुसाराधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "8_sutra.txt",
-            "name_hi": "निशाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "9_sutra.txt",
-            "name_hi": "दक्षिणायनाधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "3_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "अर्चिराद्यधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "वाय्वधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "वरुणाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "आतिवाहिकाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "कार्याधिकरणम्",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "4_quarter",
-        "type": "folder",
-        "children": [
-          {
-            "name": "1_sutra.txt",
-            "name_hi": "सम्पद्याविर्भावाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "2_sutra.txt",
-            "name_hi": "अविभागेनदृष्टत्वाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "3_sutra.txt",
-            "name_hi": "ब्राह्माधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "4_sutra.txt",
-            "name_hi": "सङ्कल्पाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "5_sutra.txt",
-            "name_hi": "अभावाधिकरणम्",
-            "type": "file"
-          },
-          {
-            "name": "6_sutra.txt",
-            "name_hi": "जगद्व्यापारवर्जाधिकरणम्",
-            "type": "file"
+            "name": "1_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "आवृत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "11_sutra.txt",
+                "name_hi": "आत्मत्वोपासनाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "प्रतीकाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "आदित्यादिमत्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "आसीनाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "आप्रयाणाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "तदधिगमाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "इतराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "अनारब्धकार्याधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "अग्निहोत्राद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "इतरक्षपणाधिकरणम्",
+                "type": "file"
+              }
+            ]
+          },
+          {
+            "name": "2_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "10_sutra.txt",
+                "name_hi": "वागधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "11_sutra.txt",
+                "name_hi": "मनोऽधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "अध्यक्षाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "भूताधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "आसृत्युपक्रमाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "परसम्पत्त्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "अविभागाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "तदोकोऽधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "7_sutra.txt",
+                "name_hi": "रश्म्यनुसाराधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "8_sutra.txt",
+                "name_hi": "निशाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "9_sutra.txt",
+                "name_hi": "दक्षिणायनाधिकरणम्",
+                "type": "file"
+              }
+            ]
+          },
+          {
+            "name": "3_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "अर्चिराद्यधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "वाय्वधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "वरुणाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "आतिवाहिकाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "कार्याधिकरणम्",
+                "type": "file"
+              }
+            ]
+          },
+          {
+            "name": "4_quarter",
+            "type": "folder",
+            "children": [
+              {
+                "name": "1_sutra.txt",
+                "name_hi": "सम्पद्याविर्भावाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "2_sutra.txt",
+                "name_hi": "अविभागेनदृष्टत्वाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "3_sutra.txt",
+                "name_hi": "ब्राह्माधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "4_sutra.txt",
+                "name_hi": "सङ्कल्पाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "5_sutra.txt",
+                "name_hi": "अभावाधिकरणम्",
+                "type": "file"
+              },
+              {
+                "name": "6_sutra.txt",
+                "name_hi": "जगद्व्यापारवर्जाधिकरणम्",
+                "type": "file"
+              }
+            ]
           }
         ]
       }
