@@ -10,6 +10,7 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -71,6 +72,7 @@
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -107,6 +109,7 @@
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -168,6 +171,7 @@
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -221,6 +225,7 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -277,6 +282,7 @@
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -323,6 +329,7 @@
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -364,6 +371,7 @@
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -417,6 +425,7 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -453,6 +462,7 @@
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -499,6 +509,7 @@
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -635,6 +646,7 @@
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -723,6 +735,7 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -784,6 +797,7 @@
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -845,6 +859,7 @@
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
@@ -876,6 +891,7 @@
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {

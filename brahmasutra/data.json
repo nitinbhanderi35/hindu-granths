@@ -10,576 +10,718 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "42_sutra",
+              "name_hi": "।। ४२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "43_sutra",
+              "name_hi": "।। ४३ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             }
           ]
@@ -593,668 +735,833 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "42_sutra",
+              "name_hi": "।। ४२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "43_sutra",
+              "name_hi": "।। ४३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "44_sutra",
+              "name_hi": "।। ४४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "45_sutra",
+              "name_hi": "।। ४५ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "42_sutra",
+              "name_hi": "।। ४२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "43_sutra",
+              "name_hi": "।। ४३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "44_sutra",
+              "name_hi": "।। ४४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "45_sutra",
+              "name_hi": "।। ४५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "46_sutra",
+              "name_hi": "।। ४६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "47_sutra",
+              "name_hi": "।। ४७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "48_sutra",
+              "name_hi": "।। ४८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "49_sutra",
+              "name_hi": "।। ४९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "50_sutra",
+              "name_hi": "।। ५० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "51_sutra",
+              "name_hi": "।। ५१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "52_sutra",
+              "name_hi": "।। ५२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "53_sutra",
+              "name_hi": "।। ५३ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             }
           ]
@@ -1268,784 +1575,978 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "42_sutra",
+              "name_hi": "।। ४२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "43_sutra",
+              "name_hi": "।। ४३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "44_sutra",
+              "name_hi": "।। ४४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "45_sutra",
+              "name_hi": "।। ४५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "46_sutra",
+              "name_hi": "।। ४६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "47_sutra",
+              "name_hi": "।। ४७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "48_sutra",
+              "name_hi": "।। ४८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "49_sutra",
+              "name_hi": "।। ४९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "50_sutra",
+              "name_hi": "।। ५० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "51_sutra",
+              "name_hi": "।। ५१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "52_sutra",
+              "name_hi": "।। ५२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "53_sutra",
+              "name_hi": "।। ५३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "54_sutra",
+              "name_hi": "।। ५४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "55_sutra",
+              "name_hi": "।। ५५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "56_sutra",
+              "name_hi": "।। ५६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "57_sutra",
+              "name_hi": "।। ५७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "58_sutra",
+              "name_hi": "।। ५८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "59_sutra",
+              "name_hi": "।। ५९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "60_sutra",
+              "name_hi": "।। ६० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "61_sutra",
+              "name_hi": "।। ६१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "62_sutra",
+              "name_hi": "।। ६२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "63_sutra",
+              "name_hi": "।। ६३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "64_sutra",
+              "name_hi": "।। ६४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "65_sutra",
+              "name_hi": "।। ६५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "66_sutra",
+              "name_hi": "।। ६६ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "23_sutra",
+              "name_hi": "।। २३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "24_sutra",
+              "name_hi": "।। २४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "25_sutra",
+              "name_hi": "।। २५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "26_sutra",
+              "name_hi": "।। २६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "27_sutra",
+              "name_hi": "।। २७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "28_sutra",
+              "name_hi": "।। २८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "29_sutra",
+              "name_hi": "।। २९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "30_sutra",
+              "name_hi": "।। ३० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "31_sutra",
+              "name_hi": "।। ३१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "32_sutra",
+              "name_hi": "।। ३२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "33_sutra",
+              "name_hi": "।। ३३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "34_sutra",
+              "name_hi": "।। ३४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "35_sutra",
+              "name_hi": "।। ३५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "36_sutra",
+              "name_hi": "।। ३६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "37_sutra",
+              "name_hi": "।। ३७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "38_sutra",
+              "name_hi": "।। ३८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "39_sutra",
+              "name_hi": "।। ३९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "40_sutra",
+              "name_hi": "।। ४० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "41_sutra",
+              "name_hi": "।। ४१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "42_sutra",
+              "name_hi": "।। ४२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "43_sutra",
+              "name_hi": "।। ४३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "44_sutra",
+              "name_hi": "।। ४४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "45_sutra",
+              "name_hi": "।। ४५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "46_sutra",
+              "name_hi": "।। ४६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "47_sutra",
+              "name_hi": "।। ४७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "48_sutra",
+              "name_hi": "।। ४८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "49_sutra",
+              "name_hi": "।। ४९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "50_sutra",
+              "name_hi": "।। ५० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "51_sutra",
+              "name_hi": "।। ५१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "52_sutra",
+              "name_hi": "।। ५२ सूत्र ।।",
               "type": "file"
             }
           ]
@@ -2059,352 +2560,438 @@
       "children": [
         {
           "name": "1_quarter",
+          "name_hi": "।। १ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "2_quarter",
+          "name_hi": "।। २ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "3_quarter",
+          "name_hi": "।। ३ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             }
           ]
         },
         {
           "name": "4_quarter",
+          "name_hi": "।। ४ पद ।।",
           "type": "folder",
           "children": [
             {
               "name": "0_sutra",
+              "name_hi": "।। ० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "1_sutra",
+              "name_hi": "।। १ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "2_sutra",
+              "name_hi": "।। २ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "3_sutra",
+              "name_hi": "।। ३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "4_sutra",
+              "name_hi": "।। ४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "5_sutra",
+              "name_hi": "।। ५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "6_sutra",
+              "name_hi": "।। ६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "7_sutra",
+              "name_hi": "।। ७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "8_sutra",
+              "name_hi": "।। ८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "9_sutra",
+              "name_hi": "।। ९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "10_sutra",
+              "name_hi": "।। १० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "11_sutra",
+              "name_hi": "।। ११ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "12_sutra",
+              "name_hi": "।। १२ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "13_sutra",
+              "name_hi": "।। १३ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "14_sutra",
+              "name_hi": "।। १४ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "15_sutra",
+              "name_hi": "।। १५ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "16_sutra",
+              "name_hi": "।। १६ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "17_sutra",
+              "name_hi": "।। १७ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "18_sutra",
+              "name_hi": "।। १८ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "19_sutra",
+              "name_hi": "।। १९ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "20_sutra",
+              "name_hi": "।। २० सूत्र ।।",
               "type": "file"
             },
             {
               "name": "21_sutra",
+              "name_hi": "।। २१ सूत्र ।।",
               "type": "file"
             },
             {
               "name": "22_sutra",
+              "name_hi": "।। २२ सूत्र ।।",
               "type": "file"
             }
           ]
