@@ -30,6 +30,7 @@
       "id": 1,
       "folder": "pada-1",
       "title": "प्रथमः समाधिपादः",
+      "audio_url": "https://archive.org/download/yogasutra_audio/yogasutra1.mp3",
       "max": 51,
       "sutras": [
         {
@@ -446,6 +447,7 @@
       "id": 2,
       "folder": "pada-2",
       "title": "द्वितीयः साधनपादः",
+      "audio_url": "https://archive.org/download/yogasutra_audio/yogasutra2.mp3",
       "max": 55,
       "sutras": [
         {
@@ -894,6 +896,7 @@
       "id": 3,
       "folder": "pada-3",
       "title": "तृतीयः विभूतिपादः",
+      "audio_url": "https://archive.org/download/yogasutra_audio/yogasutra3.mp3",
       "max": 55,
       "sutras": [
         {
@@ -1342,6 +1345,7 @@
       "id": 4,
       "folder": "pada-4",
       "title": "चतुर्थः कैवल्यपादः",
+      "audio_url": "https://archive.org/download/yogasutra_audio/yogasutra4.mp3",
       "max": 34,
       "sutras": [
         {
