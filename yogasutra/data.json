@@ -14,16 +14,43 @@
     "YS_Com_YogaValliBhashyam"
   ],
   "related": {
-    "YS_Com_VyasaBhashya": "Vyasa Bhashyam",
-    "YS_Com_RajaMartandaBhashya": "Raja Martanda by Boja Deva",
-    "YS_Com_ManiPrabha": "Mani Prabha by Ramananda Sarasvati",
-    "YS_Com_Pradipika": "Pradipika by Bhava Ganesha",
-    "YS_Com_SiddhantaChandrika": "Yoga Siddhanta Chandrika by Narayana Tirtha",
-    "YS_Com_SutrarthaBodhini": "Sutrartha Bodhini by Narayana Tirtha",
-    "YS_Com_Vritti": "Vritti by Nagoji Bhatta",
-    "YS_Com_YogaSudhakara": "Yoga Sudhakarah by Sadasivendra Sarasvati",
-    "YS_Com_YogaChandrika": "Yoga Chandrika by Ananda Deva Pandita",
-    "YS_Com_YogaValliBhashyam": "Yoga Valli Vyakhya by Tirumalai Krishnamacharya"
+    "YS_Com_VyasaBhashya": { "en": "Vyasa Bhashyam", "hi": "व्यासभाष्यम्" },
+    "YS_Com_RajaMartandaBhashya": {
+      "en": "Raja Martanda by Boja Deva",
+      "hi": "राजमार्तण्डः - भोजदेवविरचितः"
+    },
+    "YS_Com_ManiPrabha": {
+      "en": "Mani Prabha by Ramananda Sarasvati",
+      "hi": "मणिप्रभा - रामानन्दसरस्वतिकृता"
+    },
+    "YS_Com_Pradipika": {
+      "en": "Pradipika by Bhava Ganesha",
+      "hi": "प्रदीपिका - भावगणेशप्रणीता"
+    },
+    "YS_Com_SiddhantaChandrika": {
+      "en": "Yoga Siddhanta Chandrika by Narayana Tirtha",
+      "hi": "योगसिद्धान्तचन्द्रिका - नारायणतीर्थरचिता"
+    },
+    "YS_Com_SutrarthaBodhini": {
+      "en": "Sutrartha Bodhini by Narayana Tirtha",
+      "hi": "सूत्रार्थबोधिनी - नारायणतीर्थविरचिता"
+    },
+    "YS_Com_Vritti": {
+      "en": "Vritti by Nagoji Bhatta",
+      "hi": "वृत्तिः - नागोजिभट्टकृता"
+    },
+    "YS_Com_YogaSudhakara": {
+      "en": "Yoga Sudhakarah by Sadasivendra Sarasvati",
+      "hi": "योगसुधाकरः - सदाशिवेन्द्रसरस्वतिप्रणीतः"
+    },
+    "YS_Com_YogaChandrika": {
+      "en": "Yoga Chandrika by Ananda Deva Pandita",
+      "hi": "योगचन्द्रिका - आनन्ददेवपण्डितरचिता"
+    },
+    "YS_Com_YogaValliBhashyam": {
+      "en": "Yoga Valli Vyakhya by Tirumalai Krishnamacharya",
+      "hi": "योगवल्लीव्याख्या - तिरुमलाईकृष्णमाचार्यविरचिता"
+    }
   },
   "sections": [
     {
